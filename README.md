@@ -1,11 +1,13 @@
 <p align="center">
   <img
     alt="Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=pers0n4&theme=material-palenight&show_icons=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=pers0n4&theme=material-palenight&show_icons=true&hide_border=true&include_all_commits=true&line_height=24"
+    height="190"
   />
   <img
     alt="Top Langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=pers0n4&theme=material-palenight&layout=compact&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=pers0n4&theme=material-palenight&hide_border=true&layout=compact&langs_count=8"
+    height="190"
   />
 </p>
 
