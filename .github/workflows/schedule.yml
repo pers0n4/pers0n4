@@ -1,4 +1,4 @@
-name: Update gist
+name: Update gists
 on:
   push:
     branches:
@@ -6,13 +6,24 @@ on:
   schedule:
     - cron: "0 0 * * *"
 jobs:
-  update-gist:
+  update-productive:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Update gist
+      - name: Update productive-box
         uses: maxam2017/productive-box@master
         env:
-          GH_TOKEN: ${{ secrets.TOKEN }}
-          GIST_ID: ${{ secrets.GIST }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: ${{ secrets.BOX_PRODUCTIVE }}
           TIMEZONE: Asia/Seoul
+
+  update-waka:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update waka-box
+        uses: matchai/waka-box@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: ${{ secrets.BOX_WAKATIME }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
