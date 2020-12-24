@@ -1,0 +1,27 @@
+name: Update pinned-gist
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  waka-box:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Update waka-box
+        uses: matchai/waka-box@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: 0095e6902087ee0719885cfdacd32f9a
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+  productive-box:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Update productive-box
+        uses: maxam2017/productive-box@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: 9a2d58fbade343068076e29965c88d82
+          TIMEZONE: Asia/Seoul
