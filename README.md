@@ -46,7 +46,7 @@
 [![Storybook](https://img.shields.io/static/v1?label=&message=Storybook&style=flat-square&logo=storybook&logoColor=ff4785&color=ff4785&labelColor=424242)](https://storybook.js.org/)
 [![Swagger](https://img.shields.io/static/v1?label=&message=Swagger&style=flat-square&logo=swagger&logoColor=85ea2d&color=85ea2d&labelColor=424242)](https://swagger.io/)
 
-## Databases & ML
+## Data & ML
 
 [![MariaDB](https://img.shields.io/static/v1?label=&message=MariaDB&style=flat-square&logo=mariadb&logoColor=003545&color=003545&labelColor=eee)](https://mariadb.org/)
 [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&style=flat-square&logo=mongodb&logoColor=47a248&color=47a248&labelColor=424242)](https://www.mongodb.com/)
