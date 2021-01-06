@@ -49,8 +49,8 @@
 ## Data & ML
 
 [![MariaDB]](https://mariadb.org/)
-[![MongoDB]](https://www.mongodb.com/)
 [![PostgreSQL]](https://www.postgresql.org/)
+[![MongoDB]](https://www.mongodb.com/)
 [![Redis]](https://redis.io/)
 
 [![Tensorflow]](https://www.tensorflow.org/)
@@ -60,66 +60,70 @@
 
 ## DevOps & Tools
 
-[![VSCode]](https://eslint.org/)
-[![ESLint]](https://eslint.org/)
-[![Prettier]](https://prettier.io/)
-[![Yarn]](https://yarnpkg.com/)
-
+[![AWS]](https://aws.amazon.com/)
+[![GCP]](https://cloud.google.com/)
 [![Docker]](https://www.docker.com/)
 [![NGINX]](https://www.nginx.com/)
 
 [![Git]](https://git-scm.com/)
+[![commitlint]](https://commitlint.js.org/#/)
 [![GitHub]](https://github.com/)
 [![GitLab]](https://about.gitlab.com/)
 [![Bitbucket]](https://bitbucket.org/)
+
+[![VSCode]](https://eslint.org/)
+[![ESLint]](https://eslint.org/)
+[![Prettier]](https://prettier.io/)
+[![Yarn]](https://yarnpkg.com/)
+[![Poetry]](https://python-poetry.org/)
 
 [![Ubuntu]](https://ubuntu.com/)
 [![Arch]](https://archlinux.org/)
 [![GNOME]](https://www.gnome.org/)
 [![KDE]](https://kde.org/)
 
-[![AWS]](https://aws.amazon.com/)
-[![GCP]](https://cloud.google.com/)
+<!-- Badge Links -->
+<!-- https://img.shields.io/static/v1?style=flat-square&label=LABEL&message=MESSAGE&color=COLOR&labelColor=COLOR&logoColor=COLOR&logo=LOGO -->
 
-<!-- [![ALT](https://img.shields.io/static/v1?label=&message=MESSAGE&style=flat-square&logo=LOGO&logoColor=&color=&labelColor=)] -->
-
-[javascript]: https://img.shields.io/static/v1?label=&message=JavaScript&style=flat-square&logo=javascript&logoColor=f7df1e&color=f7df1e&labelColor=424242
-[typescript]: https://img.shields.io/static/v1?label=&message=TypeScript&style=flat-square&logo=typescript&logoColor=007acc&color=007acc&labelColor=eee
-[python]: https://img.shields.io/static/v1?label=&message=Python&style=flat-square&logo=python&logoColor=3776ab&color=3776ab&labelColor=eee
-[c]: https://img.shields.io/static/v1?label=&message=C&style=flat-square&logo=c&logoColor=a8b9cc&color=a8b9cc&labelColor=424242
-[c++]: https://img.shields.io/static/v1?label=&message=C%2B%2B&style=flat-square&logo=c%2B%2B&logoColor=00599c&color=00599c&labelColor=eee
-[java]: https://img.shields.io/static/v1?label=&message=Java&style=flat-square&logo=java&logoColor=007396&color=007396&labelColor=eee
-[php]: https://img.shields.io/static/v1?label=&message=PHP&style=flat-square&logo=php&logoColor=777bb4&color=777bb4&labelColor=424242
-[react]: https://img.shields.io/static/v1?label=&message=React&style=flat-square&logo=react&logoColor=61dafb&color=61dafb&labelColor=424242
-[vue.js]: https://img.shields.io/static/v1?label=&message=Vue.js&style=flat-square&logo=vue.js&logoColor=4fc08d&color=4fc08d&labelColor=424242
-[gatsby]: https://img.shields.io/static/v1?label=&message=Gatsby&style=flat-square&logo=gatsby&logoColor=639&color=639&labelColor=eee
-[django]: https://img.shields.io/static/v1?label=&message=Django&style=flat-square&logo=django&logoColor=092e20&color=092e20&labelColor=eee
-[laravel]: https://img.shields.io/static/v1?label=&message=Laravel&style=flat-square&logo=laravel&logoColor=ff2d20&color=ff2d20&labelColor=424242
-[node.js]: https://img.shields.io/static/v1?label=&message=Node.js&style=flat-square&logo=node.js&logoColor=393&color=393&labelColor=424242
-[deno]: https://img.shields.io/static/v1?label=&message=Deno&style=flat-square&logo=deno&logoColor=000&color=000&labelColor=eee
-[storybook]: https://img.shields.io/static/v1?label=&message=Storybook&style=flat-square&logo=storybook&logoColor=ff4785&color=ff4785&labelColor=424242
-[swagger]: https://img.shields.io/static/v1?label=&message=Swagger&style=flat-square&logo=swagger&logoColor=85ea2d&color=85ea2d&labelColor=424242
-[mariadb]: https://img.shields.io/static/v1?label=&message=MariaDB&style=flat-square&logo=mariadb&logoColor=003545&color=003545&labelColor=eee
-[mongodb]: https://img.shields.io/static/v1?label=&message=MongoDB&style=flat-square&logo=mongodb&logoColor=47a248&color=47a248&labelColor=424242
-[postgresql]: https://img.shields.io/static/v1?label=&message=PostgreSQL&style=flat-square&logo=postgresql&logoColor=336791&color=336791&labelColor=eee
-[redis]: https://img.shields.io/static/v1?label=&message=Redis&style=flat-square&logo=redis&logoColor=dc382d&color=dc382d&labelColor=eee
-[tensorflow]: https://img.shields.io/static/v1?label=&message=Tensorflow&style=flat-square&logo=tensorflow&logoColor=ff6f00&color=ff6f00&labelColor=424242
-[keras]: https://img.shields.io/static/v1?label=&message=Keras&style=flat-square&logo=keras&logoColor=d00000&color=d00000&labelColor=eee
-[scikit-learn]: https://img.shields.io/static/v1?label=&message=scikit-learn&style=flat-square&logo=scikit-learn&logoColor=f7931e&color=f7931e&labelColor=424242
-[pandas]: https://img.shields.io/static/v1?label=&message=Pandas&style=flat-square&logo=pandas&logoColor=150458&color=150458&labelColor=eee
-[vscode]: https://img.shields.io/static/v1?label=&message=VSCode&style=flat-square&logo=visual-studio-code&logoColor=007acc&color=007acc&labelColor=eee
-[eslint]: https://img.shields.io/static/v1?label=&message=ESLint&style=flat-square&logo=eslint&logoColor=4b3ec3&color=4b3ec3&labelColor=eee
-[prettier]: https://img.shields.io/static/v1?label=&message=Prettier&style=flat-square&logo=prettier&logoColor=f7b93e&color=f7b93e&labelColor=424242
-[yarn]: https://img.shields.io/static/v1?label=&message=Yarn&style=flat-square&logo=yarn&logoColor=2c8ebb&color=2c8ebb&labelColor=424242
-[docker]: https://img.shields.io/static/v1?label=&message=Docker&style=flat-square&logo=docker&logoColor=2496ed&color=2496ed&labelColor=424242
-[nginx]: https://img.shields.io/static/v1?label=&message=NGINX&style=flat-square&logo=nginx&logoColor=269539&color=269539&labelColor=424242
-[git]: https://img.shields.io/static/v1?label=&message=Git&style=flat-square&logo=git&logoColor=f05032&color=f05032&labelColor=424242
-[github]: https://img.shields.io/static/v1?label=&message=GitHub&style=flat-square&logo=github&logoColor=181717&color=181717&labelColor=eee
-[gitlab]: https://img.shields.io/static/v1?label=&message=GitLab&style=flat-square&logo=gitlab&logoColor=fca121&color=fca121&labelColor=424242
-[bitbucket]: https://img.shields.io/static/v1?label=&message=Bitbucket&style=flat-square&logo=bitbucket&logoColor=0052cc&color=0052cc&labelColor=eee
-[ubuntu]: https://img.shields.io/static/v1?label=&message=Ubuntu&style=flat-square&logo=ubuntu&logoColor=e95420&color=e95420&labelColor=424242
-[arch]: https://img.shields.io/static/v1?label=&message=Arch&style=flat-square&logo=arch-linux&logoColor=1793d1&color=1793d1&labelColor=424242
-[gnome]: https://img.shields.io/static/v1?label=&message=GNOME&style=flat-square&logo=gnome&logoColor=4a86cf&color=4a86cf&labelColor=424242
-[kde]: https://img.shields.io/static/v1?label=&message=KDE&style=flat-square&logo=kde&logoColor=1d99f3&color=1d99f3&labelColor=424242
-[aws]: https://img.shields.io/static/v1?label=&message=AWS&style=flat-square&logo=amazon-aws&logoColor=232f3e&color=232f3e&labelColor=eee
-[gcp]: https://img.shields.io/static/v1?label=&message=GCP&style=flat-square&logo=google-cloud&logoColor=4285f4&color=4285f4&labelColor=424242
+[arch]: https://img.shields.io/static/v1?style=flat-square&label=&message=Arch&color=1793d1&labelColor=424242&logoColor=1793d1&logo=arch-linux
+[aws]: https://img.shields.io/static/v1?style=flat-square&label=&message=AWS&color=232f3e&labelColor=eee&logoColor=232f3e&logo=amazon-aws
+[bitbucket]: https://img.shields.io/static/v1?style=flat-square&label=&message=Bitbucket&color=0052cc&labelColor=eee&logoColor=0052cc&logo=bitbucket
+[c]: https://img.shields.io/static/v1?style=flat-square&label=&message=C&color=a8b9cc&labelColor=424242&logoColor=a8b9cc&logo=c
+[c++]: https://img.shields.io/static/v1?style=flat-square&label=&message=C%2B%2B&color=00599c&labelColor=eee&logoColor=00599c&logo=c%2B%2B
+[commitlint]: https://img.shields.io/static/v1?style=flat-square&label=&message=commitlint&color=51b1dd&labelColor=424242&logoColor=&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTgwIiBoZWlnaHQ9IjE4MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cmVjdCByeD0iMTEiIGhlaWdodD0iMTgwIiB3aWR0aD0iMTgwIiB5PSIwIiB4PSIwIiBmaWxsPSIjMDAwMDAwIi8+CiAgPHBhdGggZmlsbD0iI2NlM2Q0MCIgZD0ibTEwNS44NTk3LDEwMS44OTY0OWwzMCwwbDAsNC40bC0zMCwwbDAsLTQuNHptMTcuNjgzODgsOC44bDguOTgyNzksMTMuMmwtNS4wNzU2NCwwbC02LjU3Mjc3LC04LjYwMTA2bC02LjYwOTI5LDguNjAxMDZsLTUuMDc1NjQsMGw4Ljk4Mjc5LC0xMy4ybDUuMzY3NzYsMHoiLz4KICA8dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iJ1NGTW9uby1SZWd1bGFyJywgQ29uc29sYXMsICdMaWJlcmF0aW9uIE1vbm8nLCBNZW5sbywgQ291cmllciwgbW9ub3NwYWNlIiBmb250LXNpemU9IjUwIiB5PSIxMDYiIHg9IjY3LjUiIGZpbGw9IiM1MGIyZGQiPmNsPC90ZXh0Pgo8L3N2Zz4K
+[deno]: https://img.shields.io/static/v1?style=flat-square&label=&message=Deno&color=000&labelColor=eee&logoColor=000&logo=deno
+[django]: https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=092e20&labelColor=eee&logoColor=092e20&logo=django
+[docker]: https://img.shields.io/static/v1?style=flat-square&label=&message=Docker&color=2496ed&labelColor=424242&logoColor=2496ed&logo=docker
+[eslint]: https://img.shields.io/static/v1?style=flat-square&label=&message=ESLint&color=4b3ec3&labelColor=eee&logoColor=4b3ec3&logo=eslint
+[gatsby]: https://img.shields.io/static/v1?style=flat-square&label=&message=Gatsby&color=639&labelColor=eee&logoColor=639&logo=gatsby
+[gcp]: https://img.shields.io/static/v1?style=flat-square&label=&message=GCP&color=4285f4&labelColor=424242&logoColor=4285f4&logo=google-cloud
+[git]: https://img.shields.io/static/v1?style=flat-square&label=&message=Git&color=f05032&labelColor=424242&logoColor=f05032&logo=git
+[github]: https://img.shields.io/static/v1?style=flat-square&label=&message=GitHub&color=181717&labelColor=eee&logoColor=181717&logo=github
+[gitlab]: https://img.shields.io/static/v1?style=flat-square&label=&message=GitLab&color=fca121&labelColor=424242&logoColor=&logo=gitlab
+[gnome]: https://img.shields.io/static/v1?style=flat-square&label=&message=GNOME&color=4a86cf&labelColor=424242&logoColor=4a86cf&logo=gnome
+[java]: https://img.shields.io/static/v1?style=flat-square&label=&message=Java&color=007396&labelColor=eee&logoColor=007396&logo=java
+[javascript]: https://img.shields.io/static/v1?style=flat-square&label=&message=JavaScript&color=f7df1e&labelColor=424242&logoColor=f7df1e&logo=javascript
+[kde]: https://img.shields.io/static/v1?style=flat-square&label=&message=KDE&color=1d99f3&labelColor=424242&logoColor=1d99f3&logo=kde
+[keras]: https://img.shields.io/static/v1?style=flat-square&label=&message=Keras&color=d00000&labelColor=eee&logoColor=d00000&logo=keras
+[laravel]: https://img.shields.io/static/v1?style=flat-square&label=&message=Laravel&color=ff2d20&labelColor=424242&logoColor=ff2d20&logo=laravel
+[mariadb]: https://img.shields.io/static/v1?style=flat-square&label=&message=MariaDB&color=003545&labelColor=eee&logoColor=003545&logo=mariadb
+[mongodb]: https://img.shields.io/static/v1?style=flat-square&label=&message=MongoDB&color=47a248&labelColor=424242&logoColor=47a248&logo=mongodb
+[nginx]: https://img.shields.io/static/v1?style=flat-square&label=&message=NGINX&color=269539&labelColor=424242&logoColor=269539&logo=nginx
+[node.js]: https://img.shields.io/static/v1?style=flat-square&label=&message=Node.js&color=393&labelColor=424242&logoColor=393&logo=node.js
+[pandas]: https://img.shields.io/static/v1?style=flat-square&label=&message=Pandas&color=150458&labelColor=eee&logoColor=150458&logo=pandas
+[php]: https://img.shields.io/static/v1?style=flat-square&label=&message=PHP&color=777bb4&labelColor=424242&logoColor=777bb4&logo=php
+[poetry]: https://img.shields.io/static/v1?style=flat-square&label=&message=Poetry&color=299bd7&labelColor=424242&logoColor=&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNDQ4LjE3IDU2MCI+PGRlZnM+PHN0eWxlPi5jbHMtMXtpc29sYXRpb246aXNvbGF0ZTt9LmNscy0ye2ZpbGw6dXJsKCNyYWRpYWwtZ3JhZGllbnQpO30uY2xzLTN7ZmlsbDp1cmwoI3JhZGlhbC1ncmFkaWVudC0yKTt9LmNscy00LC5jbHMtNSwuY2xzLTZ7bWl4LWJsZW5kLW1vZGU6bXVsdGlwbHk7fS5jbHMtNHtmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50KTt9LmNscy01e2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtMik7fS5jbHMtNntmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50LTMpO30uY2xzLTd7bWl4LWJsZW5kLW1vZGU6c2NyZWVuO2ZpbGw6dXJsKCNyYWRpYWwtZ3JhZGllbnQtMyk7fTwvc3R5bGU+PHJhZGlhbEdyYWRpZW50IGlkPSJyYWRpYWwtZ3JhZGllbnQiIGN4PSI0MzguMyIgY3k9IjYzOS4wMSIgcj0iNTY5Ljk0IiBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKDAgMCkiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM2ODc3ZWMiLz48c3RvcCBvZmZzZXQ9IjAuNiIgc3RvcC1jb2xvcj0iIzUzNjJjZiIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzQzNTJiOSIvPjwvcmFkaWFsR3JhZGllbnQ+PHJhZGlhbEdyYWRpZW50IGlkPSJyYWRpYWwtZ3JhZGllbnQtMiIgY3g9IjY1LjY0IiBjeT0iLTE2LjIxIiByPSI3NDYuNDYiIGdyYWRpZW50VHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCAwKSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzAwZDVmZiIvPjxzdG9wIG9mZnNldD0iMC4zOCIgc3RvcC1jb2xvcj0iIzAwYjhlYiIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzAwODBjNSIvPjwvcmFkaWFsR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHgxPSI3NC43NyIgeTE9IjY3LjMiIHgyPSIyNzcuMjMiIHkyPSI1MTIuNzIiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMyOTRjYTciLz48c3RvcCBvZmZzZXQ9IjAuNDgiIHN0b3AtY29sb3I9IiM5NmE3ZDQiLz48c3RvcCBvZmZzZXQ9IjAuODQiIHN0b3AtY29sb3I9IiNlMWU2ZjMiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNmZmYiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50LTIiIHgxPSItMjI4Ljc0IiB5MT0iLTE0NC4yOSIgeDI9IjQ1MSIgeTI9IjY1MS44OSIgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgwIDApIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjNjg3N2VjIi8+PHN0b3Agb2Zmc2V0PSIwLjI5IiBzdG9wLWNvbG9yPSIjOTdhMWYyIi8+PHN0b3Agb2Zmc2V0PSIwLjc3IiBzdG9wLWNvbG9yPSIjZTJlNGZiIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZmZmIi8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudC0zIiB4MT0iLTE1MS4yMiIgeTE9Ii0yODUuOSIgeDI9IjQ1MC4wOCIgeTI9IjQzMC42MyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzgzOTdjYyIvPjxzdG9wIG9mZnNldD0iMC4xNSIgc3RvcC1jb2xvcj0iIzk3YThkNCIvPjxzdG9wIG9mZnNldD0iMC43MyIgc3RvcC1jb2xvcj0iI2UyZTZmMyIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2ZmZiIvPjwvbGluZWFyR3JhZGllbnQ+PHJhZGlhbEdyYWRpZW50IGlkPSJyYWRpYWwtZ3JhZGllbnQtMyIgY3g9IjI1OS42OCIgY3k9Ii0zNC43MSIgcj0iNDMxLjM3IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZmZmIi8+PHN0b3Agb2Zmc2V0PSIxIi8+PC9yYWRpYWxHcmFkaWVudD48L2RlZnM+PHRpdGxlPmxvZ28tb3JpZ2FtaTwvdGl0bGU+PGcgY2xhc3M9ImNscy0xIj48ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIj48cGF0aCBjbGFzcz0iY2xzLTIiIGQ9Ik0xNjguMDgsNTYwQTU3MC41NCw1NzAuNTQsMCwwLDAsNDU5Ljg0LDQwMy41OUw1Ni4yNSwwVjQ0OC4xN1oiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC01Ni4yNSkiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik01Ni4yNSw0NDguMTdDMzAzLjc3LDQ0OC4xNyw1MDQuNDIsMjQ3LjUyLDUwNC40MiwwSDU2LjI1WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTU2LjI1KSIvPjxwYXRoIGNsYXNzPSJjbHMtNCIgZD0iTTU2LjI1LDQ0OC4xN2gwTDczLjUsNDY1LjQyYzEyMS41Ny00LjQ1LDIzMS40LTU1LjY4LDMxMi0xMzYuMjNsLTEyLjI5LTEyLjI4QTQ0Ni44LDQ0Ni44LDAsMCwxLDU2LjI1LDQ0OC4xN1oiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC01Ni4yNSkiLz48cGF0aCBjbGFzcz0iY2xzLTUiIGQ9Ik0xNjguMDgsNTYwQTU3MC41NCw1NzAuNTQsMCwwLDAsNDU5Ljg0LDQwMy41OUw1Ni4yNSwwVjQ0OC4xN1oiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC01Ni4yNSkiLz48cGF0aCBjbGFzcz0iY2xzLTYiIGQ9Ik00NTkuODQsNDAzLjU5LDU2LjI1LDAsNDIzLjE0LDQzNy4xM0M0MzUuODMsNDI2LjQ2LDQ0OC4xMiw0MTUuMzEsNDU5Ljg0LDQwMy41OVoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC01Ni4yNSkiLz48cGF0aCBjbGFzcz0iY2xzLTciIGQ9Ik01Ni4yNSwwLDM3My4xNiwzMTYuOTFxNC4yMy00LjI1LDguMzUtOC42WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTU2LjI1KSIvPjwvZz48L2c+PC9zdmc+
+[postgresql]: https://img.shields.io/static/v1?style=flat-square&label=&message=PostgreSQL&color=336791&labelColor=eee&logoColor=336791&logo=postgresql
+[prettier]: https://img.shields.io/static/v1?style=flat-square&label=&message=Prettier&color=f7b93e&labelColor=424242&logoColor=f7b93e&logo=prettier
+[python]: https://img.shields.io/static/v1?style=flat-square&label=&message=Python&color=3776ab&labelColor=eee&logoColor=3776ab&logo=python
+[react]: https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=61dafb&labelColor=424242&logoColor=61dafb&logo=react
+[redis]: https://img.shields.io/static/v1?style=flat-square&label=&message=Redis&color=dc382d&labelColor=eee&logoColor=dc382d&logo=redis
+[scikit-learn]: https://img.shields.io/static/v1?style=flat-square&label=&message=scikit-learn&color=f7931e&labelColor=424242&logoColor=f7931e&logo=scikit-learn
+[storybook]: https://img.shields.io/static/v1?style=flat-square&label=&message=Storybook&color=ff4785&labelColor=424242&logoColor=ff4785&logo=storybook
+[swagger]: https://img.shields.io/static/v1?style=flat-square&label=&message=Swagger&color=85ea2d&labelColor=424242&logoColor=85ea2d&logo=swagger
+[tensorflow]: https://img.shields.io/static/v1?style=flat-square&label=&message=Tensorflow&color=ff6f00&labelColor=424242&logoColor=ff6f00&logo=tensorflow
+[typescript]: https://img.shields.io/static/v1?style=flat-square&label=&message=TypeScript&color=007acc&labelColor=eee&logoColor=007acc&logo=typescript
+[ubuntu]: https://img.shields.io/static/v1?style=flat-square&label=&message=Ubuntu&color=e95420&labelColor=424242&logoColor=e95420&logo=ubuntu
+[vscode]: https://img.shields.io/static/v1?style=flat-square&label=&message=VSCode&color=007acc&labelColor=eee&logoColor=007acc&logo=visual-studio-code
+[vue.js]: https://img.shields.io/static/v1?style=flat-square&label=&message=Vue.js&color=4fc08d&labelColor=424242&logoColor=4fc08d&logo=vue.js
+[yarn]: https://img.shields.io/static/v1?style=flat-square&label=&message=Yarn&color=2c8ebb&labelColor=424242&logoColor=2c8ebb&logo=yarn
