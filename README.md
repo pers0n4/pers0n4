@@ -10,7 +10,7 @@
 <details>
   <summary>🏆 Trophy</summary>
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pers0n4&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy 'GitHub Profile Trophy')
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pers0n4&theme=onedark&column=7&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy 'GitHub Profile Trophy')
 
 </details>
 <details>
