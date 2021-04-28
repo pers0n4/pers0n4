@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&style=for-the-badge&logo=linkedin&logoColor=fff&color=0077b5)](https://www.linkedin.com/in/dong-young-kim)
 [![StackShare](https://img.shields.io/static/v1?label=&message=StackShare&style=for-the-badge&logo=stackshare&logoColor=fff&color=0690fa)](https://stackshare.io/pers0n4)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pers0n4&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0&bg_color=212121&hide_border=true&hide_title=true&theme=&show_icons=true&include_all_commits=true&count_private=true&line_height=24) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pers0n4&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0&bg_color=212121&hide_border=true&hide_title=true&layout=compact&langs_count=10&hide=html,css,tex)](https://github.com/anuraghazra/github-readme-stats 'GitHub Readme Stats')
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pers0n4&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0&bg_color=212121&hide_border=true&hide_title=true&theme=&show_icons=true&include_all_commits=true&count_private=true&line_height=24) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pers0n4&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0&bg_color=212121&hide_border=true&hide_title=true&layout=compact&langs_count=8&hide=html,css,tex)](https://github.com/anuraghazra/github-readme-stats 'GitHub Readme Stats')
 
 <details>
   <summary>🏆 Trophy</summary>
