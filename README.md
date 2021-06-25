@@ -221,6 +221,6 @@ JavaScript               3 repos             ██░░░░░░░░░�
 [vscode]: https://img.shields.io/static/v1?style=flat-square&label=&message=VSCode&labelColor=E0E0E0&color=007ACC&logoColor=007ACC&logo=visual-studio-code&#007ACC
 [vue.js]: https://img.shields.io/static/v1?style=flat-square&label=&message=Vue.js&labelColor=212121&color=4FC08D&logoColor=4FC08D&logo=vuedotjs&#4FC08D
 
-[shields.io]: https://img.shields.io/static/v1?style=flat-square&label=&message=Shields.io&labelColor=E0E0E0&color=000&logoColor=000&logo=shieldsdotio
-[simple icons]: https://img.shields.io/static/v1?style=flat-square&label=&message=Simple%20Icons&labelColor=E0E0E0&color=111&logoColor=111&logo=simple-icons
-[wakatime]: https://img.shields.io/static/v1?style=flat-square&label=&message=WakaTime&labelColor=E0E0E0&color=111&logoColor=111&logo=wakatime
+[shields.io]: https://img.shields.io/static/v1?style=flat-square&label=&message=Shields.io&labelColor=E0E0E0&color=000000&logoColor=000000&logo=shieldsdotio
+[simple icons]: https://img.shields.io/static/v1?style=flat-square&label=&message=Simple%20Icons&labelColor=E0E0E0&color=111111&logoColor=111111&logo=simple-icons
+[wakatime]: https://img.shields.io/static/v1?style=flat-square&label=&message=WakaTime&labelColor=E0E0E0&color=000000&logoColor=000000&logo=wakatime
