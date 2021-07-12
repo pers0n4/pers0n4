@@ -124,54 +124,54 @@
 <!-- Body -->
 
 [arch]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=1793d1&logoColor=1793d1&label=&message=Arch&logo=arch-linux&#1793D1
-[aws]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=232f3e&logoColor=232f3e&label=&message=AWS&logo=amazon-aws&#232F3E
-[bitbucket]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=0052cc&logoColor=0052cc&label=&message=Bitbucket&logo=bitbucket&#0052CC
-[c++]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=00599c&logoColor=00599c&label=&message=C%2B%2B&logo=c%2B%2B&#00599C
-[deno]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=000000&logoColor=000000&label=&message=Deno&logo=deno&#000000
+[aws]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=232f3e&logoColor=232f3e&label=&message=AWS&logo=amazon-aws&#232F3E
+[bitbucket]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=0052cc&logoColor=0052cc&label=&message=Bitbucket&logo=bitbucket&#0052CC
+[c++]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=00599c&logoColor=00599c&label=&message=C%2B%2B&logo=c%2B%2B&#00599C
+[deno]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=000000&logoColor=000000&label=&message=Deno&logo=deno&#000000
 [docker]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=2496ed&logoColor=2496ed&label=&message=Docker&logo=docker&#2496ED
-[django]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=092e20&logoColor=092e20&label=&message=Django&logo=django&#092E20
-[expo]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=000020&logoColor=000020&label=&message=Expo&logo=expo&#000020
-[express]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=000000&logoColor=000000&label=&message=Express&logo=express&#000000
-[fastapi]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=009688&logoColor=009688&label=&message=FastAPI&logo=fastapi&#009688
-[flask]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=000000&logoColor=000000&label=&message=Flask&logo=flask&#000000
-[gatsby]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=663399&logoColor=663399&label=&message=Gatsby&logo=gatsby&#663399
+[django]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=092e20&logoColor=092e20&label=&message=Django&logo=django&#092E20
+[expo]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=000020&logoColor=000020&label=&message=Expo&logo=expo&#000020
+[express]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=000000&logoColor=000000&label=&message=Express&logo=express&#000000
+[fastapi]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=009688&logoColor=009688&label=&message=FastAPI&logo=fastapi&#009688
+[flask]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=000000&logoColor=000000&label=&message=Flask&logo=flask&#000000
+[gatsby]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=663399&logoColor=663399&label=&message=Gatsby&logo=gatsby&#663399
 [gcp]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=4285f4&logoColor=4285f4&label=&message=GCP&logo=google-cloud&#4285F4
 [git]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=f05032&logoColor=f05032&label=&message=Git&logo=git&#F05032
-[github]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=181717&logoColor=181717&label=&message=GitHub&logo=github&#181717
+[github]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=181717&logoColor=181717&label=&message=GitHub&logo=github&#181717
 [gitlab]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=fca121&logoColor=fca121&label=&message=GitLab&logo=gitlab&#FCA121
 [go]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=00add8&logoColor=00add8&label=&message=Go&logo=go&#00ADD8
 [google analytics]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=e37400&logoColor=e37400&label=&message=Google%20Analytics&logo=google-analytics&#E37400
 [google tag manager]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=246fdb&logoColor=246fdb&label=&message=Google%20Tag%20Manager&logo=google&tag-manager&#246FDB
 [hotjar]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=fd3a5c&logoColor=fd3a5c&label=&message=Hotjar&logo=hotjar&#FD3A5C
 [insomnia]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=5849be&logoColor=5849be&label=&message=Insomnia&logo=insomnia&#5849BE
-[java]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=007396&logoColor=007396&label=&message=Java&logo=java&#007396
+[java]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=007396&logoColor=007396&label=&message=Java&logo=java&#007396
 [javascript]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=f7df1e&logoColor=f7df1e&label=&message=JavaScript&logo=javascript&#F7DF1E
-[keras]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=d00000&logoColor=d00000&label=&message=Keras&logo=keras&#D00000
-[laravel]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=ff2d20&logoColor=ff2d20&label=&message=Laravel&logo=laravel&#FF2D20
-[mariadb]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=003545&logoColor=003545&label=&message=MariaDB&logo=mariadb&#003545
+[keras]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=d00000&logoColor=d00000&label=&message=Keras&logo=keras&#D00000
+[laravel]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=ff2d20&logoColor=ff2d20&label=&message=Laravel&logo=laravel&#FF2D20
+[mariadb]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=003545&logoColor=003545&label=&message=MariaDB&logo=mariadb&#003545
 [mongodb]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=47a248&logoColor=47a248&label=&message=MongoDB&logo=mongodb&#47A248
 [nestjs]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=e0234e&logoColor=e0234e&label=&message=NestJS&logo=nestjs&#E0234E
 [node.js]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=339933&logoColor=339933&label=&message=Node.js&logo=nodedotjs&#339933
-[pandas]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=150458&logoColor=150458&label=&message=Pandas&logo=pandas&#150458
-[php]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=777bb4&logoColor=777bb4&label=&message=PHP&logo=php&#777BB4
-[postgresql]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=4169e1&logoColor=4169e1&label=&message=PostgreSQL&logo=postgresql&#4169E1
+[pandas]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=150458&logoColor=150458&label=&message=Pandas&logo=pandas&#150458
+[php]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=777bb4&logoColor=777bb4&label=&message=PHP&logo=php&#777BB4
+[postgresql]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=4169e1&logoColor=4169e1&label=&message=PostgreSQL&logo=postgresql&#4169E1
 [postman]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=ff6c37&logoColor=ff6c37&label=&message=Postman&logo=postman&#FF6C37
-[python]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=3776ab&logoColor=3776ab&label=&message=Python&logo=python&#3776AB
+[python]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=3776ab&logoColor=3776ab&label=&message=Python&logo=python&#3776AB
 [react]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=61dafb&logoColor=61dafb&label=&message=React&logo=react&#61DAFB
-[redis]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=dc382d&logoColor=dc382d&label=&message=Redis&logo=redis&#DC382D
-[rust]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=000000&logoColor=000000&label=&message=Rust&logo=rust&#000000
+[redis]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=dc382d&logoColor=dc382d&label=&message=Redis&logo=redis&#DC382D
+[rust]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=000000&logoColor=000000&label=&message=Rust&logo=rust&#000000
 [scikit-learn]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=f7931e&logoColor=f7931e&label=&message=scikit-learn&logo=scikit-learn&#F7931E
 [spring boot ]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=6db33f&logoColor=6db33f&label=&message=Spring%20Boot&logo=spring-boot&#6DB33F
 [storybook]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=ff4785&logoColor=ff4785&label=&message=Storybook&logo=storybook&#FF4785
 [swagger]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=85ea2d&logoColor=85ea2d&label=&message=Swagger&logo=swagger&#85EA2D
 [tensorflow]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=ff6f00&logoColor=ff6f00&label=&message=TensorFlow&logo=tensorflow&#FF6F00
-[typescript]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=3178c6&logoColor=3178c6&label=&message=TypeScript&logo=typescript&#3178C6
+[typescript]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=3178c6&logoColor=3178c6&label=&message=TypeScript&logo=typescript&#3178C6
 [ubuntu]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=e95420&logoColor=e95420&label=&message=Ubuntu&logo=ubuntu&#E95420
-[vscode]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=007acc&logoColor=007acc&label=&message=VSCode&logo=visual-studio-code&#007ACC
+[vscode]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=007acc&logoColor=007acc&label=&message=VSCode&logo=visual-studio-code&#007ACC
 [vue.js]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=4fc08d&logoColor=4fc08d&label=&message=Vue.js&logo=vuedotjs&#4FC08D
 
 <!-- Footer -->
 
-[shields.io]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=000000&logoColor=000000&label=&message=Shields.io&logo=shieldsdotio&#000000
-[simple icons]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=111111&logoColor=111111&label=&message=Simple%20Icons&logo=simple-icons&#111111
-[wakatime]: https://img.shields.io/static/v1?style=flat-square&labelColor=e0e0e0&color=000000&logoColor=000000&label=&message=WakaTime&logo=wakatime&#000000
+[shields.io]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=000000&logoColor=000000&label=&message=Shields.io&logo=shieldsdotio&#000000
+[simple icons]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=111111&logoColor=111111&label=&message=Simple%20Icons&logo=simple-icons&#111111
+[wakatime]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=000000&logoColor=000000&label=&message=WakaTime&logo=wakatime&#000000
