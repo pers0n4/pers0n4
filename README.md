@@ -5,12 +5,12 @@
 [![LinkedIn]](https://www.linkedin.com/in/dong-young-kim)
 [![StackShare]](https://stackshare.io/pers0n4)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pers0n4&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0&bg_color=212121&hide_border=true&hide_title=true&theme=&show_icons=true&include_all_commits=true&count_private=true&line_height=24) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pers0n4&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0&bg_color=212121&hide_border=true&hide_title=true&layout=compact&langs_count=8&hide=html,css,tex)](https://github.com/anuraghazra/github-readme-stats "GitHub Readme Stats")
+[![GitHub Stats] ![Top Languages]](https://github.com/anuraghazra/github-readme-stats "GitHub Readme Stats")
 
 <details open>
   <summary>🏆 Trophy</summary>
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pers0n4&theme=onedark&column=7&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy "GitHub Profile Trophy")
+[![GitHub Trophy]](https://github.com/ryo-ma/github-profile-trophy "GitHub Profile Trophy")
 
 </details>
 <details>
@@ -116,6 +116,9 @@
 
 <!-- Header -->
 
+[github stats]: https://github-readme-stats.vercel.app/api?username=pers0n4&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0&bg_color=212121&hide_border=true&hide_title=true&theme=&show_icons=true&include_all_commits=true&count_private=true&line_height=24
+[top languages]: https://github-readme-stats.vercel.app/api/top-langs?username=pers0n4&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0&bg_color=212121&hide_border=true&hide_title=true&layout=compact&langs_count=8&hide=html,css,tex
+[github trophy]: https://github-profile-trophy.vercel.app/?username=pers0n4&theme=onedark&column=7&row=1&no-frame=true
 [resume]: https://img.shields.io/static/v1?style=for-the-badge&color=000000&logoColor=ffffff&label=&message=Resume&logo=notion&#000000
 [blog]: https://img.shields.io/static/v1?style=for-the-badge&color=00c7b7&logoColor=ffffff&label=&message=Blog&logo=netlify&#00C7B7
 [linkedin]: https://img.shields.io/static/v1?style=for-the-badge&color=0077b5&logoColor=ffffff&label=&message=LinkedIn&logo=linkedin&#0077B5
