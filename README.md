@@ -5,7 +5,8 @@
 [![LinkedIn]](https://www.linkedin.com/in/dong-young-kim)
 [![StackShare]](https://stackshare.io/pers0n4)
 
-[![GitHub Stats] ![Top Languages]](https://github.com/anuraghazra/github-readme-stats "GitHub Readme Stats")
+| [![GitHub Stats]](https://github.com/anuraghazra/github-readme-stats "GitHub Stats") | [![Top Languages]](https://github.com/anuraghazra/github-readme-stats "Top Languages") |
+| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 
 <details open>
   <summary>🏆 Trophy</summary>
