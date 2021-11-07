@@ -26,19 +26,11 @@
 [![TypeScript]](https://www.typescriptlang.org/)
 [![Python]](https://www.python.org/)
 [![JavaScript]](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
-
-[![C++]](https://isocpp.org/)
+\
 [![Java]](https://openjdk.java.net/)
 [![PHP]](https://www.php.net/)
+[![C++]](https://isocpp.org/)
 [![C]](https://en.cppreference.com/w/c)
-
-<details>
-  <summary>More</summary>
-
-[![Go]](https://golang.org/)
-[![Rust]](https://www.rust-lang.org/)
-
-</details>
 
 ## Libraries & Frameworks
 
@@ -47,21 +39,20 @@
 [![Vue.js]](https://vuejs.org/)
 [![Expo]](https://expo.io/)
 [![React Native]](https://reactnative.dev/)
-
+\
 [![FastAPI]](https://fastapi.tiangolo.com/)
-[![NestJS]](https://nestjs.com/)
 [![Express]](https://expressjs.com/)
 [![Django]](https://www.djangoproject.com/)
 [![Flask]](https://flask.palletsprojects.com/)
-[![Spring Boot]](https://spring.io/)
 [![Laravel]](https://laravel.com/)
+[![Spring Boot]](https://spring.io/)
 
 <details>
   <summary>More</summary>
 
 [![Swagger]](https://swagger.io/)
 [![Storybook]](https://storybook.js.org/)
-
+\
 [![Node.js]](https://nodejs.org/en/)
 [![Deno]](https://deno.land/)
 
@@ -73,7 +64,7 @@
 [![PostgreSQL]](https://www.postgresql.org/)
 [![MongoDB]](https://www.mongodb.com/)
 [![Redis]](https://redis.io/)
-
+\
 [![TensorFlow]](https://www.tensorflow.org/)
 [![Keras]](https://keras.io/)
 [![scikit-learn]](https://scikit-learn.org/stable/)
@@ -85,10 +76,10 @@
 [![GitHub]](https://github.com/)
 [![GitLab]](https://about.gitlab.com/)
 [![Bitbucket]](https://bitbucket.org/)
-
+\
 [![Google Cloud]](https://cloud.google.com/)
 [![Amazon Web Services]](https://aws.amazon.com/)
-
+\
 [![Docker]](https://www.docker.com/)
 [![VSCode]](https://code.visualstudio.com/)
 [![Insomnia]](https://insomnia.rest/)
@@ -99,7 +90,7 @@
 [![Google Tag Manager]](https://marketingplatform.google.com/about/tag-manager/)
 [![Google Analytics]](https://marketingplatform.google.com/about/analytics/)
 [![Hotjar]](https://www.hotjar.com/)
-
+\
 [![Ubuntu]](https://ubuntu.com/)
 [![Arch]](https://archlinux.org/)
 [![Alpine]](https://alpinelinux.org/)
