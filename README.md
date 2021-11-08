@@ -121,6 +121,11 @@
 <details>
   <summary>More</summary>
 
+[![Alacritty]](https://github.com/alacritty/alacritty)
+[![Hyper]](https://hyper.is/)
+[![tmux]](https://github.com/tmux/tmux)
+[![Neovim]](https://neovim.io/)
+
 [![Google Tag Manager]](https://marketingplatform.google.com/about/tag-manager/)
 [![Google Analytics]](https://marketingplatform.google.com/about/analytics/)
 [![Hotjar]](https://www.hotjar.com/)
@@ -224,6 +229,13 @@
 [pyenv]: https://img.shields.io/badge/-pyenv-212121?style=flat-square
 [volta]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=257a83&logoColor=257a83&label=&message=Volta&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QAeQC6AMEpK7AhAAAACXBIWXMAAAsSAAALEgHS3X78AAAAB3RJTUUH5AMGFS07qAYEaAAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAAAFmSURBVDjLY2CgB/g/j0H5/2wGW2xyTAQ1r2DQYOBgm8nwh+EY6TYvZtD7f9rn5e81fAGka17GYPL/esObP+dyj5Cs+edqZsv/V8o//H+z7P+XHarW+NSyoAv8WsFszyKTtoVBM5Tn7/Xys+zf7v76vYrJlPEvAwPjH0YGxp//3jGl/L8LU8+IrPnPUkY3ZomoDQwOpZwMv14zMHy8yMDwh4mB4Q8jA8OTgwz/L299wMDyx4Mp9f9NDAP+bWVwY3jGsJpB3JaDQVCEgYHlLwPDfwYWRqVQJgZmHoZ/+3PPfWP+68Mb/Pw5sqUoLni9ipuRnekrAwMjA8Ofb6K8/PKBF5nU7RX+Hize8Y2DOZTP7+kXogPy1zrH+f/vT/j/Z5nUvGcr5VhJioUf88UC/59L+/97gUgDyVH4YzqXxL8dOs/+zuFLJivd/53HseLPPHZPsjT/nsHi93cqozHZue7rLDYhUvUAADjCgneouzo/AAAAAElFTkSuQmCC
 [vscode]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=007acc&logoColor=007acc&label=&message=Visual%20Studio%20Code&logo=visual-studio-code&#007ACC
+
+<!-- Terminal -->
+
+[alacritty]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=f46d01&logoColor=f46d01&label=&message=Alacritty&logo=alacritty&#F46D01
+[hyper]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=000000&logoColor=000000&label=&message=Hyper&logo=hyper&#000000
+[neovim]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=57a143&logoColor=57a143&label=&message=Neovim&logo=neovim&#57A143
+[tmux]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=1bb91f&logoColor=1bb91f&label=&message=tmux&logo=tmux&#1BB91F
 
 <!-- Analytics -->
 
