@@ -18,7 +18,7 @@
   <summary>🕙 WakaTime</summary>
 
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-213922%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-214%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -77,7 +77,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2021
+ Last Updated on 07/12/2021
 <!--END_SECTION:waka-->
 
 </details>
