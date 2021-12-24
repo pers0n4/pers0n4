@@ -17,7 +17,8 @@
 <details>
   <summary>🕙 WakaTime</summary>
 
-  <!--START_SECTION:waka-->
+<!-- prettier-ignore-start -->
+<!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-215%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -78,7 +79,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
  Last Updated on 24/12/2021
 <!--END_SECTION:waka-->
-
+<!-- prettier-ignore-end -->
 </details>
 
 ## Languages
@@ -95,8 +96,8 @@ HTML                     3 repos             █░░░░░░░░░░�
 <details>
   <summary>More</summary>
 
-[![Go]](https://golang.org/)
 [![Rust]](https://www.rust-lang.org/)
+[![Go]](https://golang.org/)
 \
 [![Kotlin]](https://kotlinlang.org/)
 [![Scala]](https://www.scala-lang.org/)
@@ -119,8 +120,8 @@ HTML                     3 repos             █░░░░░░░░░░�
 ### Backend
 
 [![FastAPI]](https://fastapi.tiangolo.com/)
-[![NestJS]](https://nestjs.com/)
 [![Django]](https://www.djangoproject.com/)
+[![NestJS]](https://nestjs.com/)
 [![Express]](https://expressjs.com/)
 [![Flask]](https://flask.palletsprojects.com/)
 [![Laravel]](https://laravel.com/)
@@ -168,8 +169,10 @@ HTML                     3 repos             █░░░░░░░░░░�
 [![Docker]](https://www.docker.com/)
 [![nginx]](https://www.nginx.com/)
 \
-[![Google Cloud]](https://cloud.google.com/)
 [![Amazon Web Services]](https://aws.amazon.com/)
+[![Google Cloud]](https://cloud.google.com/)
+[![Cloudflare]](https://www.cloudflare.com/)
+[![Firebase]](https://firebase.google.com/)
 
 [![VSCode]](https://code.visualstudio.com/)
 \
@@ -180,8 +183,13 @@ HTML                     3 repos             █░░░░░░░░░░�
 <details>
   <summary>More</summary>
 
-[![Google Tag Manager]](https://marketingplatform.google.com/about/tag-manager/)
+[![Alacritty]](https://github.com/alacritty/alacritty)
+[![Hyper]](https://hyper.is/)
+[![tmux]](https://github.com/tmux/tmux)
+[![Neovim]](https://neovim.io/)
+
 [![Google Analytics]](https://marketingplatform.google.com/about/analytics/)
+[![Google Tag Manager]](https://marketingplatform.google.com/about/tag-manager/)
 [![Hotjar]](https://www.hotjar.com/)
 
 ---
@@ -220,23 +228,26 @@ HTML                     3 repos             █░░░░░░░░░░�
 [scala]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=dc322f&logoColor=dc322f&label=&message=Scala&logo=scala&#DC322F
 [typescript]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=3178c6&logoColor=3178c6&label=&message=TypeScript&logo=typescript&#3178C6
 
-<!-- Libraries & Frameworks -->
+<!-- Libraries & Frameworks / Frontend -->
+
+[expo]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=000020&logoColor=000020&label=&message=Expo&logo=expo&#000020
+[gatsby]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=663399&logoColor=663399&label=&message=Gatsby&logo=gatsby&#663399
+[react native]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=61dafb&logoColor=61dafb&label=&message=React%20Native&logo=react&#61DAFB
+[react]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=61dafb&logoColor=61dafb&label=&message=React&logo=react&#61DAFB
+[storybook]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=ff4785&logoColor=ff4785&label=&message=Storybook&logo=storybook&#FF4785
+[vue.js]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=4fc08d&logoColor=4fc08d&label=&message=Vue.js&logo=vuedotjs&#4FC08D
+
+<!-- Libraries & Frameworks / Backend -->
 
 [django]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=092e20&logoColor=092e20&label=&message=Django&logo=django&#092E20
-[expo]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=000020&logoColor=000020&label=&message=Expo&logo=expo&#000020
 [express]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=000000&logoColor=000000&label=&message=Express&logo=express&#000000
 [fastapi]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=009688&logoColor=009688&label=&message=FastAPI&logo=fastapi&#009688
 [flask]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=000000&logoColor=000000&label=&message=Flask&logo=flask&#000000
-[gatsby]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=663399&logoColor=663399&label=&message=Gatsby&logo=gatsby&#663399
 [insomnia]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=5849be&logoColor=5849be&label=&message=Insomnia&logo=insomnia&#5849BE
 [laravel]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=ff2d20&logoColor=ff2d20&label=&message=Laravel&logo=laravel&#FF2D20
 [nestjs]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=e0234e&logoColor=e0234e&label=&message=NestJS&logo=nestjs&#E0234E
-[react native]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=61dafb&logoColor=61dafb&label=&message=React%20Native&logo=react&#61DAFB
-[react]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=61dafb&logoColor=61dafb&label=&message=React&logo=react&#61DAFB
 [spring boot]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=6db33f&logoColor=6db33f&label=&message=Spring%20Boot&logo=spring-boot&#6DB33F
-[storybook]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=ff4785&logoColor=ff4785&label=&message=Storybook&logo=storybook&#FF4785
 [swagger]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=85ea2d&logoColor=85ea2d&label=&message=Swagger&logo=swagger&#85EA2D
-[vue.js]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=4fc08d&logoColor=4fc08d&label=&message=Vue.js&logo=vuedotjs&#4FC08D
 
 <!-- Data & ML -->
 
@@ -266,7 +277,9 @@ HTML                     3 repos             █░░░░░░░░░░�
 <!-- Cloud -->
 
 [amazon web services]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=232f3e&logoColor=232f3e&label=&message=Amazon%20Web%20Services&logo=amazon-aws&#232F3E
+[cloudflare]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=f38020&logoColor=f38020&label=&message=Cloudflare&logo=cloudflare&#F38020
 [google cloud]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=4285f4&logoColor=4285f4&label=&message=Google%20Cloud&logo=google-cloud&#4285F4
+[firebase]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=ffca28&logoColor=ffca28&label=&message=Firebase&logo=firebase&#FFCA28
 
 <!-- OS -->
 
@@ -274,7 +287,11 @@ HTML                     3 repos             █░░░░░░░░░░�
 [arch]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=1793d1&logoColor=1793d1&label=&message=Arch&logo=arch-linux&#1793D1
 [ubuntu]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=e95420&logoColor=e95420&label=&message=Ubuntu&logo=ubuntu&#E95420
 
-<!-- Tools -->
+<!-- Tools / Editor -->
+
+[vscode]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=007acc&logoColor=007acc&label=&message=Visual%20Studio%20Code&logo=visual-studio-code&#007ACC
+
+<!-- Tools / Package -->
 
 [deno]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=000000&logoColor=000000&label=&message=Deno&logo=deno&#000000
 [node.js]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=339933&logoColor=339933&label=&message=Node.js&logo=nodedotjs&#339933
@@ -282,12 +299,18 @@ HTML                     3 repos             █░░░░░░░░░░�
 [poetry]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=0080c5&logoColor=0080c5&label=&message=Poetry&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNDQ4LjE3IDU2MCI+PGRlZnM+PHN0eWxlPi5jbHMtMXtpc29sYXRpb246aXNvbGF0ZTt9LmNscy0ye2ZpbGw6dXJsKCNyYWRpYWwtZ3JhZGllbnQpO30uY2xzLTN7ZmlsbDp1cmwoI3JhZGlhbC1ncmFkaWVudC0yKTt9LmNscy00LC5jbHMtNSwuY2xzLTZ7bWl4LWJsZW5kLW1vZGU6bXVsdGlwbHk7fS5jbHMtNHtmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50KTt9LmNscy01e2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtMik7fS5jbHMtNntmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50LTMpO30uY2xzLTd7bWl4LWJsZW5kLW1vZGU6c2NyZWVuO2ZpbGw6dXJsKCNyYWRpYWwtZ3JhZGllbnQtMyk7fTwvc3R5bGU+PHJhZGlhbEdyYWRpZW50IGlkPSJyYWRpYWwtZ3JhZGllbnQiIGN4PSI0MzguMyIgY3k9IjYzOS4wMSIgcj0iNTY5Ljk0IiBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKDAgMCkiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM2ODc3ZWMiLz48c3RvcCBvZmZzZXQ9IjAuNiIgc3RvcC1jb2xvcj0iIzUzNjJjZiIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzQzNTJiOSIvPjwvcmFkaWFsR3JhZGllbnQ+PHJhZGlhbEdyYWRpZW50IGlkPSJyYWRpYWwtZ3JhZGllbnQtMiIgY3g9IjY1LjY0IiBjeT0iLTE2LjIxIiByPSI3NDYuNDYiIGdyYWRpZW50VHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCAwKSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzAwZDVmZiIvPjxzdG9wIG9mZnNldD0iMC4zOCIgc3RvcC1jb2xvcj0iIzAwYjhlYiIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzAwODBjNSIvPjwvcmFkaWFsR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHgxPSI3NC43NyIgeTE9IjY3LjMiIHgyPSIyNzcuMjMiIHkyPSI1MTIuNzIiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMyOTRjYTciLz48c3RvcCBvZmZzZXQ9IjAuNDgiIHN0b3AtY29sb3I9IiM5NmE3ZDQiLz48c3RvcCBvZmZzZXQ9IjAuODQiIHN0b3AtY29sb3I9IiNlMWU2ZjMiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNmZmYiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50LTIiIHgxPSItMjI4Ljc0IiB5MT0iLTE0NC4yOSIgeDI9IjQ1MSIgeTI9IjY1MS44OSIgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgwIDApIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjNjg3N2VjIi8+PHN0b3Agb2Zmc2V0PSIwLjI5IiBzdG9wLWNvbG9yPSIjOTdhMWYyIi8+PHN0b3Agb2Zmc2V0PSIwLjc3IiBzdG9wLWNvbG9yPSIjZTJlNGZiIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZmZmIi8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudC0zIiB4MT0iLTE1MS4yMiIgeTE9Ii0yODUuOSIgeDI9IjQ1MC4wOCIgeTI9IjQzMC42MyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzgzOTdjYyIvPjxzdG9wIG9mZnNldD0iMC4xNSIgc3RvcC1jb2xvcj0iIzk3YThkNCIvPjxzdG9wIG9mZnNldD0iMC43MyIgc3RvcC1jb2xvcj0iI2UyZTZmMyIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2ZmZiIvPjwvbGluZWFyR3JhZGllbnQ+PHJhZGlhbEdyYWRpZW50IGlkPSJyYWRpYWwtZ3JhZGllbnQtMyIgY3g9IjI1OS42OCIgY3k9Ii0zNC43MSIgcj0iNDMxLjM3IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZmZmIi8+PHN0b3Agb2Zmc2V0PSIxIi8+PC9yYWRpYWxHcmFkaWVudD48L2RlZnM+PHRpdGxlPmxvZ28tb3JpZ2FtaTwvdGl0bGU+PGcgY2xhc3M9ImNscy0xIj48ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIj48cGF0aCBjbGFzcz0iY2xzLTIiIGQ9Ik0xNjguMDgsNTYwQTU3MC41NCw1NzAuNTQsMCwwLDAsNDU5Ljg0LDQwMy41OUw1Ni4yNSwwVjQ0OC4xN1oiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC01Ni4yNSkiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik01Ni4yNSw0NDguMTdDMzAzLjc3LDQ0OC4xNyw1MDQuNDIsMjQ3LjUyLDUwNC40MiwwSDU2LjI1WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTU2LjI1KSIvPjxwYXRoIGNsYXNzPSJjbHMtNCIgZD0iTTU2LjI1LDQ0OC4xN2gwTDczLjUsNDY1LjQyYzEyMS41Ny00LjQ1LDIzMS40LTU1LjY4LDMxMi0xMzYuMjNsLTEyLjI5LTEyLjI4QTQ0Ni44LDQ0Ni44LDAsMCwxLDU2LjI1LDQ0OC4xN1oiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC01Ni4yNSkiLz48cGF0aCBjbGFzcz0iY2xzLTUiIGQ9Ik0xNjguMDgsNTYwQTU3MC41NCw1NzAuNTQsMCwwLDAsNDU5Ljg0LDQwMy41OUw1Ni4yNSwwVjQ0OC4xN1oiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC01Ni4yNSkiLz48cGF0aCBjbGFzcz0iY2xzLTYiIGQ9Ik00NTkuODQsNDAzLjU5LDU2LjI1LDAsNDIzLjE0LDQzNy4xM0M0MzUuODMsNDI2LjQ2LDQ0OC4xMiw0MTUuMzEsNDU5Ljg0LDQwMy41OVoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC01Ni4yNSkiLz48cGF0aCBjbGFzcz0iY2xzLTciIGQ9Ik01Ni4yNSwwLDM3My4xNiwzMTYuOTFxNC4yMy00LjI1LDguMzUtOC42WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTU2LjI1KSIvPjwvZz48L2c+PC9zdmc+
 [pyenv]: https://img.shields.io/badge/-pyenv-212121?style=flat-square
 [volta]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=257a83&logoColor=257a83&label=&message=Volta&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QAeQC6AMEpK7AhAAAACXBIWXMAAAsSAAALEgHS3X78AAAAB3RJTUUH5AMGFS07qAYEaAAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAAAFmSURBVDjLY2CgB/g/j0H5/2wGW2xyTAQ1r2DQYOBgm8nwh+EY6TYvZtD7f9rn5e81fAGka17GYPL/esObP+dyj5Cs+edqZsv/V8o//H+z7P+XHarW+NSyoAv8WsFszyKTtoVBM5Tn7/Xys+zf7v76vYrJlPEvAwPjH0YGxp//3jGl/L8LU8+IrPnPUkY3ZomoDQwOpZwMv14zMHy8yMDwh4mB4Q8jA8OTgwz/L299wMDyx4Mp9f9NDAP+bWVwY3jGsJpB3JaDQVCEgYHlLwPDfwYWRqVQJgZmHoZ/+3PPfWP+68Mb/Pw5sqUoLni9ipuRnekrAwMjA8Ofb6K8/PKBF5nU7RX+Hize8Y2DOZTP7+kXogPy1zrH+f/vT/j/Z5nUvGcr5VhJioUf88UC/59L+/97gUgDyVH4YzqXxL8dOs/+zuFLJivd/53HseLPPHZPsjT/nsHi93cqozHZue7rLDYhUvUAADjCgneouzo/AAAAAElFTkSuQmCC
-[vscode]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=007acc&logoColor=007acc&label=&message=Visual%20Studio%20Code&logo=visual-studio-code&#007ACC
 
-<!-- Analytics -->
+<!-- Tools / Terminal -->
 
-[google analytics]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=e37400&logoColor=e37400&label=&message=GA&logo=google-analytics&#E37400
-[google tag manager]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=246fdb&logoColor=246fdb&label=&message=GTM&logo=google&tag-manager&#246FDB
+[alacritty]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=f46d01&logoColor=f46d01&label=&message=Alacritty&logo=alacritty&#F46D01
+[hyper]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=000000&logoColor=000000&label=&message=Hyper&logo=hyper&#000000
+[neovim]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=57a143&logoColor=57a143&label=&message=Neovim&logo=neovim&#57A143
+[tmux]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=1bb91f&logoColor=1bb91f&label=&message=tmux&logo=tmux&#1BB91F
+
+<!-- Toos / Analytics -->
+
+[google analytics]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=e37400&logoColor=e37400&label=&message=Google%20Analytics&logo=google-analytics&#E37400
+[google tag manager]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=246fdb&logoColor=246fdb&label=&message=Google%20Tag%20Manager&logo=google&tag-manager&#246FDB
 [hotjar]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=fd3a5c&logoColor=fd3a5c&label=&message=Hotjar&logo=hotjar&#FD3A5C
 
 <!-- Footer -->
