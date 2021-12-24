@@ -36,8 +36,8 @@
 <details>
   <summary>More</summary>
 
-[![Go]](https://golang.org/)
 [![Rust]](https://www.rust-lang.org/)
+[![Go]](https://golang.org/)
 \
 [![Kotlin]](https://kotlinlang.org/)
 [![Scala]](https://www.scala-lang.org/)
@@ -60,8 +60,8 @@
 ### Backend
 
 [![FastAPI]](https://fastapi.tiangolo.com/)
-[![NestJS]](https://nestjs.com/)
 [![Django]](https://www.djangoproject.com/)
+[![NestJS]](https://nestjs.com/)
 [![Express]](https://expressjs.com/)
 [![Flask]](https://flask.palletsprojects.com/)
 [![Laravel]](https://laravel.com/)
@@ -109,8 +109,10 @@
 [![Docker]](https://www.docker.com/)
 [![nginx]](https://www.nginx.com/)
 \
-[![Google Cloud]](https://cloud.google.com/)
 [![Amazon Web Services]](https://aws.amazon.com/)
+[![Google Cloud]](https://cloud.google.com/)
+[![Cloudflare]](https://www.cloudflare.com/)
+[![Firebase]](https://firebase.google.com/)
 
 [![VSCode]](https://code.visualstudio.com/)
 \
@@ -126,8 +128,8 @@
 [![tmux]](https://github.com/tmux/tmux)
 [![Neovim]](https://neovim.io/)
 
-[![Google Tag Manager]](https://marketingplatform.google.com/about/tag-manager/)
 [![Google Analytics]](https://marketingplatform.google.com/about/analytics/)
+[![Google Tag Manager]](https://marketingplatform.google.com/about/tag-manager/)
 [![Hotjar]](https://www.hotjar.com/)
 
 ---
@@ -215,7 +217,9 @@
 <!-- Cloud -->
 
 [amazon web services]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=232f3e&logoColor=232f3e&label=&message=Amazon%20Web%20Services&logo=amazon-aws&#232F3E
+[cloudflare]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=f38020&logoColor=f38020&label=&message=Cloudflare&logo=cloudflare&#F38020
 [google cloud]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=4285f4&logoColor=4285f4&label=&message=Google%20Cloud&logo=google-cloud&#4285F4
+[firebase]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=ffca28&logoColor=ffca28&label=&message=Firebase&logo=firebase&#FFCA28
 
 <!-- OS -->
 
@@ -245,8 +249,8 @@
 
 <!-- Toos / Analytics -->
 
-[google analytics]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=e37400&logoColor=e37400&label=&message=GA&logo=google-analytics&#E37400
-[google tag manager]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=246fdb&logoColor=246fdb&label=&message=GTM&logo=google&tag-manager&#246FDB
+[google analytics]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=e37400&logoColor=e37400&label=&message=Google%20Analytics&logo=google-analytics&#E37400
+[google tag manager]: https://img.shields.io/static/v1?style=flat-square&labelColor=f5f5f5&color=246fdb&logoColor=246fdb&label=&message=Google%20Tag%20Manager&logo=google&tag-manager&#246FDB
 [hotjar]: https://img.shields.io/static/v1?style=flat-square&labelColor=212121&color=fd3a5c&logoColor=fd3a5c&label=&message=Hotjar&logo=hotjar&#FD3A5C
 
 <!-- Footer -->
