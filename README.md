@@ -16,10 +16,10 @@
 </details>
 <details>
   <summary>🕙 WakaTime</summary>
-
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-
+<!-- prettier-ignore-start -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<!-- prettier-ignore-end -->
 </details>
 
 ## Languages
