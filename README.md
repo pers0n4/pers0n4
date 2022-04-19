@@ -27,8 +27,10 @@
 <!-- prettier-ignore-start -->
 <details>
   <summary>⏱️ WakaTime</summary>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 </details>
 <!-- prettier-ignore-end -->
 <!-- markdownlint-enable -->
