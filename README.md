@@ -9,10 +9,11 @@
 <!-- markdownlint-disable MD033 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=pers0n4&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=28&hide_border=true&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0&bg_color=212121"
-    alt="GitHub Readme Stats - GitHub Stats" />
+    src="https://github-readme-stats.vercel.app/api?username=pers0n4&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"
+    alt="GitHub Readme Stats - GitHub Stats"
+    height="160" />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=pers0n4&hide=css,tex&hide_title=true&layout=compact&langs_count=10&hide_border=true&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0&bg_color=212121"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=pers0n4&hide=css,tex&hide_title=true&layout=compact&langs_count=8&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"
     alt="GitHub Readme Stats - Top Languages"
 /></a>
 
