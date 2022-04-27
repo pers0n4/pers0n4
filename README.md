@@ -1,4 +1,4 @@
-# **_Hello, world!_**
+# **_Dong-Young Kim_**
 
 [![Resume](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=000000&logo=notion&label=&message=Resume)](https://dong-young.kim/)
 [![Blog](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=00c7b7&logo=netlify&label=&message=Blog)](https://pers0n4.io/)
@@ -7,21 +7,48 @@
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=ea4335&logo=gmail&label=&message=Gmail)](mailto:31337.persona@gmail.com)
 
 <!-- markdownlint-disable MD033 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
   <img
     src="https://github-readme-stats.vercel.app/api?username=pers0n4&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"
-    alt="GitHub Readme Stats - GitHub Stats"
-    height="160" />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=pers0n4&hide=css,tex&hide_title=true&layout=compact&langs_count=8&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"
-    alt="GitHub Readme Stats - Top Languages"
+    alt="Github Stats Card"
+    height="160"
 /></a>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=pers0n4&theme=onedark&row=1&column=7&no-frame=true"
-    alt="GitHub Profile Trophy"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=pers0n4&hide=css,tex&hide_title=true&layout=compact&langs_count=8&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"
+    alt="Top Languages Card"
 /></a>
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+          <img
+            src="https://github-readme-streak-stats.herokuapp.com/?user=pers0n4&theme=onedark&hide_border=true&stroke=f0eee9&ring=5f4b8b&fire=5f4b8b&currStreakNum=00abc0&currStreakLabel=00abc0&date_format=Y-m-d"
+            alt="GitHub Streak Stats"
+        /></a>
+      </td>
+      <td>
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+          <img
+            src="https://github-profile-trophy.vercel.app/?username=pers0n4&theme=onedark&row=2&column=4&no-frame=true"
+            alt="GitHub Profile Trophy"
+        /></a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+          <img
+            src="https://activity-graph.herokuapp.com/graph?username=pers0n4&bg_color=282c34&color=f0eee9&line=5f4b8b&point=00abc0&hide_border=true&hide_title=true"
+            alt="GitHub Activity Graph"
+        /></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 <!-- markdownlint-enable -->
 
 <!-- markdownlint-disable MD033 -->
