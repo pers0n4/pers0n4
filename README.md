@@ -130,7 +130,6 @@
 \
 [![pyenv]](https://github.com/pyenv/pyenv)
 [![Poetry]](https://python-poetry.org/)
-[![pre-commit]](https://pre-commit.com/)
 
 </details>
 <!-- markdownlint-enable -->
@@ -145,12 +144,14 @@
 
 [![TensorFlow]](https://www.tensorflow.org/)
 [![Keras]](https://keras.io/)
+[![scikit-learn]](https://scikit-learn.org/stable/)
 [![Pandas]](https://pandas.pydata.org/)
 
 ## DevOps & Tools
 
 [![Git]](https://git-scm.com/)
 [![Conventional Commits]](https://conventionalcommits.org)
+[![pre-commit]](https://pre-commit.com/)
 \
 [![GitHub]](https://github.com/)
 [![GitLab]](https://about.gitlab.com/)
@@ -213,7 +214,6 @@
 <!-- Libraries & Frameworks / Tools -->
 
 [insomnia]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Insomnia
-[pre-commit]: https://img.shields.io/endpoint?url=https://badges.deno.dev/pre-commit
 [storybook]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Storybook
 [swagger]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Swagger
 
@@ -236,6 +236,7 @@
 [pandas]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Pandas
 [postgresql]: https://img.shields.io/endpoint?url=https://badges.deno.dev/PostgreSQL
 [redis]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Redis
+[scikit-learn]: https://img.shields.io/endpoint?url=https://badges.deno.dev/scikit-learn
 [tensorflow]: https://img.shields.io/endpoint?url=https://badges.deno.dev/TensorFlow
 
 <!-- Version Control System -->
@@ -245,6 +246,7 @@
 [git]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Git
 [github]: https://img.shields.io/endpoint?url=https://badges.deno.dev/GitHub
 [gitlab]: https://img.shields.io/endpoint?url=https://badges.deno.dev/GitLab
+[pre-commit]: https://img.shields.io/endpoint?url=https://badges.deno.dev/pre-commit
 
 <!-- DevOps -->
 
