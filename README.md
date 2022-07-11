@@ -135,21 +135,20 @@ Java                     4 repos             █░░░░░░░░░░�
 [![TypeScript]](https://www.typescriptlang.org/)
 [![Python]](https://www.python.org/)
 [![JavaScript]](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
-\
-[![Java]](https://openjdk.java.net/)
-[![PHP]](https://www.php.net/)
-[![C++]](https://isocpp.org/)
-[![C]](https://en.cppreference.com/w/c)
 
 <!-- markdownlint-disable MD033 -->
 <details>
   <summary>More</summary>
 
-[![Rust]](https://www.rust-lang.org/)
-[![Go]](https://golang.org/)
+[![Java]](https://openjdk.java.net/)
+[![PHP]](https://www.php.net/)
+[![C++]](https://isocpp.org/)
+[![C]](https://en.cppreference.com/w/c)
 \
 [![Kotlin]](https://kotlinlang.org/)
 [![Scala]](https://www.scala-lang.org/)
+[![Rust]](https://www.rust-lang.org/)
+[![Go]](https://golang.org/)
 
 </details>
 <!-- markdownlint-enable -->
@@ -164,8 +163,8 @@ Java                     4 repos             █░░░░░░░░░░�
 [![Vue.js]](https://vuejs.org/)
 [![Nuxt.js]](https://nuxtjs.org/)
 \
-[![React Native]](https://reactnative.dev/)
 [![Expo]](https://expo.dev/)
+[![React Native]](https://reactnative.dev/)
 
 ### Backend
 
@@ -230,11 +229,11 @@ Java                     4 repos             █░░░░░░░░░░�
 [![NGINX]](https://www.nginx.com/)
 
 [![GitHub Pages]](https://pages.github.com/)
-[![Netlify]](https://www.netlify.com/)
 [![Vercel]](https://vercel.com/)
-[![Heroku]](https://www.heroku.com/)
-[![Cloudflare]](https://www.cloudflare.com/)
+[![Netlify]](https://www.netlify.com/)
 [![Firebase]](https://firebase.google.com/)
+[![Cloudflare]](https://www.cloudflare.com/)
+[![Heroku]](https://www.heroku.com/)
 \
 [![Amazon Web Services]](https://aws.amazon.com/)
 [![Google Cloud]](https://cloud.google.com/)
@@ -250,7 +249,7 @@ Java                     4 repos             █░░░░░░░░░░�
 [c]: https://img.shields.io/endpoint?url=https://badges.deno.dev/C
 [c++]: https://img.shields.io/endpoint?url=https://badges.deno.dev/C%2B%2B?namedLogo=cplusplus
 [go]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Go
-[java]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Java
+[java]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Java?namedLogo=openjdk
 [javascript]: https://img.shields.io/endpoint?url=https://badges.deno.dev/JavaScript
 [kotlin]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Kotlin
 [php]: https://img.shields.io/endpoint?url=https://badges.deno.dev/PHP
