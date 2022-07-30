@@ -118,9 +118,6 @@ Java                     4 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/pers0n4/pers0n4/main/charts/bar_graph.png) 
-
-
  Last Updated on 2022-07-30T02:10:09 UTC
 <!--END_SECTION:waka-->
 
@@ -133,20 +130,21 @@ Java                     4 repos             █░░░░░░░░░░�
 [![TypeScript]](https://www.typescriptlang.org/)
 [![Python]](https://www.python.org/)
 [![JavaScript]](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
+\
+[![PHP]](https://www.php.net/)
+[![Java]](https://openjdk.java.net/)
+[![C++]](https://isocpp.org/)
+[![C]](https://www.open-std.org/jtc1/sc22/wg14/)
 
 <!-- markdownlint-disable MD033 -->
 <details>
   <summary>More</summary>
 
-[![Java]](https://openjdk.java.net/)
-[![PHP]](https://www.php.net/)
-[![C++]](https://isocpp.org/)
-[![C]](https://en.cppreference.com/w/c)
-\
 [![Kotlin]](https://kotlinlang.org/)
 [![Scala]](https://www.scala-lang.org/)
-[![Rust]](https://www.rust-lang.org/)
+\
 [![Go]](https://golang.org/)
+[![Rust]](https://www.rust-lang.org/)
 
 </details>
 <!-- markdownlint-enable -->
@@ -203,13 +201,14 @@ Java                     4 repos             █░░░░░░░░░░�
 [![PostgreSQL]](https://www.postgresql.org/)
 [![MariaDB]](https://mariadb.org/)
 \
-[![MongoDB]](https://www.mongodb.com/)
 [![Redis]](https://redis.io/)
+[![MongoDB]](https://www.mongodb.com/)
 
-[![TensorFlow]](https://www.tensorflow.org/)
-[![Keras]](https://keras.io/)
 [![scikit-learn]](https://scikit-learn.org/stable/)
 [![Pandas]](https://pandas.pydata.org/)
+\
+[![TensorFlow]](https://www.tensorflow.org/)
+[![Keras]](https://keras.io/)
 
 ## DevOps & Tools
 
@@ -221,12 +220,10 @@ Java                     4 repos             █░░░░░░░░░░�
 [![GitLab]](https://about.gitlab.com/)
 [![Bitbucket]](https://bitbucket.org/)
 
-[![GitHub Actions]](https://github.com/features/actions)
-\
 [![Docker]](https://www.docker.com/)
-[![NGINX]](https://www.nginx.com/)
 
-[![GitHub Pages]](https://pages.github.com/)
+[![GitHub Actions]](https://github.com/features/actions)
+
 [![Vercel]](https://vercel.com/)
 [![Netlify]](https://www.netlify.com/)
 [![Firebase]](https://firebase.google.com/)
@@ -316,14 +313,12 @@ Java                     4 repos             █░░░░░░░░░░�
 
 [docker]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Docker
 [github actions]: https://img.shields.io/endpoint?url=https://badges.deno.dev/?message=GitHub%2BActions
-[nginx]: https://img.shields.io/endpoint?url=https://badges.deno.dev/NGINX
 
 <!-- Cloud -->
 
 [amazon web services]: https://img.shields.io/endpoint?url=https://badges.deno.dev/?message=Amazon%2BWeb%2BServices%26namedLogo=amazon-aws
 [cloudflare]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Cloudflare
 [firebase]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Firebase
-[github pages]: https://img.shields.io/endpoint?url=https://badges.deno.dev/?message=GitHub%2BPages
 [google cloud]: https://img.shields.io/endpoint?url=https://badges.deno.dev/?message=Google%2BCloud
 [heroku]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Heroku
 [netlify]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Netlify
