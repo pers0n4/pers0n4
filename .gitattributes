@@ -1,0 +1,4 @@
+* text=auto
+
+*.md linguist-detectable
+*.md -linguist-documentation
