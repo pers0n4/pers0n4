@@ -1,8 +1,8 @@
 # **_Dong-Young Kim_**
 
 [![Resume](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=000000&logo=notion&label=&message=Resume)](https://dong-young.kim/)
-[![Blog](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=00c7b7&logo=netlify&label=&message=Blog)](https://pers0n4.io/)
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=0077b5&logo=linkedin&label=&message=LinkedIn)](https://www.linkedin.com/in/dong-young-kim)
+[![Blog](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=663399&logo=gatsby&label=&message=Blog)](https://pers0n4.io/)
 [![StackShare](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=0690fa&logo=stackshare&label=&message=StackShare)](https://stackshare.io/pers0n4)
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=ea4335&logo=gmail&label=&message=Gmail)](mailto:31337.persona@gmail.com)
 
@@ -65,24 +65,23 @@
 
 ## Languages
 
-[![TypeScript]](https://www.typescriptlang.org/)
-[![Python]](https://www.python.org/)
-[![JavaScript]](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
+[![TypeScript][typescript]](https://www.typescriptlang.org/)
+[![Python][python]](https://www.python.org/)
+[![JavaScript][javascript]](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
 \
-[![PHP]](https://www.php.net/)
-[![Java]](https://openjdk.java.net/)
-[![C++]](https://isocpp.org/)
-[![C]](https://www.open-std.org/jtc1/sc22/wg14/)
+[![PHP][php]](https://www.php.net/)
+[![Java][java]](https://openjdk.java.net/)
+[![C++][c++]](https://isocpp.org/)
 
 <!-- markdownlint-disable MD033 -->
 <details>
   <summary>More</summary>
 
-[![Kotlin]](https://kotlinlang.org/)
-[![Scala]](https://www.scala-lang.org/)
+[![Kotlin][kotlin]](https://kotlinlang.org/)
+[![Scala][scala]](https://www.scala-lang.org/)
 \
-[![Go]](https://golang.org/)
-[![Rust]](https://www.rust-lang.org/)
+[![Go][go]](https://golang.org/)
+[![Rust][rust]](https://www.rust-lang.org/)
 
 </details>
 <!-- markdownlint-enable -->
@@ -91,95 +90,93 @@
 
 ### Frontend
 
-[![React]](https://reactjs.org/)
-[![Gatsby]](https://www.gatsbyjs.com/)
+[![React][react]](https://reactjs.org/)
+[![Gatsby][gatsby]](https://www.gatsbyjs.com/)
+[![Next.js][next.js]](https://nextjs.org/)
 \
-[![Vue.js]](https://vuejs.org/)
-[![Nuxt.js]](https://nuxtjs.org/)
+[![Vue.js][vue.js]](https://vuejs.org/)
+[![Nuxt.js][nuxt.js]](https://nuxtjs.org/)
 \
-[![Expo]](https://expo.dev/)
-[![React Native]](https://reactnative.dev/)
+[![React Native][react native]](https://reactnative.dev/)
+[![Expo][expo]](https://expo.dev/)
+\
+[![Storybook][storybook]](https://storybook.js.org/)
 
 ### Backend
 
-[![FastAPI]](https://fastapi.tiangolo.com/)
-[![Django]](https://www.djangoproject.com/)
-[![Flask]](https://flask.palletsprojects.com/)
+[![FastAPI][fastapi]](https://fastapi.tiangolo.com/)
+[![Django][django]](https://www.djangoproject.com/)
+[![Flask][flask]](https://flask.palletsprojects.com/)
 \
-[![NestJS]](https://nestjs.com/)
-[![Express]](https://expressjs.com/)
+[![NestJS][nestjs]](https://nestjs.com/)
+[![Express][express]](https://expressjs.com/)
 \
-[![Laravel]](https://laravel.com/)
-[![Spring Boot]](https://spring.io/)
+[![Laravel][laravel]](https://laravel.com/)
+[![Spring Boot][spring boot]](https://spring.io/)
+\
+[![Swagger][swagger]](https://swagger.io/)
 
 <!-- markdownlint-disable MD033 -->
 <details>
   <summary>Tools</summary>
 
-[![Storybook]](https://storybook.js.org/)
-[![Swagger]](https://swagger.io/)
-[![Insomnia]](https://insomnia.rest/)
+[![Node.js][nodejs]](https://nodejs.org/en/)
+[![Deno][deno]](https://deno.land/)
 
-[![Node.js]](https://nodejs.org/en/)
-[![Deno]](https://deno.land/)
+[![yarn][yarn]](https://yarnpkg.com/)
+[![pnpm][pnpm]](https://pnpm.io/)
 \
-[![Volta]](https://volta.sh/)
-[![nvm]](https://github.com/nvm-sh/nvm)
-[![yarn]](https://yarnpkg.com/)
-[![pnpm]](https://pnpm.io/)
-\
-[![pyenv]](https://github.com/pyenv/pyenv)
-[![Poetry]](https://python-poetry.org/)
+[![Poetry][poetry]](https://python-poetry.org/)
+
+[![Insomnia][insomnia]](https://insomnia.rest/)
 
 </details>
 <!-- markdownlint-enable -->
 
 ## Data & ML
 
-[![PostgreSQL]](https://www.postgresql.org/)
-[![MariaDB]](https://mariadb.org/)
+[![PostgreSQL][postgresql]](https://www.postgresql.org/)
+[![MariaDB][mariadb]](https://mariadb.org/)
 \
-[![Redis]](https://redis.io/)
-[![MongoDB]](https://www.mongodb.com/)
+[![Redis][redis]](https://redis.io/)
+[![MongoDB][mongodb]](https://www.mongodb.com/)
 
-[![scikit-learn]](https://scikit-learn.org/stable/)
-[![Pandas]](https://pandas.pydata.org/)
+[![Pandas][pandas]](https://pandas.pydata.org/)
+[![scikit-learn][scikit-learn]](https://scikit-learn.org/stable/)
 \
-[![TensorFlow]](https://www.tensorflow.org/)
-[![Keras]](https://keras.io/)
+[![TensorFlow][tensorflow]](https://www.tensorflow.org/)
+[![Keras][keras]](https://keras.io/)
 
 ## DevOps & Tools
 
-[![Git]](https://git-scm.com/)
-[![Conventional Commits]](https://conventionalcommits.org)
-[![pre-commit]](https://pre-commit.com/)
+[![Git][git]](https://git-scm.com/)
+[![Conventional Commits][conventional commits]](https://conventionalcommits.org)
+[![pre-commit][pre-commit]](https://pre-commit.com/)
 \
-[![GitHub]](https://github.com/)
-[![GitLab]](https://about.gitlab.com/)
-[![Bitbucket]](https://bitbucket.org/)
+[![GitHub][github]](https://github.com/)
+[![GitLab][gitlab]](https://about.gitlab.com/)
+[![Bitbucket][bitbucket]](https://bitbucket.org/)
 
-[![Docker]](https://www.docker.com/)
+[![Docker][docker]](https://www.docker.com/)
+[![GitHub Actions][github actions]](https://github.com/features/actions)
 
-[![GitHub Actions]](https://github.com/features/actions)
-
-[![Vercel]](https://vercel.com/)
-[![Netlify]](https://www.netlify.com/)
-[![Firebase]](https://firebase.google.com/)
-[![Cloudflare]](https://www.cloudflare.com/)
-[![Heroku]](https://www.heroku.com/)
+[![Vercel][vercel]](https://vercel.com/)
+[![Netlify][netlify]](https://www.netlify.com/)
+[![Firebase][firebase]](https://firebase.google.com/)
+[![Cloudflare][cloudflare]](https://www.cloudflare.com/)
+[![Heroku][heroku]](https://www.heroku.com/)
 \
-[![Amazon Web Services]](https://aws.amazon.com/)
-[![Google Cloud]](https://cloud.google.com/)
+[![Amazon Web Services][amazon web services]](https://aws.amazon.com/)
+[![Google Cloud][google cloud]](https://cloud.google.com/)
 
-[![Ubuntu]](https://ubuntu.com/)
-[![Arch]](https://archlinux.org/)
-[![Alpine]](https://alpinelinux.org/)
+[![Ubuntu][ubuntu]](https://ubuntu.com/)
+[![Arch][arch]](https://archlinux.org/)
+[![Alpine][alpine]](https://alpinelinux.org/)
 
 <!-------------------------------- Badge Links -------------------------------->
 
 <!-- Languages -->
 
-[c]: https://img.shields.io/endpoint?url=https://badges.deno.dev/C
 [c++]: https://img.shields.io/endpoint?url=https://badges.deno.dev/C%2B%2B?namedLogo=cplusplus
 [go]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Go
 [java]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Java?namedLogo=openjdk
@@ -193,12 +190,13 @@
 
 <!-- Libraries & Frameworks / Frontend -->
 
+[expo]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Expo
 [gatsby]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Gatsby
-[react]: https://img.shields.io/endpoint?url=https://badges.deno.dev/React
-[vue.js]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Vue.js
+[next.js]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Next.js
 [nuxt.js]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Nuxt.js
 [react native]: https://img.shields.io/endpoint?url=https://badges.deno.dev/?message=React%2BNative%26namedLogo=react
-[expo]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Expo
+[react]: https://img.shields.io/endpoint?url=https://badges.deno.dev/React
+[vue.js]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Vue.js
 
 <!-- Libraries & Frameworks / Backend -->
 
@@ -216,15 +214,12 @@
 [storybook]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Storybook
 [swagger]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Swagger
 
-<!-- Libraries & Frameworks / Package Manager -->
+<!-- Libraries & Frameworks / Runtime & Package Manager -->
 
 [deno]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Deno
 [node.js]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Node.js
-[nvm]: https://img.shields.io/endpoint?url=https://badges.deno.dev/nvm?namedLogo=npm
 [pnpm]: https://img.shields.io/endpoint?url=https://badges.deno.dev/pnpm
 [poetry]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Poetry
-[pyenv]: https://img.shields.io/endpoint?url=https://badges.deno.dev/pyenv?color=3776ab
-[volta]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Volta?color=257a83
 [yarn]: https://img.shields.io/endpoint?url=https://badges.deno.dev/yarn
 
 <!-- Data & ML -->
@@ -260,6 +255,7 @@
 [google cloud]: https://img.shields.io/endpoint?url=https://badges.deno.dev/?message=Google%2BCloud
 [heroku]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Heroku
 [netlify]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Netlify
+[supabase]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Supabase
 [vercel]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Vercel
 
 <!-- OS -->
