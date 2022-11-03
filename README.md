@@ -120,7 +120,7 @@
 <details>
   <summary>Tools</summary>
 
-[![Node.js][nodejs]](https://nodejs.org/en/)
+[![Node.js][node.js]](https://nodejs.org/en/)
 [![Deno][deno]](https://deno.land/)
 
 [![yarn][yarn]](https://yarnpkg.com/)
