@@ -65,18 +65,18 @@
 
 ## Languages
 
+[![JavaScript][javascript]](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
 [![TypeScript][typescript]](https://www.typescriptlang.org/)
 [![Python][python]](https://www.python.org/)
-[![JavaScript][javascript]](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
-\
-[![PHP][php]](https://www.php.net/)
-[![Java][java]](https://openjdk.java.net/)
-[![C++][c++]](https://isocpp.org/)
 
 <!-- markdownlint-disable MD033 -->
 <details>
   <summary>More</summary>
 
+[![PHP][php]](https://www.php.net/)
+[![Java][java]](https://openjdk.java.net/)
+[![C++][c++]](https://isocpp.org/)
+\
 [![Kotlin][kotlin]](https://kotlinlang.org/)
 [![Scala][scala]](https://www.scala-lang.org/)
 \
@@ -91,44 +91,44 @@
 ### Frontend
 
 [![React][react]](https://reactjs.org/)
-[![Gatsby][gatsby]](https://www.gatsbyjs.com/)
 [![Next.js][next.js]](https://nextjs.org/)
+[![Gatsby][gatsby]](https://www.gatsbyjs.com/)
 \
 [![Vue.js][vue.js]](https://vuejs.org/)
 [![Nuxt.js][nuxt.js]](https://nuxtjs.org/)
-\
-[![React Native][react native]](https://reactnative.dev/)
-[![Expo][expo]](https://expo.dev/)
 \
 [![Storybook][storybook]](https://storybook.js.org/)
 
 ### Backend
 
 [![FastAPI][fastapi]](https://fastapi.tiangolo.com/)
-[![Django][django]](https://www.djangoproject.com/)
 [![Flask][flask]](https://flask.palletsprojects.com/)
+[![Django][django]](https://www.djangoproject.com/)
 \
 [![NestJS][nestjs]](https://nestjs.com/)
 [![Express][express]](https://expressjs.com/)
-\
-[![Laravel][laravel]](https://laravel.com/)
-[![Spring Boot][spring boot]](https://spring.io/)
+[![Fastify][fastify]](https://www.fastify.io/)
 \
 [![Swagger][swagger]](https://swagger.io/)
+[![Insomnia][insomnia]](https://insomnia.rest/)
 
 <!-- markdownlint-disable MD033 -->
 <details>
-  <summary>Tools</summary>
+  <summary>More</summary>
+
+[![React Native][react native]](https://reactnative.dev/)
+[![Expo][expo]](https://expo.dev/)
+\
+[![Laravel][laravel]](https://laravel.com/)
+[![Spring Boot][spring boot]](https://spring.io/)
 
 [![Node.js][node.js]](https://nodejs.org/en/)
 [![Deno][deno]](https://deno.land/)
-
+\
 [![yarn][yarn]](https://yarnpkg.com/)
 [![pnpm][pnpm]](https://pnpm.io/)
 \
 [![Poetry][poetry]](https://python-poetry.org/)
-
-[![Insomnia][insomnia]](https://insomnia.rest/)
 
 </details>
 <!-- markdownlint-enable -->
@@ -162,8 +162,9 @@
 
 [![Vercel][vercel]](https://vercel.com/)
 [![Netlify][netlify]](https://www.netlify.com/)
-[![Firebase][firebase]](https://firebase.google.com/)
 [![Cloudflare][cloudflare]](https://www.cloudflare.com/)
+[![Firebase][firebase]](https://firebase.google.com/)
+[![Supabase][supabase]](https://www.cloudflare.com/)
 [![Heroku][heroku]](https://www.heroku.com/)
 \
 [![Amazon Web Services][amazon web services]](https://aws.amazon.com/)
@@ -191,6 +192,7 @@
 <!-- Libraries & Frameworks / Frontend -->
 
 [expo]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Expo
+[fastify]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Fastify
 [gatsby]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Gatsby
 [next.js]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Next.js
 [nuxt.js]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Nuxt.js
