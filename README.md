@@ -42,7 +42,7 @@
       <td colspan="2">
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
           <img
-            src="https://activity-graph.herokuapp.com/graph?username=pers0n4&bg_color=282c34&color=f0eee9&line=5f4b8b&point=00abc0&hide_border=true&hide_title=true"
+            src="https://github-readme-activity-graph.cyclic.app/graph?username=pers0n4&bg_color=282c34&color=f0eee9&line=5f4b8b&point=00abc0&hide_border=true&hide_title=true"
             alt="GitHub Activity Graph"
         /></a>
       </td>
