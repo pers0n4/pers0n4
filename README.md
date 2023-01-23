@@ -129,6 +129,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 [![JavaScript][javascript]](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
 [![TypeScript][typescript]](https://www.typescriptlang.org/)
 [![Python][python]](https://www.python.org/)
+[![Dart][dart]](https://dart.dev/)
 
 <!-- markdownlint-disable MD033 -->
 <details>
@@ -177,8 +178,8 @@ HTML                     4 repos             █░░░░░░░░░░�
 <details>
   <summary>More</summary>
 
+[![Flutter][flutter]](https://flutter.dev/)
 [![React Native][react native]](https://reactnative.dev/)
-[![Expo][expo]](https://expo.dev/)
 \
 [![Laravel][laravel]](https://laravel.com/)
 [![Spring Boot][spring boot]](https://spring.io/)
@@ -240,6 +241,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 <!-- Languages -->
 
 [c++]: https://img.shields.io/endpoint?url=https://badges.deno.dev/C%2B%2B?namedLogo=cplusplus
+[dart]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Dart
 [go]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Go
 [java]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Java?namedLogo=openjdk
 [javascript]: https://img.shields.io/endpoint?url=https://badges.deno.dev/JavaScript
@@ -252,8 +254,8 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 <!-- Libraries & Frameworks / Frontend -->
 
-[expo]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Expo
 [fastify]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Fastify
+[flutter]:  https://img.shields.io/endpoint?url=https://badges.deno.dev/Flutter
 [gatsby]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Gatsby
 [next.js]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Next.js
 [nuxt.js]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Nuxt.js
