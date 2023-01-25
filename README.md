@@ -26,7 +26,7 @@
       <td>
         <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
           <img
-            src="https://github-readme-streak-stats.herokuapp.com/?user=pers0n4&theme=onedark&hide_border=true&stroke=f0eee9&ring=5f4b8b&fire=5f4b8b&currStreakNum=00abc0&currStreakLabel=00abc0&date_format=Y-m-d"
+            src="https://streak-stats.demolab.com/?user=pers0n4&theme=onedark&hide_border=true&stroke=f0eee9&ring=5f4b8b&fire=5f4b8b&currStreakNum=00abc0&currStreakLabel=00abc0&date_format=Y-m-d"
             alt="GitHub Streak Stats"
         /></a>
       </td>
@@ -228,7 +228,6 @@ HTML                     4 repos             █░░░░░░░░░░�
 [![Cloudflare][cloudflare]](https://www.cloudflare.com/)
 [![Firebase][firebase]](https://firebase.google.com/)
 [![Supabase][supabase]](https://www.cloudflare.com/)
-[![Heroku][heroku]](https://www.heroku.com/)
 \
 [![Amazon Web Services][amazon web services]](https://aws.amazon.com/)
 [![Google Cloud][google cloud]](https://cloud.google.com/)
@@ -319,7 +318,6 @@ HTML                     4 repos             █░░░░░░░░░░�
 [cloudflare]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Cloudflare
 [firebase]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Firebase
 [google cloud]: https://img.shields.io/endpoint?url=https://badges.deno.dev/?message=Google%2BCloud
-[heroku]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Heroku
 [netlify]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Netlify
 [supabase]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Supabase
 [vercel]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Vercel
