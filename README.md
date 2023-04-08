@@ -3,58 +3,54 @@
 [![Resume](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=000000&logo=notion&label=&message=Resume)](https://dong-young.kim/)
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=0077b5&logo=linkedin&label=&message=LinkedIn)](https://www.linkedin.com/in/dong-young-kim)
 [![Blog](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=663399&logo=gatsby&label=&message=Blog)](https://pers0n4.io/)
-[![StackShare](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=0690fa&logo=stackshare&label=&message=StackShare)](https://stackshare.io/pers0n4)
-[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=ea4335&logo=gmail&label=&message=Gmail)](mailto:31337.persona@gmail.com)
 
 <!-- markdownlint-disable MD033 -->
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
   <img
-    src="https://pers0n4-github-readme-stats.vercel.app/api?username=pers0n4&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"
+    src="https://github-readme-stats.vercel.app/api?username=pers0n4&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"
     alt="Github Stats Card"
     height="160"
-/></a>
-
+  />
+</a>
 <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
   <img
-    src="https://pers0n4-github-readme-stats.vercel.app/api/top-langs?username=pers0n4&hide=css,tex&hide_title=true&layout=compact&langs_count=8&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=pers0n4&hide=css,tex&hide_title=true&layout=compact&langs_count=8&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"
     alt="Top Languages Card"
-/></a>
+  />
+</a>
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-          <img
-            src="https://streak-stats.demolab.com/?user=pers0n4&theme=onedark&hide_border=true&stroke=f0eee9&ring=5f4b8b&fire=5f4b8b&currStreakNum=00abc0&currStreakLabel=00abc0&date_format=Y-m-d"
-            alt="GitHub Streak Stats"
-        /></a>
-      </td>
-      <td>
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img
-            src="https://github-profile-trophy.vercel.app/?username=pers0n4&theme=onedark&row=2&column=4&no-frame=true"
-            alt="GitHub Profile Trophy"
-        /></a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-          <img
-            src="https://github-readme-activity-graph.cyclic.app/graph?username=pers0n4&bg_color=282c34&color=f0eee9&line=5f4b8b&point=00abc0&hide_border=true&hide_title=true"
-            alt="GitHub Activity Graph"
-        /></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<details open>
+  <summary>Statistics</summary>
+
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+            <img
+              src="https://streak-stats.demolab.com/?user=pers0n4&theme=onedark&hide_border=true&stroke=f0eee9&ring=5f4b8b&fire=5f4b8b&currStreakNum=00abc0&currStreakLabel=00abc0&date_format=Y-m-d"
+              alt="GitHub Streak Stats"
+            />
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/ryo-ma/github-profile-trophy">
+            <img
+              src="https://github-profile-trophy.vercel.app/?username=pers0n4&theme=onedark&row=2&column=4&no-frame=true"
+              alt="GitHub Profile Trophy"
+            />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 <!-- markdownlint-enable -->
 
 <!-- markdownlint-disable MD033 -->
 <!-- prettier-ignore-start -->
 <details>
-  <summary>⏱️ WakaTime</summary>
+  <summary>WakaTime</summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C590%20hrs%2026%20mins-blue)
@@ -125,33 +121,33 @@ Dart                     1 repo              ░░░░░░░░░░░�
 <!-- prettier-ignore-end -->
 <!-- markdownlint-enable -->
 
-## Languages
+---
 
-[![JavaScript][javascript]](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
+## Skills
+
+### Languages
+
 [![TypeScript][typescript]](https://www.typescriptlang.org/)
 [![Python][python]](https://www.python.org/)
-[![Dart][dart]](https://dart.dev/)
 
 <!-- markdownlint-disable MD033 -->
 <details>
   <summary>More</summary>
 
-[![PHP][php]](https://www.php.net/)
-[![Java][java]](https://openjdk.java.net/)
-[![C++][c++]](https://isocpp.org/)
-\
-[![Kotlin][kotlin]](https://kotlinlang.org/)
-[![Scala][scala]](https://www.scala-lang.org/)
+[![Dart][dart]](https://dart.dev/)
 \
 [![Go][go]](https://golang.org/)
 [![Rust][rust]](https://www.rust-lang.org/)
+\
+[![Kotlin][kotlin]](https://kotlinlang.org/)
+[![Scala][scala]](https://www.scala-lang.org/)
 
 </details>
 <!-- markdownlint-enable -->
 
-## Libraries & Frameworks
+### Frameworks & Libraries
 
-### Frontend
+#### Frontend
 
 [![React][react]](https://reactjs.org/)
 [![Next.js][next.js]](https://nextjs.org/)
@@ -159,21 +155,6 @@ Dart                     1 repo              ░░░░░░░░░░░�
 \
 [![Vue.js][vue.js]](https://vuejs.org/)
 [![Nuxt.js][nuxt.js]](https://nuxtjs.org/)
-\
-[![Storybook][storybook]](https://storybook.js.org/)
-
-### Backend
-
-[![FastAPI][fastapi]](https://fastapi.tiangolo.com/)
-[![Flask][flask]](https://flask.palletsprojects.com/)
-[![Django][django]](https://www.djangoproject.com/)
-\
-[![NestJS][nestjs]](https://nestjs.com/)
-[![Express][express]](https://expressjs.com/)
-[![Fastify][fastify]](https://www.fastify.io/)
-\
-[![Swagger][swagger]](https://swagger.io/)
-[![Insomnia][insomnia]](https://insomnia.rest/)
 
 <!-- markdownlint-disable MD033 -->
 <details>
@@ -182,21 +163,43 @@ Dart                     1 repo              ░░░░░░░░░░░�
 [![Flutter][flutter]](https://flutter.dev/)
 [![React Native][react native]](https://reactnative.dev/)
 \
-[![Laravel][laravel]](https://laravel.com/)
-[![Spring Boot][spring boot]](https://spring.io/)
+[![Storybook][storybook]](https://storybook.js.org/)
 
 [![Node.js][node.js]](https://nodejs.org/en/)
 [![Deno][deno]](https://deno.land/)
 \
 [![yarn][yarn]](https://yarnpkg.com/)
 [![pnpm][pnpm]](https://pnpm.io/)
+
+</details>
+<!-- markdownlint-enable -->
+
+### Backend
+
+[![FastAPI][fastapi]](https://fastapi.tiangolo.com/)
+[![Django][django]](https://www.djangoproject.com/)
+[![Flask][flask]](https://flask.palletsprojects.com/)
 \
+[![NestJS][nestjs]](https://nestjs.com/)
+[![Express][express]](https://expressjs.com/)
+[![Fastify][fastify]](https://www.fastify.io/)
+
+<!-- markdownlint-disable MD033 -->
+<details>
+  <summary>More</summary>
+
+[![Laravel][laravel]](https://laravel.com/)
+[![Spring Boot][spring boot]](https://spring.io/)
+\
+[![Swagger][swagger]](https://swagger.io/)
+[![Insomnia][insomnia]](https://insomnia.rest/)
+
 [![Poetry][poetry]](https://python-poetry.org/)
 
 </details>
 <!-- markdownlint-enable -->
 
-## Data & ML
+### Data & ML
 
 [![PostgreSQL][postgresql]](https://www.postgresql.org/)
 [![MariaDB][mariadb]](https://mariadb.org/)
@@ -204,24 +207,23 @@ Dart                     1 repo              ░░░░░░░░░░░�
 [![Redis][redis]](https://redis.io/)
 [![MongoDB][mongodb]](https://www.mongodb.com/)
 
+<!-- markdownlint-disable MD033 -->
+<details>
+  <summary>More</summary>
+
 [![Pandas][pandas]](https://pandas.pydata.org/)
 [![scikit-learn][scikit-learn]](https://scikit-learn.org/stable/)
 \
 [![TensorFlow][tensorflow]](https://www.tensorflow.org/)
 [![Keras][keras]](https://keras.io/)
 
-## DevOps & Tools
+</details>
+<!-- markdownlint-enable -->
 
-[![Git][git]](https://git-scm.com/)
-[![Conventional Commits][conventional commits]](https://conventionalcommits.org)
-[![pre-commit][pre-commit]](https://pre-commit.com/)
-\
-[![GitHub][github]](https://github.com/)
-[![GitLab][gitlab]](https://about.gitlab.com/)
-[![Bitbucket][bitbucket]](https://bitbucket.org/)
+### DevOps & Tools
 
 [![Docker][docker]](https://www.docker.com/)
-[![GitHub Actions][github actions]](https://github.com/features/actions)
+[![GitHub Actions][github actions]](https://docs.github.com/en/actions)
 
 [![Vercel][vercel]](https://vercel.com/)
 [![Netlify][netlify]](https://www.netlify.com/)
@@ -232,30 +234,41 @@ Dart                     1 repo              ░░░░░░░░░░░�
 [![Amazon Web Services][amazon web services]](https://aws.amazon.com/)
 [![Google Cloud][google cloud]](https://cloud.google.com/)
 
+<!-- markdownlint-disable MD033 -->
+<details>
+  <summary>More</summary>
+
+[![Git][git]](https://git-scm.com/)
+[![Conventional Commits][conventional commits]](https://conventionalcommits.org)
+[![pre-commit][pre-commit]](https://pre-commit.com/)
+\
+[![GitHub][github]](https://github.com/)
+[![GitLab][gitlab]](https://about.gitlab.com/)
+[![Bitbucket][bitbucket]](https://bitbucket.org/)
+
 [![Ubuntu][ubuntu]](https://ubuntu.com/)
 [![Arch][arch]](https://archlinux.org/)
 [![Alpine][alpine]](https://alpinelinux.org/)
+
+</details>
+<!-- markdownlint-enable -->
 
 <!-------------------------------- Badge Links -------------------------------->
 
 <!-- Languages -->
 
-[c++]: https://img.shields.io/endpoint?url=https://badges.deno.dev/C%2B%2B?namedLogo=cplusplus
 [dart]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Dart
 [go]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Go
-[java]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Java?namedLogo=openjdk
-[javascript]: https://img.shields.io/endpoint?url=https://badges.deno.dev/JavaScript
 [kotlin]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Kotlin
-[php]: https://img.shields.io/endpoint?url=https://badges.deno.dev/PHP
 [python]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Python
 [rust]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Rust
 [scala]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Scala
 [typescript]: https://img.shields.io/endpoint?url=https://badges.deno.dev/TypeScript
 
-<!-- Libraries & Frameworks / Frontend -->
+<!-- Frameworks & Libraries / Frontend -->
 
 [fastify]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Fastify
-[flutter]:  https://img.shields.io/endpoint?url=https://badges.deno.dev/Flutter
+[flutter]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Flutter
 [gatsby]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Gatsby
 [next.js]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Next.js
 [nuxt.js]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Nuxt.js
@@ -263,7 +276,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 [react]: https://img.shields.io/endpoint?url=https://badges.deno.dev/React
 [vue.js]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Vue.js
 
-<!-- Libraries & Frameworks / Backend -->
+<!-- Frameworks & Libraries / Backend -->
 
 [django]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Django
 [express]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Express
@@ -273,18 +286,15 @@ Dart                     1 repo              ░░░░░░░░░░░�
 [nestjs]: https://img.shields.io/endpoint?url=https://badges.deno.dev/NestJS
 [spring boot]: https://img.shields.io/endpoint?url=https://badges.deno.dev/?message=Spring%2BBoot
 
-<!-- Libraries & Frameworks / Tools -->
-
-[insomnia]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Insomnia
-[storybook]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Storybook
-[swagger]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Swagger
-
-<!-- Libraries & Frameworks / Runtime & Package Manager -->
+<!-- Frameworks & Libraries / Tools -->
 
 [deno]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Deno
+[insomnia]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Insomnia
 [node.js]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Node.js
 [pnpm]: https://img.shields.io/endpoint?url=https://badges.deno.dev/pnpm
 [poetry]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Poetry
+[storybook]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Storybook
+[swagger]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Swagger
 [yarn]: https://img.shields.io/endpoint?url=https://badges.deno.dev/yarn
 
 <!-- Data & ML -->
