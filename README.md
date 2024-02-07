@@ -132,12 +132,16 @@ Svelte                   1 repo              ░░░░░░░░░░░�
   <summary>More</summary>
 
 [![Dart][dart]](https://dart.dev/)
-\
 [![Go][go]](https://golang.org/)
 [![Rust][rust]](https://www.rust-lang.org/)
 \
-[![Kotlin][kotlin]](https://kotlinlang.org/)
-[![Scala][scala]](https://www.scala-lang.org/)
+[![PHP][php]](https://www.php.net/)
+[![Java][java]](./#)
+[![C++][c++]](./#)
+[![C][c]](./#)
+
+<!-- [![Kotlin][kotlin]](https://kotlinlang.org/) -->
+<!-- [![Scala][scala]](https://www.scala-lang.org/) -->
 
 </details>
 <!-- markdownlint-enable -->
@@ -148,10 +152,12 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 [![React][react]](https://reactjs.org/)
 [![Next.js][next.js]](https://nextjs.org/)
-[![Gatsby][gatsby]](https://www.gatsbyjs.com/)
 \
 [![Vue.js][vue.js]](https://vuejs.org/)
 [![Nuxt.js][nuxt.js]](https://nuxtjs.org/)
+
+<!-- [![Gatsby][gatsby]](https://www.gatsbyjs.com/) -->
+<!-- [![Astro][astro]](https://astro.build/) -->
 
 <!-- markdownlint-disable MD033 -->
 <details>
@@ -159,37 +165,38 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 [![Flutter][flutter]](https://flutter.dev/)
 [![React Native][react native]](https://reactnative.dev/)
-\
-[![Storybook][storybook]](https://storybook.js.org/)
+
+<!-- [![Storybook][storybook]](https://storybook.js.org/) -->
 
 [![Node.js][node.js]](https://nodejs.org/en/)
 [![Deno][deno]](https://deno.land/)
 \
-[![yarn][yarn]](https://yarnpkg.com/)
 [![pnpm][pnpm]](https://pnpm.io/)
+[![yarn][yarn]](https://yarnpkg.com/)
 
 </details>
 <!-- markdownlint-enable -->
 
 ### Backend
 
-[![FastAPI][fastapi]](https://fastapi.tiangolo.com/)
 [![Django][django]](https://www.djangoproject.com/)
-[![Flask][flask]](https://flask.palletsprojects.com/)
+[![FastAPI][fastapi]](https://fastapi.tiangolo.com/)
 \
 [![NestJS][nestjs]](https://nestjs.com/)
 [![Express][express]](https://expressjs.com/)
-[![Fastify][fastify]](https://www.fastify.io/)
+<!-- [![Fastify][fastify]](https://www.fastify.io/) -->
 
 <!-- markdownlint-disable MD033 -->
 <details>
   <summary>More</summary>
 
 [![Laravel][laravel]](https://laravel.com/)
-[![Spring Boot][spring boot]](https://spring.io/)
-\
-[![Swagger][swagger]](https://swagger.io/)
-[![Insomnia][insomnia]](https://insomnia.rest/)
+<!-- [![Spring Boot][spring boot]](https://spring.io/) -->
+
+<!-- [![OpenAPI][openapi]](https://www.openapis.org/) -->
+<!-- [![Swagger][swagger]](https://swagger.io/) -->
+<!-- [![Insomnia][insomnia]](https://insomnia.rest/) -->
+<!-- [![Postman][postman]](https://www.postman.com/) -->
 
 [![Poetry][poetry]](https://python-poetry.org/)
 
@@ -220,16 +227,17 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ### DevOps & Tools
 
 [![Docker][docker]](https://www.docker.com/)
+
 [![GitHub Actions][github actions]](https://docs.github.com/en/actions)
 
-[![Vercel][vercel]](https://vercel.com/)
-[![Netlify][netlify]](https://www.netlify.com/)
-[![Cloudflare][cloudflare]](https://www.cloudflare.com/)
-[![Firebase][firebase]](https://firebase.google.com/)
-[![Supabase][supabase]](https://www.cloudflare.com/)
-\
-[![Amazon Web Services][amazon web services]](https://aws.amazon.com/)
 [![Google Cloud][google cloud]](https://cloud.google.com/)
+[![Amazon Web Services][amazon web services]](https://aws.amazon.com/)
+
+<!-- [![Cloudflare][cloudflare]](https://www.cloudflare.com/) -->
+<!-- [![Vercel][vercel]](https://vercel.com/) -->
+<!-- [![Netlify][netlify]](https://www.netlify.com/) -->
+<!-- [![Firebase][firebase]](https://firebase.google.com/) -->
+<!-- [![Supabase][supabase]](https://www.cloudflare.com/) -->
 
 <!-- markdownlint-disable MD033 -->
 <details>
@@ -251,22 +259,27 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 <!-- markdownlint-enable -->
 
 <!-------------------------------- Badge Links -------------------------------->
+<!-- markdownlint-disable MD013 -->
 
 <!-- Languages -->
 
+[c]: https://img.shields.io/endpoint?url=https://badges.deno.dev/C
+[c++]: https://img.shields.io/endpoint?url=https://badges.deno.dev/?message=C%252B%252B%26namedLogo=cplusplus
 [dart]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Dart
 [go]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Go
-[kotlin]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Kotlin
+[java]: https://img.shields.io/endpoint?url=https://badges.deno.dev/?message=Java%26namedLogo=openjdk
+<!-- [kotlin]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Kotlin -->
+[php]: https://img.shields.io/endpoint?url=https://badges.deno.dev/PHP
 [python]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Python
 [rust]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Rust
-[scala]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Scala
+<!-- [scala]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Scala -->
 [typescript]: https://img.shields.io/endpoint?url=https://badges.deno.dev/TypeScript
 
 <!-- Frameworks & Libraries / Frontend -->
 
-[fastify]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Fastify
+<!-- [astro]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Astro -->
 [flutter]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Flutter
-[gatsby]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Gatsby
+<!-- [gatsby]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Gatsby -->
 [next.js]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Next.js
 [nuxt.js]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Nuxt.js
 [react native]: https://img.shields.io/endpoint?url=https://badges.deno.dev/?message=React%2BNative%26namedLogo=react
@@ -278,23 +291,26 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 [django]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Django
 [express]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Express
 [fastapi]: https://img.shields.io/endpoint?url=https://badges.deno.dev/FastAPI
-[flask]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Flask
+<!-- [fastify]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Fastify -->
+<!-- [flask]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Flask -->
 [laravel]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Laravel
 [nestjs]: https://img.shields.io/endpoint?url=https://badges.deno.dev/NestJS
-[spring boot]: https://img.shields.io/endpoint?url=https://badges.deno.dev/?message=Spring%2BBoot
+<!-- [spring boot]: https://img.shields.io/endpoint?url=https://badges.deno.dev/?message=Spring%2BBoot -->
 
 <!-- Frameworks & Libraries / Tools -->
 
 [deno]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Deno
-[insomnia]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Insomnia
+<!-- [insomnia]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Insomnia -->
 [node.js]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Node.js
+<!-- [openapi]: https://img.shields.io/endpoint?url=https://badges.deno.dev/?message=OpenAPI%26namedLogo=openapi-initiative -->
 [pnpm]: https://img.shields.io/endpoint?url=https://badges.deno.dev/pnpm
 [poetry]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Poetry
-[storybook]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Storybook
-[swagger]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Swagger
+<!-- [postman]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Postman -->
+<!-- [storybook]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Storybook -->
+<!-- [swagger]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Swagger -->
 [yarn]: https://img.shields.io/endpoint?url=https://badges.deno.dev/yarn
 
-<!-- Data & ML -->
+<!-- Data -->
 
 [keras]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Keras
 [mariadb]: https://img.shields.io/endpoint?url=https://badges.deno.dev/MariaDB
@@ -322,12 +338,12 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 <!-- Cloud -->
 
 [amazon web services]: https://img.shields.io/endpoint?url=https://badges.deno.dev/?message=Amazon%2BWeb%2BServices%26namedLogo=amazon-aws
-[cloudflare]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Cloudflare
-[firebase]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Firebase
+<!-- [cloudflare]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Cloudflare -->
+<!-- [firebase]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Firebase -->
 [google cloud]: https://img.shields.io/endpoint?url=https://badges.deno.dev/?message=Google%2BCloud
-[netlify]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Netlify
-[supabase]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Supabase
-[vercel]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Vercel
+<!-- [netlify]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Netlify -->
+<!-- [supabase]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Supabase -->
+<!-- [vercel]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Vercel -->
 
 <!-- OS -->
 
