@@ -1,8 +1,6 @@
 # **_Dong-Young Kim_**
 
-[![Resume](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=000000&logo=notion&label=&message=Resume)](https://dong-young.kim/)
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=0077b5&logo=linkedin&label=&message=LinkedIn)](https://www.linkedin.com/in/dong-young-kim)
-[![Blog](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=663399&logo=gatsby&label=&message=Blog)](https://pers0n4.io/)
 
 <!-- markdownlint-disable MD033 -->
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
@@ -19,32 +17,28 @@
   />
 </a>
 
-<details open>
-  <summary>Statistics</summary>
-
-  <table>
-    <tbody>
-      <tr>
-        <td>
-          <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-            <img
-              src="https://streak-stats.demolab.com/?user=pers0n4&theme=onedark&hide_border=true&stroke=f0eee9&ring=5f4b8b&fire=5f4b8b&currStreakNum=00abc0&currStreakLabel=00abc0&date_format=Y-m-d"
-              alt="GitHub Streak Stats"
-            />
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img
-              src="https://github-profile-trophy.vercel.app/?username=pers0n4&theme=onedark&row=2&column=4&no-frame=true"
-              alt="GitHub Profile Trophy"
-            />
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</details>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+          <img
+            src="https://streak-stats.demolab.com/?user=pers0n4&theme=onedark&hide_border=true&stroke=f0eee9&ring=5f4b8b&fire=5f4b8b&currStreakNum=00abc0&currStreakLabel=00abc0&date_format=Y-m-d"
+            alt="GitHub Streak Stats"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+          <img
+            src="https://github-profile-trophy.vercel.app/?username=pers0n4&theme=onedark&row=2&column=4&no-frame=true"
+            alt="GitHub Profile Trophy"
+          />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 <!-- markdownlint-enable -->
 
 <!-- markdownlint-disable MD033 -->
@@ -148,36 +142,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 ### Frameworks & Libraries
 
-#### Frontend
-
-[![React][react]](https://reactjs.org/)
-[![Next.js][next.js]](https://nextjs.org/)
-\
-[![Vue.js][vue.js]](https://vuejs.org/)
-[![Nuxt.js][nuxt.js]](https://nuxtjs.org/)
-
-<!-- [![Gatsby][gatsby]](https://www.gatsbyjs.com/) -->
-<!-- [![Astro][astro]](https://astro.build/) -->
-
-<!-- markdownlint-disable MD033 -->
-<details>
-  <summary>More</summary>
-
-[![Flutter][flutter]](https://flutter.dev/)
-[![React Native][react native]](https://reactnative.dev/)
-
-<!-- [![Storybook][storybook]](https://storybook.js.org/) -->
-
-[![Node.js][node.js]](https://nodejs.org/en/)
-[![Deno][deno]](https://deno.land/)
-\
-[![pnpm][pnpm]](https://pnpm.io/)
-[![yarn][yarn]](https://yarnpkg.com/)
-
-</details>
-<!-- markdownlint-enable -->
-
-### Backend
+#### Backend
 
 [![Django][django]](https://www.djangoproject.com/)
 [![FastAPI][fastapi]](https://fastapi.tiangolo.com/)
@@ -198,12 +163,36 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 <!-- [![Insomnia][insomnia]](https://insomnia.rest/) -->
 <!-- [![Postman][postman]](https://www.postman.com/) -->
 
-[![Poetry][poetry]](https://python-poetry.org/)
+[![Node.js][node.js]](https://nodejs.org/en/)
+[![Deno][deno]](https://deno.land/)
 
 </details>
 <!-- markdownlint-enable -->
 
-### Data & ML
+#### Frontend
+
+[![React][react]](https://reactjs.org/)
+[![Next.js][next.js]](https://nextjs.org/)
+\
+[![Vue.js][vue.js]](https://vuejs.org/)
+[![Nuxt.js][nuxt.js]](https://nuxtjs.org/)
+
+<!-- [![Gatsby][gatsby]](https://www.gatsbyjs.com/) -->
+<!-- [![Astro][astro]](https://astro.build/) -->
+
+<!-- markdownlint-disable MD033 -->
+<details>
+  <summary>More</summary>
+
+[![Flutter][flutter]](https://flutter.dev/)
+[![React Native][react native]](https://reactnative.dev/)
+
+<!-- [![Storybook][storybook]](https://storybook.js.org/) -->
+
+</details>
+<!-- markdownlint-enable -->
+
+#### Data
 
 [![PostgreSQL][postgresql]](https://www.postgresql.org/)
 [![MariaDB][mariadb]](https://mariadb.org/)
@@ -224,9 +213,10 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 </details>
 <!-- markdownlint-enable -->
 
-### DevOps & Tools
+#### DevOps & Tools
 
 [![Docker][docker]](https://www.docker.com/)
+[![Kubernetes][kubernetes]](https://kubernetes.io/)
 
 [![GitHub Actions][github actions]](https://docs.github.com/en/actions)
 
@@ -242,6 +232,11 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 <!-- markdownlint-disable MD033 -->
 <details>
   <summary>More</summary>
+
+[![Poetry][poetry]](https://python-poetry.org/)
+\
+[![pnpm][pnpm]](https://pnpm.io/)
+[![yarn][yarn]](https://yarnpkg.com/)
 
 [![Git][git]](https://git-scm.com/)
 [![Conventional Commits][conventional commits]](https://conventionalcommits.org)
@@ -334,6 +329,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 [docker]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Docker
 [github actions]: https://img.shields.io/endpoint?url=https://badges.deno.dev/?message=GitHub%2BActions
+[kubernetes]: https://img.shields.io/endpoint?url=https://badges.deno.dev/Kubernetes
 
 <!-- Cloud -->
 
