@@ -51,6 +51,42 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2543 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+🌆 Daytime                9432 commits        ███████████░░░░░░░░░░░░░░   43.15 % 
+🌃 Evening                6352 commits        ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+🌙 Night                  3530 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   4049 commits        █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Tuesday                  5190 commits        ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+Wednesday                3014 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Thursday                 3448 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Friday                   2832 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Saturday                 1370 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Sunday                   1954 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -64,7 +100,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2024-09-22T00:34:56 UTC
+ Last Updated on 2024-09-23T00:33:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
