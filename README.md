@@ -6,16 +6,16 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
     <img
-      height="200"
+      height="178"
       alt="GitHub Stats Card"
       src="https://github-readme-stats.vercel.app/api?username=pers0n4&hide_title=true&include_all_commits=true&hide_border=true&show_icons=true&icon_color=00abc0&ring_color=5f4b8b&theme=onedark&text_color=f0eee9"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
     <img
-      height="200"
+      height="178"
       alt="Top Languages Card"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=pers0n4&hide_title=true&hide_border=true&layout=compact&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&hide=css,html,tex&theme=onedark&text_color=f0eee9"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=pers0n4&hide_title=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=css,html,tex&theme=onedark&text_color=f0eee9"
     />
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
