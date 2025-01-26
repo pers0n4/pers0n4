@@ -34,54 +34,45 @@
 <!-- markdownlint-disable MD033 -->
 <div align="left">
 
-[![Python][python]](https://www.python.org/)
-[![TypeScript][typescript]](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/python)][Python]
+[![TypeScript](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/typescript)][TypeScript]
 
-[![Django][django]](https://www.djangoproject.com/)
-[![FastAPI][fastapi]](https://fastapi.tiangolo.com/)
+[![Django](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/django)][Django]
+[![FastAPI](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/fastapi)][FastAPI]
 \
-[![NestJS][nestjs]](https://nestjs.com/)
-[![Express][express]](https://expressjs.com/)
-[![Fastify][fastify]](https://www.fastify.io/)
+[![NestJS](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/nestjs)][NestJS]
+[![Express](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/express)][Express]
 
-[![React][react]](https://reactjs.org/)
-[![Next.js][next.js]](https://nextjs.org/)
-[![Vue.js][vue.js]](https://vuejs.org/)
+[![React](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/react)][React]
+[![Next.js](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/next.js)][Next.js]
+[![Vue.js](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/vue.js)][Vue.js]
 
 </div>
 <div align="center">
 
-[![uv][uv]](https://docs.astral.sh/uv/)
-[![Poetry][poetry]](https://python-poetry.org/)
+[![uv](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/uv)][uv]
+[![Poetry](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/poetry)][Poetry]
 \
-[![Node.js][node.js]](https://nodejs.org/en/)
-[![Deno][deno]](https://deno.land/)
-[![pnpm][pnpm]](https://pnpm.io/)
+[![Node.js](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/node.js)][Node.js]
+[![Deno](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/deno)][Deno]
+[![Bun](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/bun)][Bun]
+[![pnpm](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/pnpm)][pnpm]
 
-[![Git][git]](https://git-scm.com/)
-[![Conventional Commits][conventionalcommits]](https://conventionalcommits.org)
-\
-[![pre-commit][precommit]](https://pre-commit.com/)
-[![GitHub Actions][githubactions]](https://docs.github.com/en/actions)
+[![PostgreSQL](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/postgresql)][PostgreSQL]
+[![Redis](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/redis)][Redis]
 
 </div>
 <div align="right">
 
-[![PostgreSQL][postgresql]](https://www.postgresql.org/)
-[![MariaDB][mariadb]](https://mariadb.org/)
-\
-[![Redis][redis]](https://redis.io/)
-[![MongoDB][mongodb]](https://www.mongodb.com/)
+[![Docker](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/docker)][Docker]
+[![GitHub Actions](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/githubactions)][GitHub Actions]
 
-[![Docker][docker]](https://www.docker.com/)
-[![Kubernetes][kubernetes]](https://kubernetes.io/)
-\
-[![Google Cloud][googlecloud]](https://cloud.google.com/)
-[![Amazon Web Services][amazonwebservices]](https://aws.amazon.com/)
+[![Git](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/git)][Git]
+[![Conventional Commits](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/conventionalcommits)][Conventional Commits]
+[![pre-commit](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/precommit)][pre-commit]
 
-[![Ubuntu][ubuntu]](https://ubuntu.com/)
-[![Arch][archlinux]](https://archlinux.org/)
-[![Alpine][alpinelinux]](https://alpinelinux.org/)
+[![Google Cloud](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/googlecloud)][Google Cloud]
+[![Amazon Web Services](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/amazonwebservices)][Amazon Web Services]
 
 </div>
 <!-- markdownlint-enable -->
@@ -94,74 +85,76 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<!-- prettier-ignore-end -->
 <!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
 
 <!-- markdownlint-disable MD013 -->
 <!-------------------------------- Badge Links -------------------------------->
 
-<!-- Languages -->
+<!-- MARK: Languages -->
 
-[python]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/python
-[typescript]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/typescript
-<!-- [dart]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/dart -->
-<!-- [rust]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/rust -->
-<!-- [go]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/go -->
-<!-- [kotlin]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/kotlin -->
-<!-- [scala]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/scala -->
+[Python]: https://www.python.org/
+[TypeScript]: https://www.typescriptlang.org/
 
-<!-- Frameworks & Libraries > Frontend -->
+<!-- MARK: Frameworks & Libraries > Backend -->
 
-[next.js]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/next.js
-[react]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/react
-[vue.js]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/vue.js
-<!-- [astro]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/astro -->
+[Django]: https://www.djangoproject.com/
+[FastAPI]: https://fastapi.tiangolo.com/
+[NestJS]: https://nestjs.com/
+[Express]: https://expressjs.com/
+<!-- [Fastify]: https://www.fastify.io/ -->
 
-<!-- Frameworks & Libraries > Backend -->
+<!-- MARK: Frameworks & Libraries > Frontend -->
 
-[django]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/django
-[express]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/express
-[fastapi]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/fastapi
-[fastify]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/fastify
-[nestjs]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/nestjs
+[React]: https://react.dev/
+[Next.js]: https://nextjs.org/
+[Vue.js]: https://vuejs.org/
+<!-- [Svelte]: https://svelte.dev/ -->
+<!-- [Astro]: https://astro.build/ -->
 
-<!-- Frameworks & Libraries > Tools -->
+<!-- MARK: Frameworks & Libraries > Tools -->
 
-[deno]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/deno
-[node.js]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/node.js
-[pnpm]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/pnpm
-[poetry]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/poetry
-[uv]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/uv
+[uv]: https://docs.astral.sh/uv/
+[Poetry]: https://python-poetry.org/
+[Node.js]: https://nodejs.org/
+[Deno]: https://deno.com/
+[Bun]: https://bun.sh/
+[pnpm]: https://pnpm.io/
 
-<!-- Database -->
+<!-- MARK: Database -->
 
-[mariadb]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/mariadb
-[mongodb]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/mongodb
-[postgresql]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/postgresql
-[redis]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/redis
+[PostgreSQL]: https://www.postgresql.org/
+[Redis]: https://redis.io/
+<!-- [MariaDB]: https://mariadb.org/ -->
+<!-- [MongoDB]: https://www.mongodb.com/ -->
 
-<!-- DevOps -->
+<!-- MARK: DevOps -->
 
-[conventionalcommits]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/conventionalcommits
-[git]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/git
-[precommit]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/precommit
-[githubactions]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/githubactions
-[docker]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/docker
-[kubernetes]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/kubernetes
+[Docker]: https://www.docker.com/
+[GitHub Actions]: https://docs.github.com/actions
+<!-- [Kubernetes]: https://kubernetes.io/ -->
 
-<!-- Cloud -->
+<!-- MARK: Version Control -->
 
-[amazonwebservices]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/amazonwebservices
-[googlecloud]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/googlecloud
-<!-- [cloudflare]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/cloudflare -->
-<!-- [firebase]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/firebase -->
-<!-- [fly.io]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/fly.io -->
-<!-- [netlify]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/netlify -->
-<!-- [supabase]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/supabase -->
-<!-- [vercel]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/vercel -->
+[Git]: https://git-scm.com/
+[Conventional Commits]: https://conventionalcommits.org
+[pre-commit]: https://pre-commit.com/
 
-<!-- OS -->
+<!-- MARK: Cloud -->
 
-[alpinelinux]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/alpinelinux
-[archlinux]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/archlinux
-[ubuntu]: https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/ubuntu
+[Google Cloud]: https://cloud.google.com/
+[Amazon Web Services]: https://aws.amazon.com/
+<!-- [Netlify]: https://www.netlify.com/ -->
+<!-- [Vercel]: https://vercel.com/ -->
+<!-- [Firebase]: https://firebase.google.com/ -->
+<!-- [Supabase]: https://supabase.com/ -->
+<!-- [Cloudflare]: https://www.cloudflare.com/ -->
+<!-- [Fly.io]: https://fly.io/ -->
+<!-- [DigitalOcean]: https://www.digitalocean.com/ -->
+<!-- [Render]: https://render.com/ -->
+
+<!-- MARK: OS -->
+
+<!-- [Ubuntu]: https://ubuntu.com/ -->
+<!-- [Arch Linux]: https://archlinux.org/ -->
+<!-- [Alpine Linux]: https://alpinelinux.org/ -->
