@@ -83,16 +83,16 @@
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C472%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C485%20hrs%202%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.26%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6795 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-🌆 Daytime                31252 commits       █████████████░░░░░░░░░░░░   51.04 % 
-🌃 Evening                18570 commits       ████████░░░░░░░░░░░░░░░░░   30.33 % 
+🌞 Morning                6804 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+🌆 Daytime                31252 commits       █████████████░░░░░░░░░░░░   51.03 % 
+🌃 Evening                18572 commits       ████████░░░░░░░░░░░░░░░░░   30.33 % 
 🌙 Night                  4611 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -101,8 +101,8 @@
 Monday                   11734 commits       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
 Tuesday                  11281 commits       █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
 Wednesday                12322 commits       █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-Thursday                 10687 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Friday                   9734 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Thursday                 10689 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Friday                   9743 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
 Saturday                 1968 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 Sunday                   3502 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 ```
@@ -114,21 +114,21 @@ Sunday                   3502 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 21 hrs 52 mins      ██████████░░░░░░░░░░░░░░░   38.38 % 
-Other                    16 hrs 26 mins      ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-TypeScript               9 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-JSON                     4 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Text                     3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Markdown                 23 hrs 52 mins      █████████░░░░░░░░░░░░░░░░   37.56 % 
+Other                    13 hrs 12 mins      █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+TypeScript               10 hrs 54 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+JSON                     9 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Text                     3 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 🔥 Editors: 
-Claude Code              22 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   38.69 % 
-Codex CLI                15 hrs 14 mins      ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-Warp                     13 hrs 32 mins      ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-Linear                   2 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-VS Code                  1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Claude Code              28 hrs 7 mins       ███████████░░░░░░░░░░░░░░   44.24 % 
+Codex CLI                16 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+Warp                     12 hrs 27 mins      █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Linear                   2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+VS Code                  2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 💻 Operating System: 
-Mac                      57 hrs              █████████████████████████   100.00 % 
+Mac                      63 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -144,7 +144,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-07-10T01:45:54 UTC
+ Last Updated on 2026-07-11T01:38:57 UTC
 <!--END_SECTION:waka-->
 
 <!-- markdownlint-enable -->
