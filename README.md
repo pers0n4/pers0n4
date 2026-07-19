@@ -83,7 +83,7 @@
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C575%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C580%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.57%20million%20lines%20of%20code-blue?style=flat)
 
@@ -114,21 +114,21 @@ Sunday                   3543 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    37 hrs 53 mins      ██████████░░░░░░░░░░░░░░░   41.69 % 
-Markdown                 19 hrs 4 mins       █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-TypeScript               18 hrs 58 mins      █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-JSON                     4 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-Rust                     3 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Other                    38 hrs 5 mins       ███████████░░░░░░░░░░░░░░   45.14 % 
+Markdown                 18 hrs 16 mins      █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+TypeScript               15 hrs 20 mins      █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+JSON                     4 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Rust                     3 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 
 🔥 Editors: 
-Claude Code              33 hrs 54 mins      █████████░░░░░░░░░░░░░░░░   37.31 % 
-Codex CLI                13 hrs 54 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-VS Code                  11 hrs 25 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Warp                     9 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Linear                   8 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Claude Code              31 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   36.82 % 
+Codex CLI                11 hrs 31 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+VS Code                  10 hrs 29 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Orca                     10 hrs 28 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Warp                     8 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
 
 💻 Operating System: 
-Mac                      90 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      84 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -144,7 +144,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-07-18T01:33:46 UTC
+ Last Updated on 2026-07-19T01:38:18 UTC
 <!--END_SECTION:waka-->
 
 <!-- markdownlint-enable -->
