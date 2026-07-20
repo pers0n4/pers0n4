@@ -83,28 +83,28 @@
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C580%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C580%20hrs%2047%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.57%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.76%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6840 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-🌆 Daytime                31402 commits       █████████████░░░░░░░░░░░░   50.97 % 
-🌃 Evening                18728 commits       ████████░░░░░░░░░░░░░░░░░   30.40 % 
-🌙 Night                  4642 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+🌞 Morning                6898 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+🌆 Daytime                31598 commits       █████████████░░░░░░░░░░░░   50.97 % 
+🌃 Evening                18849 commits       ████████░░░░░░░░░░░░░░░░░   30.40 % 
+🌙 Night                  4654 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   11802 commits       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-Tuesday                  11353 commits       █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-Wednesday                12438 commits       █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-Thursday                 10727 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Friday                   9768 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Saturday                 1981 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Sunday                   3543 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Monday                   11907 commits       █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Tuesday                  11421 commits       █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Wednesday                12554 commits       █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Thursday                 10769 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Friday                   9796 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Saturday                 2000 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Sunday                   3552 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 ```
 
 
@@ -114,21 +114,21 @@ Sunday                   3543 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    38 hrs 5 mins       ███████████░░░░░░░░░░░░░░   45.14 % 
-Markdown                 18 hrs 16 mins      █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-TypeScript               15 hrs 20 mins      █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-JSON                     4 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Rust                     3 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Other                    29 hrs 53 mins      ██████████████░░░░░░░░░░░   57.76 % 
+Markdown                 10 hrs 52 mins      █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+TypeScript               5 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+JSON                     2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Rust                     46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🔥 Editors: 
-Claude Code              31 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   36.82 % 
-Codex CLI                11 hrs 31 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-VS Code                  10 hrs 29 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Orca                     10 hrs 28 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Warp                     8 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Orca                     10 hrs 39 mins      █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Claude Code              9 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Linear                   8 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+VS Code                  7 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Codex CLI                6 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
 
 💻 Operating System: 
-Mac                      84 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      51 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -144,7 +144,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-07-19T01:38:18 UTC
+ Last Updated on 2026-07-20T03:31:19 UTC
 <!--END_SECTION:waka-->
 
 <!-- markdownlint-enable -->
