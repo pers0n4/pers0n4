@@ -83,22 +83,22 @@
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.85%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.35%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               27 repos            ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-Python                   22 repos            ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+TypeScript               27 repos            ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+Python                   22 repos            ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 ```
 
 
 
 
- Last Updated on 2026-07-24T01:43:03 UTC
+ Last Updated on 2026-07-25T01:42:34 UTC
 <!--END_SECTION:waka-->
 
 <!-- markdownlint-enable -->
