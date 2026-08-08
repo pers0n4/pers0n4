@@ -83,7 +83,80 @@
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.65%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C650%20hrs%2020%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-843%20hrs%2050%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.95%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                10006 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+🌆 Daytime                43868 commits       █████████████░░░░░░░░░░░░   51.52 % 
+🌃 Evening                26139 commits       ████████░░░░░░░░░░░░░░░░░   30.70 % 
+🌙 Night                  5135 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   16799 commits       █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+Tuesday                  15866 commits       █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Wednesday                17515 commits       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Thursday                 15073 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Friday                   13586 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Saturday                 2212 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Sunday                   4097 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Other                    32 hrs 57 mins      █████████████████████░░░░   85.40 % 
+Markdown                 1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Rust                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+YAML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+TypeScript               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+
+🔥 Editors: 
+Orca                     24 hrs 34 mins      ████████████████░░░░░░░░░   63.67 % 
+Linear                   5 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+VS Code                  3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Ghostty                  2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Codex CLI                1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+
+💻 Operating System: 
+Mac                      38 hrs 35 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 hrs 44 mins (14.86%)
+
+✍️ 3,283 lines written by AI, 141 lines written by hand (95.88% AI-written)
+
+🔤 211,427,312 Input Tokens, 443,799 Output Tokens
+
+💵 $1288.81 Estimated AI Cost This Week
+
+🧠 47 AI Sessions, 24 AI Prompts
+
+GPT                      3,428 lines         ████████████████████████░   97.89 % 
+Opus                     61 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Codex-Cli                13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 95.88% of written lines came from AI
+📄 Detailed Prompter — average 1,143 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 5.31% of changed lines were hand-edited
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -98,7 +171,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-07T02:26:24 UTC
+ Last Updated on 2026-08-08T01:13:33 UTC
 <!--END_SECTION:waka-->
 
 <!-- markdownlint-enable -->
