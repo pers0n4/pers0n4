@@ -83,30 +83,30 @@
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C668%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C668%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-864%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-864%20hrs%2055%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.12%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.02%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5620 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-🌆 Daytime                23755 commits       ████████████░░░░░░░░░░░░░   49.11 % 
-🌃 Evening                14592 commits       ████████░░░░░░░░░░░░░░░░░   30.17 % 
-🌙 Night                  4405 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+🌞 Morning                5017 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+🌆 Daytime                21255 commits       ████████████░░░░░░░░░░░░░   48.56 % 
+🌃 Evening                13180 commits       ████████░░░░░░░░░░░░░░░░░   30.11 % 
+🌙 Night                  4322 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   8933 commits        █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Tuesday                  8645 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-Wednesday                9617 commits        █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Thursday                 8216 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Friday                   7748 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Saturday                 2066 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Sunday                   3147 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Monday                   8044 commits        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Tuesday                  7762 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Wednesday                8561 commits        █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Thursday                 7384 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Friday                   6982 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Saturday                 1985 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Sunday                   3056 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 ```
 
 
@@ -116,45 +116,45 @@ Sunday                   3147 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    28 hrs 35 mins      █████████████████░░░░░░░░   67.37 % 
-Markdown                 7 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-TypeScript               5 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-TOML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Other                    31 hrs 40 mins      █████████████████░░░░░░░░   69.53 % 
+Markdown                 7 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+TypeScript               5 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+TOML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-Orca                     26 hrs 35 mins      ████████████████░░░░░░░░░   62.65 % 
-Linear                   6 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Codex CLI                5 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Claude Code              2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-VS Code                  33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Orca                     29 hrs 2 mins       ████████████████░░░░░░░░░   63.76 % 
+Linear                   7 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Codex CLI                5 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Claude Code              2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+VS Code                  33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 💻 Operating System: 
-Mac                      42 hrs 26 mins      █████████████████████████   100.00 % 
+Mac                      45 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 41 mins (36.98%)
+⏱ AI Coding Time: 15 hrs 45 mins (34.58%)
 
-✍️ 3,699 lines written by AI, 7 lines written by hand (99.81% AI-written)
+✍️ 3,699 lines written by AI, 8 lines written by hand (99.78% AI-written)
 
-🔤 16,398,852 Input Tokens, 1,634,272 Output Tokens
+🔤 16,442,933 Input Tokens, 1,636,903 Output Tokens
 
-💵 $433.26 Estimated AI Cost This Week
+💵 $433.61 Estimated AI Cost This Week
 
-🧠 153 AI Sessions, 230 AI Prompts
+🧠 155 AI Sessions, 234 AI Prompts
 
 GPT                      3,072 lines         ███████████████████░░░░░░   75.02 % 
 Opus                     1,023 lines         ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.81% of written lines came from AI
-📄 Detailed Prompter — average 1,355 characters per prompt
+🤖 AI-Driven — 99.78% of written lines came from AI
+📄 Detailed Prompter — average 1,341 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.43% of changed lines were hand-edited
+🚀 High AI Trust — 0.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -170,7 +170,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-23T01:03:25 UTC
+ Last Updated on 2026-08-24T01:01:04 UTC
 <!--END_SECTION:waka-->
 
 <!-- markdownlint-enable -->
