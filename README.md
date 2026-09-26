@@ -92,9 +92,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                12428 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-🌆 Daytime                45475 commits       █████████████░░░░░░░░░░░░   50.04 % 
-🌃 Evening                27527 commits       ████████░░░░░░░░░░░░░░░░░   30.29 % 
+🌞 Morning                12429 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+🌆 Daytime                45472 commits       █████████████░░░░░░░░░░░░   50.04 % 
+🌃 Evening                27526 commits       ████████░░░░░░░░░░░░░░░░░   30.29 % 
 🌙 Night                  5443 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -102,10 +102,10 @@
 ```text
 Monday                   16431 commits       █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
 Tuesday                  17062 commits       █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Wednesday                18867 commits       █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-Thursday                 15459 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Wednesday                18864 commits       █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+Thursday                 15458 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
 Friday                   15216 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Saturday                 3047 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Saturday                 3048 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 Sunday                   4791 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 ```
 
@@ -116,27 +116,27 @@ Sunday                   4791 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    29 hrs 27 mins      ███████████████████████░░   93.02 % 
-Markdown                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-TypeScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Other                    23 hrs 21 mins      ███████████████████████░░   91.35 % 
+Markdown                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+TypeScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-Orca                     24 hrs 28 mins      ███████████████████░░░░░░   77.28 % 
-Linear                   2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Ghostty                  1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Claude Code              1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Warp                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Orca                     19 hrs 40 mins      ███████████████████░░░░░░   76.95 % 
+Linear                   2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Claude Code              1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Warp                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+VS Code                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 💻 Operating System: 
-Mac                      31 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 22 mins (7.51%)
+⏱ AI Coding Time: 2 hrs 22 mins (9.31%)
 
 ✍️ 1,534 lines written by AI, 37 lines written by hand (97.64% AI-written)
 
@@ -169,7 +169,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-25T02:53:14 UTC
+ Last Updated on 2026-09-26T03:01:39 UTC
 <!--END_SECTION:waka-->
 
 <!-- markdownlint-enable -->
