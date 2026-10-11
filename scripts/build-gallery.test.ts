@@ -84,6 +84,43 @@ test("optional Snake generation and removed assets do not leave stale entries", 
   expect((await readCatalog(directory)).catalog.badges).toEqual([]);
 });
 
+test("ship local Primer components and tokens with gallery references resolved", async () => {
+  const directory = await fixture();
+  await buildGallery(directory);
+  const { html } = await readCatalog(directory);
+  const css = await Bun.file(join(directory, "primer.css")).text();
+  expect(html).toContain('<link rel="stylesheet" href="primer.css"');
+  expect(html).toContain('data-color-mode="auto"');
+  expect(css).toContain('data-color-mode="light"');
+  expect(css).toContain('data-color-mode="dark"');
+  expect(css).toContain("prefers-color-scheme: dark");
+  expect(css).toContain("Copyright (c) 2018 GitHub Inc.");
+  expect(css).toContain("Copyright (c) 2021 GitHub Inc.");
+  for (const selector of [
+    ".btn{",
+    ".form-control,",
+    ".filter-item{",
+    ".Toast{",
+  ]) {
+    expect(css).toContain(selector);
+  }
+  expect(html).toContain('class="btn"');
+  expect(html).toContain('class="form-control search"');
+  expect(html).toContain('class="filter-item selected"');
+  expect(html).toContain('class="Toast-content"');
+  expect(html).not.toMatch(/#[0-9a-f]{3,8}\b/i);
+  const definitions = new Set(
+    [...css.matchAll(/(--[\w-]+)\s*:/g)].map((match) => match[1]),
+  );
+  for (const [, token] of html.matchAll(/var\((--[\w-]+)/g)) {
+    expect(definitions.has(token)).toBe(true);
+  }
+  const first = css;
+  await Bun.write(join(directory, "primer.css"), "Stale token bundle");
+  await buildGallery(directory);
+  expect(await Bun.file(join(directory, "primer.css")).text()).toBe(first);
+});
+
 test("escape embedded catalog data without changing titles", async () => {
   const directory = await fixture();
   const title = '</script><script>alert("unexpected")</script> $&';
