@@ -1,5 +1,5 @@
-const start = "<!--START_SECTION:waka-->";
-const end = "<!--END_SECTION:waka-->";
+const start = "<!--START_SECTION:wakatime-->";
+const end = "<!--END_SECTION:wakatime-->";
 const outputPrefix = "README stats current output:\n\n";
 
 export function updateProfile(source: string, output: string): string {
@@ -18,7 +18,7 @@ export function updateProfile(source: string, output: string): string {
     source.indexOf(start, from + start.length) !== -1 ||
     source.indexOf(end, to + end.length) !== -1
   ) {
-    throw new Error("README must contain exactly one ordered Waka section");
+    throw new Error("README must contain exactly one ordered WakaTime section");
   }
   return (
     source.slice(0, from + start.length) +

@@ -87,3 +87,21 @@ test("every README endpoint matches a generated JSON file", async () => {
     );
   }
 });
+
+test("card srcset URLs preserve theme and comma-separated filters", async () => {
+  const readme = await Bun.file("README.md").text();
+  for (const match of readme.matchAll(/srcset="([^"]+)"/g)) {
+    assert(!match[1].includes(","), "Unescaped srcset candidate separator");
+    const url = new URL(match[1]);
+    if (url.pathname === "/api/top-langs") {
+      assert(
+        url.searchParams.get("theme") === "dark_github",
+        "Lost dark theme",
+      );
+      assert(
+        url.searchParams.get("hide") === "css,html,tex",
+        "Truncated language filters",
+      );
+    }
+  }
+});

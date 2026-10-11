@@ -1,20 +1,5 @@
 <!-- markdownlint-disable MD041 -->
 <!-- markdownlint-disable MD033 -->
-<p align="center">
-  <a href="https://github.com/Platane/snk">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://pers0n4.github.io/pers0n4/snake/github-snake-dark.svg"
-      />
-      <img
-        width="100%"
-        alt="GitHub contribution snake animation"
-        src="https://pers0n4.github.io/pers0n4/snake/github-snake-light.svg"
-      />
-    </picture>
-  </a>
-</p>
 <table width="100%">
   <tr>
     <td width="50%" align="center">
@@ -38,19 +23,34 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-stats-extended.vercel.app/api/top-langs?username=pers0n4&hide_title=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=css,html,tex&theme=dark_github"
+        srcset="https://github-stats-extended.vercel.app/api/top-langs?username=pers0n4&hide_title=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=css%2Chtml%2Ctex&theme=dark_github"
       />
       <img
         width="100%"
         height="178"
         alt="Top Languages Card"
-        src="https://github-stats-extended.vercel.app/api/top-langs?username=pers0n4&hide_title=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=css,html,tex&theme=light_github"
+        src="https://github-stats-extended.vercel.app/api/top-langs?username=pers0n4&hide_title=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=css%2Chtml%2Ctex&theme=light_github"
       />
     </picture>
   </a>
     </td>
   </tr>
 </table>
+<p align="center">
+  <a href="https://github.com/Platane/snk">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://pers0n4.github.io/pers0n4/snake/github-snake-dark.svg"
+      />
+      <img
+        width="100%"
+        alt="GitHub contribution snake animation"
+        src="https://pers0n4.github.io/pers0n4/snake/github-snake-light.svg"
+      />
+    </picture>
+  </a>
+</p>
 <!-- markdownlint-enable -->
 
 ---
@@ -104,7 +104,7 @@
 <!-- markdownlint-disable MD033 -->
 <!-- prettier-ignore-start -->
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:wakatime-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-881%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.13%20million%20lines%20of%20code-blue?style=flat)
@@ -193,7 +193,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
  Last Updated on 2026-10-11T17:37:30Z UTC
-<!--END_SECTION:waka-->
+<!--END_SECTION:wakatime-->
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->

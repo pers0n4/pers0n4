@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test";
 import { updateProfile } from "./update-profile.ts";
 
-const start = "<!--START_SECTION:waka-->";
-const end = "<!--END_SECTION:waka-->";
+const start = "<!--START_SECTION:wakatime-->";
+const end = "<!--END_SECTION:wakatime-->";
 const output = "README stats current output:\n\nCurrent metrics\n";
 
 test("replace only the generated section in the source snapshot", () => {
