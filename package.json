@@ -12,6 +12,8 @@
     "format": "prettier --write scripts package.json tsconfig.json .github/workflows/assets.yaml .github/workflows/readme.yaml"
   },
   "dependencies": {
+    "@primer/css": "22.3.2",
+    "@primer/primitives": "11.10.0",
     "simple-icons": "14.3.0"
   },
   "devDependencies": {

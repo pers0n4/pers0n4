@@ -61,6 +61,40 @@ export async function buildGallery(directory = "assets"): Promise<void> {
     throw new Error("Gallery template must contain exactly one catalog token");
   }
   const catalog = JSON.stringify({ badges, snakes }).replaceAll("<", "\\u003c");
+  const tokenFiles = [
+    "base/size/size.css",
+    "base/typography/typography.css",
+    "functional/typography/typography.css",
+    "functional/size/border.css",
+    "functional/size/radius.css",
+    "functional/spacing/space.css",
+    "functional/themes/light.css",
+    "functional/themes/dark.css",
+  ];
+  const styles = await Promise.all(
+    tokenFiles.map((file) =>
+      Bun.file(
+        new URL(import.meta.resolve(`@primer/primitives/dist/css/${file}`)),
+      ).text(),
+    ),
+  );
+  const license = await Bun.file(
+    new URL("./primer.LICENSE", import.meta.url),
+  ).text();
+  const components = await Promise.all(
+    ["buttons", "forms", "navigation", "toasts"].map((component) =>
+      Bun.file(
+        new URL(import.meta.resolve(`@primer/css/dist/${component}.css`)),
+      ).text(),
+    ),
+  );
+  const componentLicense = await Bun.file(
+    new URL(import.meta.resolve("@primer/css/LICENSE")),
+  ).text();
+  await Bun.write(
+    join(directory, "primer.css"),
+    `/*\n${license}*/\n${styles.join("\n")}\n/*\n${componentLicense}*/\n${components.join("\n")}`,
+  );
   await Bun.write(
     join(directory, "index.html"),
     template.replace(token, () => catalog),
