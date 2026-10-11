@@ -1,0 +1,20 @@
+{
+  "name": "pers0n4-profile-badges",
+  "private": true,
+  "type": "module",
+  "packageManager": "bun@1.4.3",
+  "scripts": {
+    "build": "bun scripts/build-badges.ts",
+    "test": "bun run build && bun test scripts/",
+    "check": "tsc --noEmit && prettier --check scripts package.json tsconfig.json .github/workflows/badges.yaml .github/workflows/waka-readme.yaml",
+    "format": "prettier --write scripts package.json tsconfig.json .github/workflows/badges.yaml .github/workflows/waka-readme.yaml"
+  },
+  "dependencies": {
+    "simple-icons": "14.3.0"
+  },
+  "devDependencies": {
+    "@types/bun": "1.4.2",
+    "prettier": "3.9.10",
+    "typescript": "7.0.2"
+  }
+}

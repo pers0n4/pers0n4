@@ -1,0 +1,68 @@
+import { test } from "bun:test";
+import assert from "node:assert/strict";
+import { readdir } from "node:fs/promises";
+import { siDeno, siPython } from "simple-icons";
+import { collectBadges, createBadge, endpointBase } from "./build-badges.ts";
+
+function endpoint(filename: string): string {
+  return `![badge](https://img.shields.io/endpoint?style=for-the-badge&url=${endpointBase}${filename})`;
+}
+
+test("brand-colored SVG and contrasting backgrounds", () => {
+  const python = createBadge(siPython);
+  assert(python.logoSvg.includes('fill="#3776AB"'), "Missing brand SVG fill");
+  assert(python.message === "Python", "Missing icon title");
+  assert(
+    python.labelColor === "rgba(245, 245, 245, 0.87)",
+    "Dark brand background",
+  );
+  assert(
+    createBadge(siDeno).labelColor === "rgba(33, 33, 33, 0.87)",
+    "Light brand background",
+  );
+});
+
+test("deduplication and dotted technology names", () => {
+  const badges = collectBadges(
+    endpoint("node.js.json") + endpoint("node.js.json"),
+  );
+  assert(badges.size === 1, "Duplicate endpoint output");
+  assert(
+    badges.get("node.js.json")?.message === "Node.js",
+    "Dotted slug lookup",
+  );
+});
+
+test("reject invalid or unsupported endpoints", () => {
+  for (const readme of [
+    "no badges",
+    endpoint("unknown.json"),
+    endpoint("../python.json"),
+    endpoint("python.json").replace(endpointBase, "https://badges.deno.dev/"),
+  ]) {
+    let rejected = false;
+    try {
+      collectBadges(readme);
+    } catch {
+      rejected = true;
+    }
+    assert(rejected, `Accepted invalid input: ${readme}`);
+  }
+});
+
+test("every README endpoint matches a generated JSON file", async () => {
+  const readme = await Bun.file("README.md").text();
+  assert(!readme.includes("badges.deno.dev"), "Obsolete server reference");
+  const badges = collectBadges(readme);
+  const files = await readdir("_site/badges");
+  assert(files.length === badges.size, "Extra or missing generated endpoints");
+  for (const [filename, expected] of badges) {
+    const actual = JSON.parse(
+      await Bun.file(`_site/badges/${filename}`).text(),
+    );
+    assert(
+      JSON.stringify(actual) === JSON.stringify(expected),
+      `Mismatch: ${filename}`,
+    );
+  }
+});
