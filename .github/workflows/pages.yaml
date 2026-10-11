@@ -1,4 +1,4 @@
-name: Assets
+name: Pages
 
 on:
   push:
@@ -9,7 +9,7 @@ on:
       - package.json
       - bun.lock
       - tsconfig.json
-      - .github/workflows/assets.yaml
+      - .github/workflows/pages.yaml
   schedule:
     - cron: "0 15 * * *" # 00:00 KST (UTC+09:00)
   workflow_dispatch:
@@ -18,7 +18,7 @@ permissions:
   contents: read
 
 concurrency:
-  group: assets-${{ github.ref }}
+  group: pages-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
