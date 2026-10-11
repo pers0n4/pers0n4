@@ -1,5 +1,6 @@
-import { mkdir, rm } from "node:fs/promises";
+import { mkdir, readdir, rm } from "node:fs/promises";
 import { readFileSync } from "node:fs";
+import { join } from "node:path";
 import * as icons from "simple-icons";
 import type { SimpleIcon } from "simple-icons";
 
@@ -10,10 +11,7 @@ const miseIcon = {
   slug: "mise",
   title: "mise",
   hex: "000000",
-  svg: readFileSync(
-    new URL("./icons/mise.svg", import.meta.url),
-    "utf8",
-  ).replace("<svg ", '<svg xmlns="http://www.w3.org/2000/svg" '),
+  svg: readFileSync(new URL("./icons/mise.svg", import.meta.url), "utf8"),
 };
 
 export interface Badge {
@@ -74,17 +72,28 @@ export function collectBadges(readme: string): Map<string, Badge> {
   return badges;
 }
 
-if (import.meta.main) {
+export async function buildBadges(directory = "assets"): Promise<void> {
   const badges = collectBadges(await Bun.file("README.md").text());
-  // Remove obsolete generated endpoints before creating the Pages artifact.
-  await rm("assets", { recursive: true, force: true });
-  await mkdir("assets/badges", { recursive: true });
-  await Bun.write("assets/.nojekyll", "");
+  const output = join(directory, "badges");
+  await mkdir(output, { recursive: true });
+  for (const entry of await readdir(output, { withFileTypes: true })) {
+    if (
+      entry.isFile() &&
+      entry.name.endsWith(".json") &&
+      !badges.has(entry.name)
+    ) {
+      await rm(join(output, entry.name));
+    }
+  }
   for (const [filename, badge] of badges) {
     await Bun.write(
-      `assets/badges/${filename}`,
+      join(output, filename),
       JSON.stringify(badge, null, 2) + "\n",
     );
   }
   console.log(`Generated ${badges.size} static badge endpoints`);
+}
+
+if (import.meta.main) {
+  await buildBadges();
 }

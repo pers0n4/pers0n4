@@ -4,8 +4,10 @@
   "type": "module",
   "packageManager": "bun@1.4.3",
   "scripts": {
-    "build": "bun scripts/build-badges.ts",
-    "test": "bun run build && bun test scripts/",
+    "build": "bun scripts/build-assets.ts",
+    "build:prepare": "bun scripts/build-assets.ts --prepare",
+    "build:gallery": "bun scripts/build-gallery.ts",
+    "test": "bun run build:prepare && bun test scripts/",
     "check": "tsc --noEmit && prettier --check scripts package.json tsconfig.json .github/workflows/assets.yaml .github/workflows/readme.yaml",
     "format": "prettier --write scripts package.json tsconfig.json .github/workflows/assets.yaml .github/workflows/readme.yaml"
   },

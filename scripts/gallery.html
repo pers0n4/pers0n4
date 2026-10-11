@@ -1,0 +1,601 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>pers0n4 · Assets</title>
+    <style>
+      :root {
+        color-scheme: dark;
+        --bg: #0d1117;
+        --panel: #151b23;
+        --line: #3d444d;
+        --text: #f0f6fc;
+        --muted: #9198a1;
+        --accent: #4493f8;
+        --stage: #0d1117;
+        --shadow: none;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+      :root[data-theme="light"] {
+        color-scheme: light;
+        --bg: #ffffff;
+        --panel: #f6f8fa;
+        --line: #d1d9e0;
+        --text: #1f2328;
+        --muted: #59636e;
+        --accent: #0969da;
+        --stage: #ffffff;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--text);
+      }
+      button,
+      input {
+        font: inherit;
+      }
+      button,
+      a,
+      input {
+        outline-offset: 4px;
+      }
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+      button {
+        cursor: pointer;
+      }
+      header {
+        height: 70px;
+        border-bottom: 1px solid var(--line);
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 32px;
+        background: var(--panel);
+      }
+      .brand {
+        display: flex;
+        gap: 12px;
+        align-items: center;
+        font-weight: 650;
+        letter-spacing: -0.3px;
+      }
+      .header-actions {
+        display: flex;
+        gap: 16px;
+        align-items: center;
+      }
+      .theme {
+        background: transparent;
+        color: var(--text);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        padding: 8px 12px;
+      }
+      .layout {
+        display: grid;
+        grid-template-columns: 220px 1fr;
+        min-height: calc(100vh - 70px);
+      }
+      aside {
+        border-right: 1px solid var(--line);
+        padding: 32px 20px;
+        background: var(--panel);
+      }
+      .nav {
+        margin-top: 18px;
+        display: grid;
+        gap: 6px;
+      }
+      .nav button {
+        display: flex;
+        justify-content: space-between;
+        border: 0;
+        color: var(--muted);
+        background: transparent;
+        padding: 12px;
+        border-radius: 7px;
+        text-align: left;
+        font-size: 13px;
+      }
+      .nav button.active {
+        background: var(--stage);
+        color: var(--accent);
+      }
+      .tree {
+        border-top: 1px solid var(--line);
+        margin-top: 28px;
+        padding-top: 26px;
+        font:
+          12px/2.2 ui-monospace,
+          monospace;
+        color: var(--muted);
+      }
+      .tree summary {
+        cursor: pointer;
+        color: var(--text);
+      }
+      .tree a {
+        display: block;
+        padding-left: 17px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+      .tree a:hover {
+        color: var(--accent);
+      }
+      main {
+        padding: 35px 40px 25px;
+        max-width: 1500px;
+        width: 100%;
+      }
+      .hero {
+        display: flex;
+        align-items: flex-end;
+        justify-content: space-between;
+        margin: 23px 0 28px;
+      }
+      h1 {
+        font-size: 36px;
+        letter-spacing: -1.5px;
+        margin: 0 0 10px;
+        font-weight: 650;
+      }
+      .total {
+        font:
+          12px ui-monospace,
+          monospace;
+        color: var(--accent);
+        white-space: nowrap;
+        padding-bottom: 7px;
+      }
+      .toolbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 15px;
+        margin-bottom: 26px;
+      }
+      .search {
+        width: 340px;
+        max-width: 100%;
+        border: 1px solid var(--line);
+        background: var(--panel);
+        color: var(--text);
+        border-radius: 8px;
+        padding: 11px 14px;
+        font-size: 13px;
+      }
+      .section-head {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0 0 14px;
+      }
+      .section-head h2 {
+        font-size: 17px;
+        letter-spacing: -0.3px;
+        margin: 0;
+        font-weight: 600;
+      }
+      .count {
+        font:
+          11px ui-monospace,
+          monospace;
+        color: var(--muted);
+        margin-left: 9px;
+      }
+      .section-head span:last-child {
+        font:
+          11px ui-monospace,
+          monospace;
+        color: var(--muted);
+      }
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        gap: 12px;
+      }
+      .card {
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 9px;
+        overflow: hidden;
+        box-shadow: var(--shadow);
+      }
+      .card:hover {
+        border-color: var(--muted);
+      }
+      .stage {
+        height: 65px;
+        background: var(--stage);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 10px;
+      }
+      .stage img {
+        max-width: 100%;
+        height: 28px;
+      }
+      .meta {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 5px;
+        padding: 11px 12px;
+      }
+      .filename {
+        font:
+          11px ui-monospace,
+          monospace;
+        color: var(--muted);
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+      .copy {
+        border: 0;
+        color: var(--muted);
+        background: transparent;
+        font:
+          11px ui-monospace,
+          monospace;
+        padding: 3px;
+      }
+      .copy:hover {
+        color: var(--accent);
+      }
+      #snakes {
+        margin-top: 30px;
+      }
+      .snakegrid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 12px;
+      }
+      .snake-stage {
+        height: 165px;
+        display: flex;
+        align-items: center;
+        padding: 15px;
+      }
+      .snake-stage.light {
+        background: #ffffff;
+      }
+      .snake-stage.dark {
+        background: #0d1117;
+      }
+      .snake-stage img {
+        width: 100%;
+        max-height: 100%;
+        object-fit: contain;
+      }
+      .snake-meta {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 13px 14px;
+        gap: 10px;
+      }
+      .error {
+        font-size: 12px;
+        color: #db8f8f;
+      }
+      .toast {
+        position: fixed;
+        bottom: 24px;
+        left: 50%;
+        transform: translateX(-50%);
+        padding: 12px 20px;
+        background: var(--accent);
+        color: var(--bg);
+        border-radius: 9px;
+        box-shadow: var(--shadow);
+        font-size: 13px;
+      }
+      .empty {
+        grid-column: 1/-1;
+        border: 1px dashed var(--line);
+        padding: 28px;
+        text-align: center;
+        color: var(--muted);
+      }
+      [hidden] {
+        display: none !important;
+      }
+      @media (max-width: 1100px) {
+        .grid {
+          grid-template-columns: repeat(3, minmax(0, 1fr));
+        }
+        main {
+          padding: 30px 25px;
+        }
+      }
+      @media (max-width: 760px) {
+        .layout {
+          display: block;
+        }
+        aside {
+          display: none;
+        }
+        header {
+          padding: 0 18px;
+        }
+        .grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+        .snakegrid {
+          grid-template-columns: 1fr;
+        }
+        main {
+          padding: 24px 18px;
+        }
+        .hero {
+          align-items: flex-start;
+          gap: 15px;
+        }
+        h1 {
+          font-size: 28px;
+        }
+        .total {
+          font-size: 11px;
+        }
+        .search {
+          width: 100%;
+        }
+        .toolbar {
+          display: block;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <a class="brand" href="https://github.com/pers0n4/pers0n4"
+        >pers0n4
+        <span style="color: var(--muted); font-weight: 400">/ assets</span></a
+      >
+      <div class="header-actions">
+        <button
+          class="theme"
+          id="theme"
+          type="button"
+          aria-label="Switch theme"
+        >
+          Theme: System
+        </button>
+      </div>
+    </header>
+    <div class="layout">
+      <aside>
+        <nav class="nav" aria-label="Asset filters">
+          <button class="active" data-filter="all">
+            All assets <span id="all-count"></span></button
+          ><button data-filter="badges">
+            Badges <span id="badge-count"></span></button
+          ><button data-filter="snake">
+            Snake <span id="snake-count"></span>
+          </button>
+        </nav>
+        <div class="tree">
+          <details open>
+            <summary>assets/</summary>
+            <details open style="padding-left: 12px">
+              <summary>badges/</summary>
+              <div id="file-links"></div>
+            </details>
+            <details id="snake-tree" open style="padding-left: 12px">
+              <summary>snake/</summary>
+              <div id="snake-links"></div>
+            </details>
+          </details>
+        </div>
+      </aside>
+      <main>
+        <div class="hero">
+          <h1>Assets</h1>
+          <div class="total" id="total"></div>
+        </div>
+        <div class="toolbar">
+          <input
+            class="search"
+            id="search"
+            type="search"
+            aria-label="Search assets"
+            placeholder="Search…"
+          />
+        </div>
+        <section id="badges">
+          <div class="section-head">
+            <h2>Badges <span class="count" id="visible-count"></span></h2>
+          </div>
+          <div class="grid" id="badge-grid"></div>
+        </section>
+        <section id="snakes">
+          <div class="section-head">
+            <h2>Snake <span class="count" id="snake-visible-count"></span></h2>
+          </div>
+          <div class="snakegrid" id="snake-grid"></div>
+        </section>
+      </main>
+    </div>
+    <div class="toast" id="toast" role="status" hidden></div>
+    <script id="asset-catalog" type="application/json">
+      "__ASSET_CATALOG__"
+    </script>
+    <script>
+      const $ = (id) => document.getElementById(id);
+      const { badges, snakes } = JSON.parse($("asset-catalog").textContent);
+      let filter = "all";
+      const root = document.documentElement;
+      const system = matchMedia("(prefers-color-scheme: dark)");
+      let theme = "system";
+      function applyTheme() {
+        root.dataset.theme =
+          theme === "system" ? (system.matches ? "dark" : "light") : theme;
+        $("theme").textContent =
+          "Theme: " + theme[0].toUpperCase() + theme.slice(1);
+      }
+      applyTheme();
+      system.addEventListener("change", applyTheme);
+      $("theme").addEventListener("click", () => {
+        theme =
+          theme === "system" ? "light" : theme === "light" ? "dark" : "system";
+        applyTheme();
+      });
+      function showToast(message) {
+        $("toast").textContent = message;
+        $("toast").hidden = false;
+        clearTimeout(window.toastTimer);
+        window.toastTimer = setTimeout(() => ($("toast").hidden = true), 2600);
+      }
+      async function copy(url) {
+        try {
+          await navigator.clipboard.writeText(url);
+          showToast("URL copied.");
+        } catch {
+          showToast("Clipboard unavailable. Copy the link manually.");
+        }
+      }
+      function markImageError(image) {
+        const message = document.createElement("span");
+        message.className = "error";
+        message.textContent = "Image unavailable.";
+        image.replaceWith(message);
+      }
+      function image(src, alt) {
+        const img = document.createElement("img");
+        img.src = src;
+        img.alt = alt;
+        img.addEventListener("error", () => markImageError(img));
+        return img;
+      }
+      function render() {
+        const query = $("search").value.toLowerCase().trim();
+        const visible = badges.filter((b) =>
+          (b.filename + " " + b.title).toLowerCase().includes(query),
+        );
+        $("badge-grid").replaceChildren();
+        $("badges").hidden = filter === "snake";
+        const visibleSnakes = new Set(
+          snakes
+            .filter((snake) =>
+              (
+                snake.filename +
+                " " +
+                snake.variant +
+                " snake github contribution"
+              )
+                .toLowerCase()
+                .includes(query),
+            )
+            .map((snake) => snake.filename),
+        );
+        $("snakes").hidden = !visibleSnakes.size || filter === "badges";
+        $("snake-visible-count").textContent = String(
+          visibleSnakes.size,
+        ).padStart(2, "0");
+        document.querySelectorAll("#snake-grid .card").forEach((card) => {
+          card.hidden = !visibleSnakes.has(card.dataset.filename);
+        });
+        $("visible-count").textContent = String(visible.length).padStart(
+          2,
+          "0",
+        );
+        for (const b of visible) {
+          const card = document.createElement("article");
+          card.className = "card";
+          const stage = document.createElement("div");
+          stage.className = "stage";
+          stage.append(image(b.preview, b.title));
+          const meta = document.createElement("div");
+          meta.className = "meta";
+          const link = document.createElement("a");
+          link.className = "filename";
+          link.href = b.endpoint;
+          link.textContent = b.filename;
+          link.title = "Open JSON source";
+          const button = document.createElement("button");
+          button.className = "copy";
+          button.type = "button";
+          button.textContent = "Copy ↗";
+          button.setAttribute("aria-label", "Copy " + b.title + " Shields URL");
+          button.addEventListener("click", () => copy(b.shields));
+          meta.append(link, button);
+          card.append(stage, meta);
+          $("badge-grid").append(card);
+        }
+        if (!visible.length) {
+          const empty = document.createElement("div");
+          empty.className = "empty";
+          empty.textContent = "No matching assets.";
+          $("badge-grid").append(empty);
+        }
+      }
+      $("search").addEventListener("input", render);
+      document.querySelectorAll("[data-filter]").forEach((button) =>
+        button.addEventListener("click", () => {
+          filter = button.dataset.filter;
+          document
+            .querySelectorAll("[data-filter]")
+            .forEach((b) => b.classList.toggle("active", b === button));
+          render();
+        }),
+      );
+      for (const b of badges) {
+        const link = document.createElement("a");
+        link.href = b.endpoint;
+        link.textContent = b.filename;
+        $("file-links").append(link);
+      }
+      for (const { filename, url, publicUrl, variant } of snakes) {
+        const fileLink = document.createElement("a");
+        fileLink.href = url;
+        fileLink.textContent = filename;
+        $("snake-links").append(fileLink);
+        const card = document.createElement("article");
+        card.className = "card";
+        card.dataset.filename = filename;
+        const stage = document.createElement("div");
+        stage.className = "snake-stage " + variant;
+        stage.append(image(url, variant + " contribution snake"));
+        const meta = document.createElement("div");
+        meta.className = "snake-meta";
+        const link = document.createElement("a");
+        link.className = "filename";
+        link.href = url;
+        link.textContent = filename;
+        const button = document.createElement("button");
+        button.className = "copy";
+        button.type = "button";
+        button.textContent = "Copy ↗";
+        button.addEventListener("click", () => copy(publicUrl));
+        meta.append(link, button);
+        card.append(stage, meta);
+        $("snake-grid").append(card);
+      }
+      $("badge-count").textContent = String(badges.length).padStart(2, "0");
+      $("snake-count").textContent = String(snakes.length).padStart(2, "0");
+      $("snake-visible-count").textContent = String(snakes.length).padStart(
+        2,
+        "0",
+      );
+      $("snake-tree").hidden = !snakes.length;
+      document.querySelector('[data-filter="snake"]').hidden = !snakes.length;
+      $("all-count").textContent = String(
+        badges.length + snakes.length,
+      ).padStart(2, "0");
+      $("total").textContent = badges.length + snakes.length + " assets";
+      render();
+    </script>
+  </body>
+</html>
