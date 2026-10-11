@@ -1,0 +1,60 @@
+name: Assets
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - scripts/**
+      - package.json
+      - bun.lock
+      - tsconfig.json
+      - .github/workflows/assets.yaml
+  schedule:
+    - cron: "0 15 * * *" # 00:00 KST (UTC+09:00)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: assets-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: 1.4.3
+      - run: bun install --frozen-lockfile
+      - run: bun run check
+      - run: bun run test
+      - name: Generate contribution snake
+        if: github.ref == 'refs/heads/main'
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake/github-snake-light.svg
+            assets/snake/github-snake-dark.svg?palette=github-dark
+      - uses: actions/upload-pages-artifact@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          path: assets
+
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment
