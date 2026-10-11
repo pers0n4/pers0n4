@@ -83,7 +83,7 @@
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C684%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C685%20hrs%2012%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-881%20hrs%2037%20mins-blue?style=flat)
 
@@ -116,29 +116,29 @@ Sunday                   4211 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    36 hrs 1 min        ███████████████████████░░   93.72 % 
-Markdown                 1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-TOML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other                    31 hrs 55 mins      ███████████████████████░░   92.46 % 
+Markdown                 1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+TOML                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Orca                     26 hrs 44 mins      █████████████████░░░░░░░░   69.51 % 
-Linear                   4 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Ghostty                  4 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-VS Code                  1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-Warp                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Orca                     21 hrs 56 mins      ████████████████░░░░░░░░░   63.49 % 
+Ghostty                  6 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+Linear                   3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+VS Code                  1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Warp                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 💻 Operating System: 
-Mac                      38 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      34 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 13 mins (3.19%)
+⏱ AI Coding Time: 1 hr 13 mins (3.56%)
 
-✍️ 0 lines written by AI, 122 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 145 lines written by hand (0.0% AI-written)
 
 🔤 1,929,519 Input Tokens, 47,843 Output Tokens
 
@@ -172,7 +172,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-10T04:02:33 UTC
+ Last Updated on 2026-10-11T03:21:34 UTC
 <!--END_SECTION:waka-->
 
 <!-- markdownlint-enable -->
