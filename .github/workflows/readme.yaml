@@ -1,0 +1,72 @@
+name: README
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 15 * * *" # 00:00 KST (UTC+09:00)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme
+  cancel-in-progress: false
+
+jobs:
+  update:
+    name: Update README with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: 1.4.3
+      - name: Record source revision
+        id: source
+        run: echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+      - name: Generate metrics without publishing
+        id: metrics
+        uses: anmol098/waka-readme-stats@4db28e08bfd8bac570125799fe1cfdcb23a8c871
+        env:
+          DEBUG_RUN: "True"
+          INPUT_GH_USER: ${{ github.repository_owner }}
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: "wakatime"
+          SHOW_TOTAL_CODE_TIME: "false"
+          SHOW_PROJECTS: "false"
+          SHOW_LOC_CHART: "false"
+          SHOW_PROFILE_VIEWS: "false"
+          SHOW_SHORT_INFO: "false"
+          SHOW_LINES_OF_CODE: "true"
+          SHOW_COMMIT: "true"
+          SHOW_DAYS_OF_WEEK: "true"
+          SHOW_TIMEZONE: "true"
+          SHOW_LANGUAGE: "true"
+          SHOW_EDITORS: "true"
+          SHOW_OS: "true"
+          SHOW_LANGUAGE_PER_REPO: "true"
+          SHOW_UPDATED_DATE: "true"
+          UPDATED_DATE_FORMAT: "%Y-%m-%dT%H:%M:%SZ"
+      - name: Publish main snapshot with generated README
+        env:
+          SOURCE_SHA: ${{ steps.source.outputs.sha }}
+          WAKA_OUTPUT: ${{ steps.metrics.outputs.README_CONTENT }}
+        run: |
+          git fetch origin profile
+          git switch -C profile origin/profile
+          git read-tree --reset -u "$SOURCE_SHA"
+          bun scripts/update-profile.ts
+          git add -- README.md
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "docs(profile): update README metrics"
+          git push origin HEAD:profile
