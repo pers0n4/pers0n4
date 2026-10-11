@@ -1,28 +1,54 @@
-# **_Dong-Young Kim_**
-
----
-
+<!-- markdownlint-disable MD041 -->
 <!-- markdownlint-disable MD033 -->
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-stats-extended.vercel.app/api?username=pers0n4&hide_title=true&include_all_commits=true&hide_border=true&show_icons=true&theme=dark_github"
+      />
+      <img
+        width="100%"
+        height="178"
+        alt="GitHub Stats Card"
+        src="https://github-stats-extended.vercel.app/api?username=pers0n4&hide_title=true&include_all_commits=true&hide_border=true&show_icons=true&theme=light_github"
+      />
+    </picture>
+  </a>
+    </td>
+    <td width="50%" align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-stats-extended.vercel.app/api/top-langs?username=pers0n4&hide_title=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=css%2Chtml%2Ctex&theme=dark_github"
+      />
+      <img
+        width="100%"
+        height="178"
+        alt="Top Languages Card"
+        src="https://github-stats-extended.vercel.app/api/top-langs?username=pers0n4&hide_title=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=css%2Chtml%2Ctex&theme=light_github"
+      />
+    </picture>
+  </a>
+    </td>
+  </tr>
+</table>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
-    <img
-      height="178"
-      alt="GitHub Stats Card"
-      src="https://github-readme-stats.vercel.app/api?username=pers0n4&hide_title=true&include_all_commits=true&hide_border=true&show_icons=true&icon_color=00abc0&ring_color=5f4b8b&theme=onedark&text_color=f0eee9"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-    <img
-      height="178"
-      alt="Top Languages Card"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=pers0n4&hide_title=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=css,html,tex&theme=onedark&text_color=f0eee9"
-    />
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      alt="GitHub Profile Trophy"
-      src="https://github-profile-trophy.vercel.app/?username=pers0n4&row=1&no-frame=true&theme=onedark"
-    />
+  <a href="https://github.com/Platane/snk">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://pers0n4.github.io/pers0n4/snake/github-snake-dark.svg"
+      />
+      <img
+        width="100%"
+        alt="GitHub contribution snake animation"
+        src="https://pers0n4.github.io/pers0n4/snake/github-snake-light.svg"
+      />
+    </picture>
   </a>
 </p>
 <!-- markdownlint-enable -->
@@ -34,45 +60,41 @@
 <!-- markdownlint-disable MD033 -->
 <div align="left">
 
-[![Python](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/python)][Python]
-[![TypeScript](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/typescript)][TypeScript]
+[![TypeScript](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/typescript.json)][TypeScript]
+[![Python](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/python.json)][Python]
 
-[![Django](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/django)][Django]
-[![FastAPI](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/fastapi)][FastAPI]
+[![NestJS](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/nestjs.json)][NestJS]
+[![Express](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/express.json)][Express]
 \
-[![NestJS](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/nestjs)][NestJS]
-[![Express](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/express)][Express]
+[![Django](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/django.json)][Django]
+[![FastAPI](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/fastapi.json)][FastAPI]
 
-[![React](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/react)][React]
-[![Next.js](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/next.js)][Next.js]
-[![Vue.js](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/vue.js)][Vue.js]
+[![React](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/react.json)][React]
+[![Next.js](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/next.js.json)][Next.js]
+[![Vue.js](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/vue.js.json)][Vue.js]
+[![Astro](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/astro.json)][Astro]
 
 </div>
 <div align="center">
 
-[![uv](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/uv)][uv]
-[![Poetry](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/poetry)][Poetry]
+[![Node.js](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/node.js.json)][Node.js]
+[![Bun](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/bun.json)][Bun]
 \
-[![Node.js](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/node.js)][Node.js]
-[![Deno](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/deno)][Deno]
-[![Bun](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/bun)][Bun]
-[![pnpm](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/pnpm)][pnpm]
+[![mise](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/mise.json)][mise]
+[![pnpm](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/pnpm.json)][pnpm]
+[![uv](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/uv.json)][uv]
 
-[![PostgreSQL](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/postgresql)][PostgreSQL]
-[![Redis](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/redis)][Redis]
+[![PostgreSQL](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/postgresql.json)][PostgreSQL]
+[![Redis](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/redis.json)][Redis]
 
 </div>
 <div align="right">
 
-[![Docker](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/docker)][Docker]
-[![GitHub Actions](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/githubactions)][GitHub Actions]
+[![Docker](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/docker.json)][Docker]
+[![GitHub Actions](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/githubactions.json)][GitHub Actions]
 
-[![Git](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/git)][Git]
-[![Conventional Commits](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/conventionalcommits)][Conventional Commits]
-[![pre-commit](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/precommit)][pre-commit]
-
-[![Google Cloud](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/googlecloud)][Google Cloud]
-[![Amazon Web Services](https://img.shields.io/endpoint?style=for-the-badge&url=https://badges.deno.dev/amazonwebservices)][Amazon Web Services]
+[![Amazon Web Services](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/amazonwebservices.json)][Amazon Web Services]
+[![Google Cloud](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/googlecloud.json)][Google Cloud]
 
 </div>
 <!-- markdownlint-enable -->
@@ -82,8 +104,8 @@
 <!-- markdownlint-disable MD033 -->
 <!-- prettier-ignore-start -->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:wakatime-->
+<!--END_SECTION:wakatime-->
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
@@ -93,68 +115,42 @@
 
 <!-- MARK: Languages -->
 
-[Python]: https://www.python.org/
 [TypeScript]: https://www.typescriptlang.org/
+[Python]: https://www.python.org/
 
 <!-- MARK: Frameworks & Libraries > Backend -->
 
-[Django]: https://www.djangoproject.com/
-[FastAPI]: https://fastapi.tiangolo.com/
 [NestJS]: https://nestjs.com/
 [Express]: https://expressjs.com/
-<!-- [Fastify]: https://www.fastify.io/ -->
+[Django]: https://www.djangoproject.com/
+[FastAPI]: https://fastapi.tiangolo.com/
 
 <!-- MARK: Frameworks & Libraries > Frontend -->
 
 [React]: https://react.dev/
 [Next.js]: https://nextjs.org/
 [Vue.js]: https://vuejs.org/
-<!-- [Svelte]: https://svelte.dev/ -->
-<!-- [Astro]: https://astro.build/ -->
+[Astro]: https://astro.build/
 
 <!-- MARK: Frameworks & Libraries > Tools -->
 
-[uv]: https://docs.astral.sh/uv/
-[Poetry]: https://python-poetry.org/
 [Node.js]: https://nodejs.org/
-[Deno]: https://deno.com/
 [Bun]: https://bun.sh/
+[mise]: https://mise.jdx.dev/
 [pnpm]: https://pnpm.io/
+[uv]: https://docs.astral.sh/uv/
 
 <!-- MARK: Database -->
 
 [PostgreSQL]: https://www.postgresql.org/
 [Redis]: https://redis.io/
-<!-- [MariaDB]: https://mariadb.org/ -->
-<!-- [MongoDB]: https://www.mongodb.com/ -->
 
 <!-- MARK: DevOps -->
 
 [Docker]: https://www.docker.com/
 [GitHub Actions]: https://docs.github.com/actions
-<!-- [Kubernetes]: https://kubernetes.io/ -->
-
-<!-- MARK: Version Control -->
-
-[Git]: https://git-scm.com/
-[Conventional Commits]: https://conventionalcommits.org
-[pre-commit]: https://pre-commit.com/
 
 <!-- MARK: Cloud -->
 
-[Google Cloud]: https://cloud.google.com/
 [Amazon Web Services]: https://aws.amazon.com/
-<!-- [Netlify]: https://www.netlify.com/ -->
-<!-- [Vercel]: https://vercel.com/ -->
-<!-- [Firebase]: https://firebase.google.com/ -->
-<!-- [Supabase]: https://supabase.com/ -->
-<!-- [Cloudflare]: https://www.cloudflare.com/ -->
-<!-- [Fly.io]: https://fly.io/ -->
-<!-- [DigitalOcean]: https://www.digitalocean.com/ -->
-<!-- [Render]: https://render.com/ -->
-
-<!-- MARK: OS -->
-
-<!-- [Ubuntu]: https://ubuntu.com/ -->
-<!-- [Arch Linux]: https://archlinux.org/ -->
-<!-- [Alpine Linux]: https://alpinelinux.org/ -->
+[Google Cloud]: https://cloud.google.com/
