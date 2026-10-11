@@ -48,6 +48,11 @@ test("mise official SVG and Astro endpoint generation", () => {
     "Invalid official mise logo",
   );
   assert(!Object.hasOwn(mise, "logoColor"), "Invalid mise logo color option");
+  const svgRoot = mise.logoSvg.match(/<svg\b[^>]*>/)?.[0] ?? "";
+  assert(
+    (svgRoot.match(/xmlns=/g) ?? []).length === 1,
+    "Duplicate SVG namespace breaks the embedded mise logo",
+  );
   assert(
     badges.get("astro.json")?.message === "Astro",
     "Missing Astro endpoint",

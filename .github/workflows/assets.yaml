@@ -31,7 +31,9 @@ jobs:
           bun-version: 1.4.3
       - run: bun install --frozen-lockfile
       - run: bun run check
-      - run: bun run test
+      - name: Prepare asset output
+        run: bun run build:prepare
+      - run: bun test scripts/
       - name: Generate contribution snake
         if: github.ref == 'refs/heads/main'
         uses: Platane/snk/svg-only@v3
@@ -40,6 +42,8 @@ jobs:
           outputs: |
             assets/snake/github-snake-light.svg
             assets/snake/github-snake-dark.svg?palette=github-dark
+      - name: Generate asset gallery
+        run: bun run build:gallery
       - uses: actions/upload-pages-artifact@v3
         if: github.ref == 'refs/heads/main'
         with:
