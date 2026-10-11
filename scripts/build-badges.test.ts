@@ -54,11 +54,11 @@ test("every README endpoint matches a generated JSON file", async () => {
   const readme = await Bun.file("README.md").text();
   assert(!readme.includes("badges.deno.dev"), "Obsolete server reference");
   const badges = collectBadges(readme);
-  const files = await readdir("_site/badges");
+  const files = await readdir("assets/badges");
   assert(files.length === badges.size, "Extra or missing generated endpoints");
   for (const [filename, expected] of badges) {
     const actual = JSON.parse(
-      await Bun.file(`_site/badges/${filename}`).text(),
+      await Bun.file(`assets/badges/${filename}`).text(),
     );
     assert(
       JSON.stringify(actual) === JSON.stringify(expected),

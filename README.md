@@ -4,25 +4,58 @@
 
 <!-- markdownlint-disable MD033 -->
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
-    <img
-      height="178"
-      alt="GitHub Stats Card"
-      src="https://github-readme-stats.vercel.app/api?username=pers0n4&hide_title=true&include_all_commits=true&hide_border=true&show_icons=true&icon_color=00abc0&ring_color=5f4b8b&theme=onedark&text_color=f0eee9"
-    />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-stats-extended.vercel.app/api?username=pers0n4&hide_title=true&include_all_commits=true&hide_border=true&show_icons=true&icon_color=00abc0&ring_color=5f4b8b&theme=dark_github"
+      />
+      <img
+        height="178"
+        alt="GitHub Stats Card"
+        src="https://github-stats-extended.vercel.app/api?username=pers0n4&hide_title=true&include_all_commits=true&hide_border=true&show_icons=true&icon_color=00abc0&ring_color=5f4b8b&theme=light_github"
+      />
+    </picture>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-    <img
-      height="178"
-      alt="Top Languages Card"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=pers0n4&hide_title=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=css,html,tex&theme=onedark&text_color=f0eee9"
-    />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-stats-extended.vercel.app/api/top-langs?username=pers0n4&hide_title=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=css,html,tex&theme=dark_github"
+      />
+      <img
+        height="178"
+        alt="Top Languages Card"
+        src="https://github-stats-extended.vercel.app/api/top-langs?username=pers0n4&hide_title=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=css,html,tex&theme=light_github"
+      />
+    </picture>
   </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      alt="GitHub Profile Trophy"
-      src="https://github-profile-trophy.vercel.app/?username=pers0n4&row=1&no-frame=true&theme=onedark"
-    />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://streak-stats.demolab.com/?user=pers0n4&theme=onedark&hide_border=true"
+      />
+      <img
+        alt="GitHub Streak Stats"
+        src="https://streak-stats.demolab.com/?user=pers0n4&theme=default&hide_border=true"
+      />
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Platane/snk">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://pers0n4.github.io/pers0n4/snake/github-snake-dark.svg"
+      />
+      <img
+        width="100%"
+        alt="GitHub contribution snake animation"
+        src="https://pers0n4.github.io/pers0n4/snake/github-snake-light.svg"
+      />
+    </picture>
   </a>
 </p>
 <!-- markdownlint-enable -->
@@ -92,12 +125,12 @@
 🌞 Morning                10152 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
 🌆 Daytime                36430 commits       ████████████░░░░░░░░░░░░░   49.06 % 
 🌃 Evening                22302 commits       ████████░░░░░░░░░░░░░░░░░   30.03 % 
-🌙 Night                  5377 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+🌙 Night                  5372 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   12959 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Monday                   12954 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
 Tuesday                  14045 commits       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
 Wednesday                15140 commits       █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
 Thursday                 12907 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
@@ -113,29 +146,29 @@ Sunday                   4235 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    31 hrs 32 mins      ███████████████████████░░   92.38 % 
-Markdown                 1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-TOML                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other                    33 hrs 26 mins      ███████████████████████░░   91.68 % 
+Markdown                 1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+TOML                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+YAML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+AsciiDoc                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🔥 Editors: 
-Orca                     21 hrs 39 mins      ████████████████░░░░░░░░░   63.38 % 
-Ghostty                  6 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Linear                   3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-VS Code                  1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Warp                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Orca                     21 hrs 58 mins      ███████████████░░░░░░░░░░   60.20 % 
+Ghostty                  7 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+Linear                   3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+VS Code                  2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Zed                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 💻 Operating System: 
-Mac                      34 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      36 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 13 mins (3.59%)
+⏱ AI Coding Time: 1 hr 13 mins (3.37%)
 
-✍️ 0 lines written by AI, 145 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 166 lines written by hand (0.0% AI-written)
 
 🔤 1,929,519 Input Tokens, 47,843 Output Tokens
 
@@ -169,7 +202,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-11T16:48:42Z UTC
+ Last Updated on 2026-10-11T17:18:27Z UTC
 <!--END_SECTION:waka-->
 
 <!-- markdownlint-enable -->

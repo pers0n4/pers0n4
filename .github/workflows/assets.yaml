@@ -1,4 +1,4 @@
-name: Deploy static badges
+name: Assets
 
 on:
   push:
@@ -9,22 +9,16 @@ on:
       - package.json
       - bun.lock
       - tsconfig.json
-      - .github/workflows/badges.yaml
-  pull_request:
-    paths:
-      - README.md
-      - scripts/**
-      - package.json
-      - bun.lock
-      - tsconfig.json
-      - .github/workflows/badges.yaml
+      - .github/workflows/assets.yaml
+  schedule:
+    - cron: "0 15 * * *" # 00:00 KST (UTC+09:00)
   workflow_dispatch:
 
 permissions:
   contents: read
 
 concurrency:
-  group: badges-${{ github.ref }}
+  group: assets-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -38,13 +32,21 @@ jobs:
       - run: bun install --frozen-lockfile
       - run: bun run check
       - run: bun run test
-      - uses: actions/upload-pages-artifact@v3
-        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+      - name: Generate contribution snake
+        if: github.ref == 'refs/heads/main'
+        uses: Platane/snk/svg-only@v3
         with:
-          path: _site
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake/github-snake-light.svg
+            assets/snake/github-snake-dark.svg?palette=github-dark
+      - uses: actions/upload-pages-artifact@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          path: assets
 
   deploy:
-    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    if: github.ref == 'refs/heads/main'
     needs: build
     runs-on: ubuntu-latest
     permissions:

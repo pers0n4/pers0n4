@@ -6,8 +6,8 @@
   "scripts": {
     "build": "bun scripts/build-badges.ts",
     "test": "bun run build && bun test scripts/",
-    "check": "tsc --noEmit && prettier --check scripts package.json tsconfig.json .github/workflows/badges.yaml .github/workflows/waka-readme.yaml",
-    "format": "prettier --write scripts package.json tsconfig.json .github/workflows/badges.yaml .github/workflows/waka-readme.yaml"
+    "check": "tsc --noEmit && prettier --check scripts package.json tsconfig.json .github/workflows/assets.yaml .github/workflows/readme.yaml",
+    "format": "prettier --write scripts package.json tsconfig.json .github/workflows/assets.yaml .github/workflows/readme.yaml"
   },
   "dependencies": {
     "simple-icons": "14.3.0"

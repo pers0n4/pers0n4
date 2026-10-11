@@ -62,12 +62,12 @@ export function collectBadges(readme: string): Map<string, Badge> {
 if (import.meta.main) {
   const badges = collectBadges(await Bun.file("README.md").text());
   // Remove obsolete generated endpoints before creating the Pages artifact.
-  await rm("_site", { recursive: true, force: true });
-  await mkdir("_site/badges", { recursive: true });
-  await Bun.write("_site/.nojekyll", "");
+  await rm("assets", { recursive: true, force: true });
+  await mkdir("assets/badges", { recursive: true });
+  await Bun.write("assets/.nojekyll", "");
   for (const [filename, badge] of badges) {
     await Bun.write(
-      `_site/badges/${filename}`,
+      `assets/badges/${filename}`,
       JSON.stringify(badge, null, 2) + "\n",
     );
   }
