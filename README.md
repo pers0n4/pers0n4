@@ -1,48 +1,5 @@
-# **_Dong-Young Kim_**
-
----
-
+<!-- markdownlint-disable MD041 -->
 <!-- markdownlint-disable MD033 -->
-<p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-stats-extended.vercel.app/api?username=pers0n4&hide_title=true&include_all_commits=true&hide_border=true&show_icons=true&icon_color=00abc0&ring_color=5f4b8b&theme=dark_github"
-      />
-      <img
-        height="178"
-        alt="GitHub Stats Card"
-        src="https://github-stats-extended.vercel.app/api?username=pers0n4&hide_title=true&include_all_commits=true&hide_border=true&show_icons=true&icon_color=00abc0&ring_color=5f4b8b&theme=light_github"
-      />
-    </picture>
-  </a>
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-stats-extended.vercel.app/api/top-langs?username=pers0n4&hide_title=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=css,html,tex&theme=dark_github"
-      />
-      <img
-        height="178"
-        alt="Top Languages Card"
-        src="https://github-stats-extended.vercel.app/api/top-langs?username=pers0n4&hide_title=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=css,html,tex&theme=light_github"
-      />
-    </picture>
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://streak-stats.demolab.com/?user=pers0n4&theme=onedark&hide_border=true"
-      />
-      <img
-        alt="GitHub Streak Stats"
-        src="https://streak-stats.demolab.com/?user=pers0n4&theme=default&hide_border=true"
-      />
-    </picture>
-  </a>
-</p>
 <p align="center">
   <a href="https://github.com/Platane/snk">
     <picture>
@@ -58,6 +15,42 @@
     </picture>
   </a>
 </p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-stats-extended.vercel.app/api?username=pers0n4&hide_title=true&include_all_commits=true&hide_border=true&show_icons=true&theme=dark_github"
+      />
+      <img
+        width="100%"
+        height="178"
+        alt="GitHub Stats Card"
+        src="https://github-stats-extended.vercel.app/api?username=pers0n4&hide_title=true&include_all_commits=true&hide_border=true&show_icons=true&theme=light_github"
+      />
+    </picture>
+  </a>
+    </td>
+    <td width="50%" align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-stats-extended.vercel.app/api/top-langs?username=pers0n4&hide_title=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=css,html,tex&theme=dark_github"
+      />
+      <img
+        width="100%"
+        height="178"
+        alt="Top Languages Card"
+        src="https://github-stats-extended.vercel.app/api/top-langs?username=pers0n4&hide_title=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=css,html,tex&theme=light_github"
+      />
+    </picture>
+  </a>
+    </td>
+  </tr>
+</table>
 <!-- markdownlint-enable -->
 
 ---
@@ -79,14 +72,15 @@
 [![React](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/react.json)][React]
 [![Next.js](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/next.js.json)][Next.js]
 [![Vue.js](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/vue.js.json)][Vue.js]
+[![Astro](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/astro.json)][Astro]
 
 </div>
 <div align="center">
 
 [![Node.js](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/node.js.json)][Node.js]
-[![Deno](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/deno.json)][Deno]
 [![Bun](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/bun.json)][Bun]
 \
+[![mise](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/mise.json)][mise]
 [![pnpm](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/pnpm.json)][pnpm]
 [![uv](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/uv.json)][uv]
 
@@ -99,12 +93,8 @@
 [![Docker](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/docker.json)][Docker]
 [![GitHub Actions](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/githubactions.json)][GitHub Actions]
 
-[![Git](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/git.json)][Git]
-[![Conventional Commits](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/conventionalcommits.json)][Conventional Commits]
-[![pre-commit](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/precommit.json)][pre-commit]
-
-[![Google Cloud](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/googlecloud.json)][Google Cloud]
 [![Amazon Web Services](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/amazonwebservices.json)][Amazon Web Services]
+[![Google Cloud](https://img.shields.io/endpoint?style=for-the-badge&url=https://pers0n4.github.io/pers0n4/badges/googlecloud.json)][Google Cloud]
 
 </div>
 <!-- markdownlint-enable -->
@@ -117,26 +107,26 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-881%20hrs%2037%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.47%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.13%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                10152 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-🌆 Daytime                36430 commits       ████████████░░░░░░░░░░░░░   49.06 % 
-🌃 Evening                22302 commits       ████████░░░░░░░░░░░░░░░░░   30.03 % 
-🌙 Night                  5372 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+🌞 Morning                4097 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+🌆 Daytime                14612 commits       █████████████░░░░░░░░░░░░   52.46 % 
+🌃 Evening                8422 commits        ████████░░░░░░░░░░░░░░░░░   30.23 % 
+🌙 Night                  725 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   12954 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Tuesday                  14045 commits       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Wednesday                15140 commits       █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-Thursday                 12907 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-Friday                   12282 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Saturday                 2693 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Sunday                   4235 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Monday                   4991 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Tuesday                  5548 commits        █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Wednesday                6211 commits        ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Thursday                 4988 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+Friday                   4526 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Saturday                 522 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Sunday                   1070 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 ```
 
 
@@ -202,7 +192,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-11T17:18:27Z UTC
+ Last Updated on 2026-10-11T17:37:30Z UTC
 <!--END_SECTION:waka-->
 
 <!-- markdownlint-enable -->
@@ -213,72 +203,42 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 <!-- MARK: Languages -->
 
-[Python]: https://www.python.org/
 [TypeScript]: https://www.typescriptlang.org/
+[Python]: https://www.python.org/
 
 <!-- MARK: Frameworks & Libraries > Backend -->
 
-[Django]: https://www.djangoproject.com/
-[FastAPI]: https://fastapi.tiangolo.com/
 [NestJS]: https://nestjs.com/
 [Express]: https://expressjs.com/
-
-<!-- [Fastify]: https://www.fastify.io/ -->
+[Django]: https://www.djangoproject.com/
+[FastAPI]: https://fastapi.tiangolo.com/
 
 <!-- MARK: Frameworks & Libraries > Frontend -->
 
 [React]: https://react.dev/
 [Next.js]: https://nextjs.org/
 [Vue.js]: https://vuejs.org/
-
-<!-- [Svelte]: https://svelte.dev/ -->
-<!-- [Astro]: https://astro.build/ -->
+[Astro]: https://astro.build/
 
 <!-- MARK: Frameworks & Libraries > Tools -->
 
-[uv]: https://docs.astral.sh/uv/
 [Node.js]: https://nodejs.org/
-[Deno]: https://deno.com/
 [Bun]: https://bun.sh/
+[mise]: https://mise.jdx.dev/
 [pnpm]: https://pnpm.io/
+[uv]: https://docs.astral.sh/uv/
 
 <!-- MARK: Database -->
 
 [PostgreSQL]: https://www.postgresql.org/
 [Redis]: https://redis.io/
 
-<!-- [MariaDB]: https://mariadb.org/ -->
-<!-- [MongoDB]: https://www.mongodb.com/ -->
-
 <!-- MARK: DevOps -->
 
 [Docker]: https://www.docker.com/
 [GitHub Actions]: https://docs.github.com/actions
 
-<!-- [Kubernetes]: https://kubernetes.io/ -->
-
-<!-- MARK: Version Control -->
-
-[Git]: https://git-scm.com/
-[Conventional Commits]: https://conventionalcommits.org
-[pre-commit]: https://pre-commit.com/
-
 <!-- MARK: Cloud -->
 
-[Google Cloud]: https://cloud.google.com/
 [Amazon Web Services]: https://aws.amazon.com/
-
-<!-- [Netlify]: https://www.netlify.com/ -->
-<!-- [Vercel]: https://vercel.com/ -->
-<!-- [Firebase]: https://firebase.google.com/ -->
-<!-- [Supabase]: https://supabase.com/ -->
-<!-- [Cloudflare]: https://www.cloudflare.com/ -->
-<!-- [Fly.io]: https://fly.io/ -->
-<!-- [DigitalOcean]: https://www.digitalocean.com/ -->
-<!-- [Render]: https://render.com/ -->
-
-<!-- MARK: OS -->
-
-<!-- [Ubuntu]: https://ubuntu.com/ -->
-<!-- [Arch Linux]: https://archlinux.org/ -->
-<!-- [Alpine Linux]: https://alpinelinux.org/ -->
+[Google Cloud]: https://cloud.google.com/

@@ -11,6 +11,10 @@ function endpoint(filename: string): string {
 test("brand-colored SVG and contrasting backgrounds", () => {
   const python = createBadge(siPython);
   assert(python.logoSvg.includes('fill="#3776AB"'), "Missing brand SVG fill");
+  assert(
+    !Object.hasOwn(python, "logoColor"),
+    "Custom SVG endpoints must not include named-logo color options",
+  );
   assert(python.message === "Python", "Missing icon title");
   assert(
     python.labelColor === "rgba(245, 245, 245, 0.87)",
@@ -30,6 +34,23 @@ test("deduplication and dotted technology names", () => {
   assert(
     badges.get("node.js.json")?.message === "Node.js",
     "Dotted slug lookup",
+  );
+});
+
+test("mise official SVG and Astro endpoint generation", () => {
+  const badges = collectBadges(endpoint("mise.json") + endpoint("astro.json"));
+  const mise = badges.get("mise.json");
+  assert(mise?.message === "mise", "Missing mise endpoint");
+  assert(
+    mise.logoSvg.includes('xmlns="http://www.w3.org/2000/svg"') &&
+      mise.logoSvg.includes('viewBox="43 37 215 226"') &&
+      mise.logoSvg.includes("<path"),
+    "Invalid official mise logo",
+  );
+  assert(!Object.hasOwn(mise, "logoColor"), "Invalid mise logo color option");
+  assert(
+    badges.get("astro.json")?.message === "Astro",
+    "Missing Astro endpoint",
   );
 });
 

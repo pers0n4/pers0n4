@@ -10,11 +10,11 @@ permissions:
   contents: write
 
 concurrency:
-  group: update-profile
+  group: readme
   cancel-in-progress: false
 
 jobs:
-  update-readme:
+  update:
     name: Update README with Metrics
     runs-on: ubuntu-latest
     steps:
@@ -58,7 +58,7 @@ jobs:
           WAKA_OUTPUT: ${{ steps.metrics.outputs.README_CONTENT }}
         run: |
           git fetch origin profile
-          git checkout -B profile origin/profile
+          git switch -C profile origin/profile
           git read-tree --reset -u "$SOURCE_SHA"
           bun scripts/update-profile.ts
           git add -- README.md
@@ -67,5 +67,5 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore(profile): update generated profile from main"
+          git commit -m "docs(profile): update README metrics"
           git push origin HEAD:profile

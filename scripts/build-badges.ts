@@ -1,8 +1,20 @@
 import { mkdir, rm } from "node:fs/promises";
+import { readFileSync } from "node:fs";
 import * as icons from "simple-icons";
 import type { SimpleIcon } from "simple-icons";
 
 export const endpointBase = "https://pers0n4.github.io/pers0n4/badges/";
+
+// Official logo: https://github.com/jdx/mise/blob/main/docs/public/logo.svg
+const miseIcon = {
+  slug: "mise",
+  title: "mise",
+  hex: "000000",
+  svg: readFileSync(
+    new URL("./icons/mise.svg", import.meta.url),
+    "utf8",
+  ).replace("<svg ", '<svg xmlns="http://www.w3.org/2000/svg" '),
+};
 
 export interface Badge {
   schemaVersion: 1;
@@ -11,11 +23,12 @@ export interface Badge {
   color: string;
   labelColor: string;
   logoSvg: string;
-  logoColor: string;
   style: "for-the-badge";
 }
 
-export function createBadge(icon: SimpleIcon): Badge {
+export function createBadge(
+  icon: Pick<SimpleIcon, "title" | "hex" | "svg">,
+): Badge {
   const rgb = [0, 2, 4].map((offset) =>
     parseInt(icon.hex.slice(offset, offset + 2), 16),
   );
@@ -30,7 +43,6 @@ export function createBadge(icon: SimpleIcon): Badge {
     color: icon.hex,
     labelColor,
     logoSvg: icon.svg.replace("<svg ", `<svg fill="#${icon.hex}" `),
-    logoColor: icon.hex,
     style: "for-the-badge",
   };
 }
@@ -49,9 +61,12 @@ export function collectBadges(readme: string): Map<string, Badge> {
       throw new Error(`Invalid badge filename: ${filename}`);
     }
     const slug = filename.slice(0, -5).replaceAll(".", "dot");
-    const icon = Object.values(icons).find(
-      (icon): icon is SimpleIcon => "slug" in icon && icon.slug === slug,
-    );
+    const icon =
+      slug === miseIcon.slug
+        ? miseIcon
+        : Object.values(icons).find(
+            (icon): icon is SimpleIcon => "slug" in icon && icon.slug === slug,
+          );
     if (!icon) throw new Error(`Unknown Simple Icons slug: ${slug}`);
     badges.set(filename, createBadge(icon));
   }
