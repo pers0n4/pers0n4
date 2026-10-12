@@ -1,4 +1,6 @@
 name: Assets
+run-name: >-
+  ${{ github.event_name == 'schedule' && 'Assets · Scheduled' || format('Assets · {0} · {1}', github.event_name == 'push' && 'Push' || 'Manual', github.ref_name) }}
 
 on:
   push:
@@ -23,18 +25,24 @@ concurrency:
 
 jobs:
   build:
+    name: Build assets
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: oven-sh/setup-bun@v2
+      - name: Check out source
+        uses: actions/checkout@v4
+      - name: Set up Bun
+        uses: oven-sh/setup-bun@v2
         with:
           bun-version: 1.4.3
-      - run: bun install --frozen-lockfile
-      - run: bun run check
-      - name: Prepare asset output
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+      - name: Check types and formatting
+        run: bun run check
+      - name: Generate badges
         run: bun run build:prepare
-      - run: bun test scripts/
-      - name: Generate contribution snake
+      - name: Run tests
+        run: bun test scripts/
+      - name: Generate contribution snakes
         if: github.ref == 'refs/heads/main'
         uses: Platane/snk/svg-only@v3
         with:
@@ -42,14 +50,16 @@ jobs:
           outputs: |
             assets/snake/github-snake-light.svg
             assets/snake/github-snake-dark.svg?palette=github-dark
-      - name: Generate asset gallery
+      - name: Build gallery
         run: bun run build:gallery
-      - uses: actions/upload-pages-artifact@v3
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
         if: github.ref == 'refs/heads/main'
         with:
           path: assets
 
   deploy:
+    name: Deploy to Pages
     if: github.ref == 'refs/heads/main'
     needs: build
     runs-on: ubuntu-latest
@@ -60,5 +70,6 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/deploy-pages@v4
+      - name: Deploy to Pages
+        uses: actions/deploy-pages@v4
         id: deployment

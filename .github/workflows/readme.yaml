@@ -1,4 +1,6 @@
 name: README
+run-name: >-
+  ${{ github.event_name == 'schedule' && 'README · Scheduled' || format('README · {0} · {1}', github.event_name == 'push' && 'Push' || 'Manual', github.ref_name) }}
 on:
   push:
     branches: [main]
@@ -15,20 +17,22 @@ concurrency:
 
 jobs:
   update:
-    name: Update README with Metrics
+    name: Update profile
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Check out source
+        uses: actions/checkout@v4
         with:
           ref: main
           fetch-depth: 0
-      - uses: oven-sh/setup-bun@v2
+      - name: Set up Bun
+        uses: oven-sh/setup-bun@v2
         with:
           bun-version: 1.4.3
       - name: Record source revision
         id: source
         run: echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
-      - name: Generate metrics without publishing
+      - name: Generate coding metrics
         id: metrics
         uses: anmol098/waka-readme-stats@4db28e08bfd8bac570125799fe1cfdcb23a8c871
         env:
@@ -53,7 +57,7 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "true"
           SHOW_UPDATED_DATE: "true"
           UPDATED_DATE_FORMAT: "%Y-%m-%dT%H:%M:%SZ"
-      - name: Publish main snapshot with generated README
+      - name: Publish profile
         env:
           SOURCE_SHA: ${{ steps.source.outputs.sha }}
           WAKA_OUTPUT: ${{ steps.metrics.outputs.README_CONTENT }}
