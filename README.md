@@ -105,28 +105,28 @@
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:wakatime-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-881%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-881%20hrs%2039%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40.69%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35.15%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                12795 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-🌆 Daytime                45968 commits       ████████████░░░░░░░░░░░░░   49.80 % 
-🌃 Evening                27759 commits       ████████░░░░░░░░░░░░░░░░░   30.07 % 
-🌙 Night                  5792 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+🌞 Morning                11034 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+🌆 Daytime                40099 commits       ████████████░░░░░░░░░░░░░   49.45 % 
+🌃 Evening                24446 commits       ████████░░░░░░░░░░░░░░░░░   30.15 % 
+🌙 Night                  5512 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   16363 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Tuesday                  17911 commits       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Wednesday                19031 commits       █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-Thursday                 16463 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Friday                   14840 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Saturday                 2959 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Sunday                   4747 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Monday                   14368 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Tuesday                  15774 commits       █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+Wednesday                16421 commits       █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Thursday                 14384 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Friday                   13017 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Saturday                 2754 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Sunday                   4373 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 ```
 
 
@@ -136,35 +136,35 @@ Sunday                   4747 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    33 hrs 26 mins      ███████████████████████░░   91.68 % 
-Markdown                 1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-TOML                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-YAML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-AsciiDoc                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Other                    42 hrs 25 mins      ███████████████████████░░   92.19 % 
+Markdown                 1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+TOML                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+YAML                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+AsciiDoc                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-Orca                     21 hrs 58 mins      ███████████████░░░░░░░░░░   60.20 % 
-Ghostty                  7 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-Linear                   3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-VS Code                  2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-Zed                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Orca                     26 hrs 42 mins      ██████████████░░░░░░░░░░░   57.98 % 
+Ghostty                  11 hrs 32 mins      ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+Linear                   4 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+VS Code                  2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Zed                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 💻 Operating System: 
-Mac                      36 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      46 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 13 mins (3.37%)
+⏱ AI Coding Time: 1 hr 15 mins (2.74%)
 
-✍️ 0 lines written by AI, 166 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 305 lines written by hand (0.0% AI-written)
 
 🔤 1,929,519 Input Tokens, 47,843 Output Tokens
 
 💵 $87.76 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 8 AI Prompts
+🧠 8 AI Sessions, 11 AI Prompts
 
 Opus                     338 lines           █████████████████████████   98.54 % 
 Codex-Vscode             5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
@@ -174,8 +174,8 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 1,624 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 1,474 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -192,7 +192,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-12T23:04:37Z UTC
+ Last Updated on 2026-10-13T21:11:09Z UTC
 <!--END_SECTION:wakatime-->
 
 <!-- markdownlint-enable -->
