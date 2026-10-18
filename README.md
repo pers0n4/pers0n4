@@ -136,29 +136,29 @@ Sunday                   4821 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    46 hrs 54 mins      ██████████████████████░░░   87.73 % 
-Markdown                 2 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-YAML                     1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-JavaScript               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-AsciiDoc                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Other                    51 hrs 42 mins      ██████████████████████░░░   88.17 % 
+Markdown                 3 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+YAML                     1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+JavaScript               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+AsciiDoc                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-Orca                     29 hrs 12 mins      ██████████████░░░░░░░░░░░   54.61 % 
-Ghostty                  14 hrs 8 mins       ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-VS Code                  3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Linear                   2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Codex Vscode             2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Orca                     30 hrs 21 mins      █████████████░░░░░░░░░░░░   51.74 % 
+Ghostty                  17 hrs 32 mins      ███████░░░░░░░░░░░░░░░░░░   29.88 % 
+VS Code                  3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Linear                   2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Codex Vscode             2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 💻 Operating System: 
-Mac                      53 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      58 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 4 mins (9.5%)
+⏱ AI Coding Time: 5 hrs 4 mins (8.66%)
 
-✍️ 2,374 lines written by AI, 853 lines written by hand (73.57% AI-written)
+✍️ 2,374 lines written by AI, 913 lines written by hand (72.22% AI-written)
 
 🔤 7,731,085 Input Tokens, 768,764 Output Tokens
 
@@ -172,10 +172,10 @@ Codex-Vscode             5 lines             ░░░░░░░░░░░�
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 73.57% of written lines came from AI
+🤖 AI-Driven — 72.22% of written lines came from AI
 📚 Verbose Prompter — average 1,698 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 39.41% of changed lines were hand-edited
+🚀 High AI Trust — 40.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -191,7 +191,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-17T18:14:41Z UTC
+ Last Updated on 2026-10-18T18:25:31Z UTC
 <!--END_SECTION:wakatime-->
 
 <!-- markdownlint-enable -->
