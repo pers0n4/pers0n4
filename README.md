@@ -105,24 +105,94 @@
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:wakatime-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-888%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-889%20hrs%2017%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.38%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45.55%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                14325 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+🌆 Daytime                50881 commits       ████████████░░░░░░░░░░░░░   49.72 % 
+🌃 Evening                30955 commits       ████████░░░░░░░░░░░░░░░░░   30.25 % 
+🌙 Night                  6173 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   17847 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Tuesday                  20044 commits       █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+Wednesday                20920 commits       █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+Thursday                 18460 commits       █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Friday                   16797 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Saturday                 3202 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Sunday                   5064 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Other                    39 hrs 14 mins      ██████████████████████░░░   88.36 % 
+Markdown                 3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+YAML                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+JavaScript               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+
+🔥 Editors: 
+Orca                     22 hrs 5 mins       ████████████░░░░░░░░░░░░░   49.73 % 
+Ghostty                  12 hrs 18 mins      ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+Codex Vscode             2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Claude Code              2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Linear                   2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+
+💻 Operating System: 
+Mac                      44 hrs 24 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 40 mins (17.26%)
+
+✍️ 2,374 lines written by AI, 592 lines written by hand (80.04% AI-written)
+
+🔤 14,684,263 Input Tokens, 1,766,418 Output Tokens
+
+💵 $255.33 Estimated AI Cost This Week
+
+🧠 249 AI Sessions, 711 AI Prompts
+
+GPT                      1,892 lines         ████████████████████░░░░░   79.50 % 
+Opus                     488 lines           █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 80.04% of written lines came from AI
+📚 Verbose Prompter — average 10,443 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 27.48% of changed lines were hand-edited
+```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               34 repos            ████████░░░░░░░░░░░░░░░░░   31.78 % 
-Python                   23 repos            █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-Java                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Rust                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+TypeScript               34 repos            ████████░░░░░░░░░░░░░░░░░   31.48 % 
+Python                   23 repos            █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+Java                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Rust                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 
 
 
 
- Last Updated on 2026-10-20T19:37:24Z UTC
+ Last Updated on 2026-10-21T20:00:54Z UTC
 <!--END_SECTION:wakatime-->
 
 <!-- markdownlint-enable -->
