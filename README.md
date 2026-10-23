@@ -105,28 +105,28 @@
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:wakatime-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-891%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-894%20hrs%2021%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.56%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.03%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                12032 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-🌆 Daytime                43624 commits       ████████████░░░░░░░░░░░░░   49.62 % 
-🌃 Evening                26575 commits       ████████░░░░░░░░░░░░░░░░░   30.23 % 
-🌙 Night                  5689 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+🌞 Morning                7933 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+🌆 Daytime                29570 commits       ████████████░░░░░░░░░░░░░   48.52 % 
+🌃 Evening                18444 commits       ████████░░░░░░░░░░░░░░░░░   30.26 % 
+🌙 Night                  4996 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   15494 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Tuesday                  17182 commits       █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-Wednesday                17883 commits       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-Thursday                 15828 commits       ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-Friday                   14080 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Saturday                 2887 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Sunday                   4566 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Monday                   10686 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Tuesday                  11765 commits       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Wednesday                11662 commits       █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Thursday                 11159 commits       █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+Friday                   9629 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Saturday                 2381 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Sunday                   3661 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 ```
 
 
@@ -136,47 +136,47 @@ Sunday                   4566 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    37 hrs 5 mins       ██████████████████████░░░   88.29 % 
-Markdown                 2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-YAML                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-JavaScript               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Other                    36 hrs 40 mins      ██████████████████████░░░   89.53 % 
+Markdown                 2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+JavaScript               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Python                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-Orca                     18 hrs 58 mins      ███████████░░░░░░░░░░░░░░   45.16 % 
-Ghostty                  11 hrs 58 mins      ███████░░░░░░░░░░░░░░░░░░   28.50 % 
-Claude Code              4 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Codex Vscode             2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Linear                   1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Orca                     16 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   41.12 % 
+Ghostty                  12 hrs 10 mins      ███████░░░░░░░░░░░░░░░░░░   29.74 % 
+Claude Code              6 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Codex Vscode             2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+VS Code                  1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 💻 Operating System: 
-Mac                      42 hrs              █████████████████████████   100.00 % 
+Mac                      40 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 59 mins (23.8%)
+⏱ AI Coding Time: 11 hrs 36 mins (28.35%)
 
-✍️ 2,374 lines written by AI, 533 lines written by hand (81.66% AI-written)
+✍️ 1,891 lines written by AI, 536 lines written by hand (77.92% AI-written)
 
-🔤 19,162,492 Input Tokens, 2,450,121 Output Tokens
+🔤 22,343,514 Input Tokens, 2,720,901 Output Tokens
 
-💵 $328.42 Estimated AI Cost This Week
+💵 $367.12 Estimated AI Cost This Week
 
-🧠 273 AI Sessions, 1009 AI Prompts
+🧠 270 AI Sessions, 1143 AI Prompts
 
-GPT                      1,892 lines         ████████████████████░░░░░   79.50 % 
-Opus                     488 lines           █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+GPT                      1,892 lines         █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.66% of written lines came from AI
-📚 Verbose Prompter — average 11,069 characters per prompt
+🤖 AI-Driven — 77.92% of written lines came from AI
+📚 Verbose Prompter — average 11,286 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 24.73% of changed lines were hand-edited
+🚀 High AI Trust — 29.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -192,7 +192,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-22T19:47:01Z UTC
+ Last Updated on 2026-10-23T19:25:25Z UTC
 <!--END_SECTION:wakatime-->
 
 <!-- markdownlint-enable -->
