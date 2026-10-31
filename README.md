@@ -136,35 +136,35 @@ Sunday                   3661 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    37 hrs 7 mins       ████████████████████████░   94.85 % 
-YAML                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-TOML                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-Markdown                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Other                    34 hrs 33 mins      ████████████████████████░   94.22 % 
+TOML                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-Orca                     16 hrs 48 mins      ███████████░░░░░░░░░░░░░░   42.94 % 
-Ghostty                  12 hrs 28 mins      ████████░░░░░░░░░░░░░░░░░   31.86 % 
-Claude Code              5 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-VS Code                  2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Linear                   55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Ghostty                  14 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   39.58 % 
+Orca                     13 hrs 13 mins      █████████░░░░░░░░░░░░░░░░   36.06 % 
+Claude Code              4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+VS Code                  2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Linear                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 💻 Operating System: 
-Mac                      39 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      36 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 28 mins (16.53%)
+⏱ AI Coding Time: 5 hrs 13 mins (14.26%)
 
-✍️ 0 lines written by AI, 280 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 263 lines written by hand (0.0% AI-written)
 
-🔤 19,471,831 Input Tokens, 2,331,661 Output Tokens
+🔤 16,665,857 Input Tokens, 1,933,599 Output Tokens
 
-💵 $251.91 Estimated AI Cost This Week
+💵 $218.16 Estimated AI Cost This Week
 
-🧠 197 AI Sessions, 931 AI Prompts
+🧠 173 AI Sessions, 769 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -173,8 +173,8 @@ GPT                      0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 19,843 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 21,107 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -191,7 +191,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-30T20:27:51Z UTC
+ Last Updated on 2026-10-31T19:36:31Z UTC
 <!--END_SECTION:wakatime-->
 
 <!-- markdownlint-enable -->
