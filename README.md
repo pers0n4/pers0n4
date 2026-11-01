@@ -107,23 +107,23 @@
 <!--START_SECTION:wakatime-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-900%20hrs%2045%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.51%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.52%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                8326 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+🌞 Morning                8328 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
 🌆 Daytime                31019 commits       ████████████░░░░░░░░░░░░░   48.73 % 
-🌃 Evening                19269 commits       ████████░░░░░░░░░░░░░░░░░   30.27 % 
-🌙 Night                  5038 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+🌃 Evening                19274 commits       ████████░░░░░░░░░░░░░░░░░   30.28 % 
+🌙 Night                  5039 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   11182 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Tuesday                  12421 commits       █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-Wednesday                11862 commits       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Thursday                 12468 commits       █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+Tuesday                  12424 commits       █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Wednesday                11865 commits       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Thursday                 12470 commits       █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
 Friday                   9677 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
 Saturday                 2381 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 Sunday                   3661 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
@@ -136,29 +136,29 @@ Sunday                   3661 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    34 hrs 33 mins      ████████████████████████░   94.22 % 
-TOML                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Other                    35 hrs 42 mins      ███████████████████████░░   92.76 % 
+TOML                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-Ghostty                  14 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   39.58 % 
-Orca                     13 hrs 13 mins      █████████░░░░░░░░░░░░░░░░   36.06 % 
-Claude Code              4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-VS Code                  2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Linear                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Ghostty                  15 hrs 20 mins      ██████████░░░░░░░░░░░░░░░   39.87 % 
+Orca                     13 hrs 31 mins      █████████░░░░░░░░░░░░░░░░   35.13 % 
+Claude Code              4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+VS Code                  3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Linear                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 💻 Operating System: 
-Mac                      36 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      38 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 13 mins (14.26%)
+⏱ AI Coding Time: 5 hrs 13 mins (13.59%)
 
-✍️ 0 lines written by AI, 263 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 366 lines written by hand (0.0% AI-written)
 
 🔤 16,665,857 Input Tokens, 1,933,599 Output Tokens
 
@@ -191,7 +191,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-31T19:36:31Z UTC
+ Last Updated on 2026-11-01T19:58:25Z UTC
 <!--END_SECTION:wakatime-->
 
 <!-- markdownlint-enable -->
